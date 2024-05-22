@@ -1,0 +1,100 @@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+ã
+é
+ò
+õ
+ŋ
+ũ
+ɔ
+ɛ
+ɪ
+ẽ
+
+
+
+i tried to run: create_masks(batch[0], batch[1])
+
+on 
+
+NEG_INFTY = -1e9
+
+def create_masks(eng_batch, dg_batch, max_sequence_length):
+    num_sentences = len(eng_batch)
+    look_ahead_mask = torch.triu(torch.ones(max_sequence_length, max_sequence_length), diagonal=1).bool()
+    encoder_padding_mask = torch.full((num_sentences, max_sequence_length, max_sequence_length), False, dtype=torch.bool)
+    decoder_padding_mask_self_attention = torch.full((num_sentences, max_sequence_length, max_sequence_length), False, dtype=torch.bool)
+    decoder_padding_mask_cross_attention = torch.full((num_sentences, max_sequence_length, max_sequence_length), False, dtype=torch.bool)
+
+    for idx in range(num_sentences):
+        eng_sentence_length, dg_sentence_length = len(eng_batch[idx]), len(dg_batch[idx])
+        eng_chars_to_padding_mask = torch.arange(eng_sentence_length, max_sequence_length)
+        dg_chars_to_padding_mask = torch.arange(dg_sentence_length, max_sequence_length)
+        encoder_padding_mask[idx, :, eng_chars_to_padding_mask] = True
+        encoder_padding_mask[idx, eng_chars_to_padding_mask, :] = True
+        decoder_padding_mask_self_attention[idx, :, dg_chars_to_padding_mask] = True
+        decoder_padding_mask_self_attention[idx, dg_chars_to_padding_mask, :] = True
+        decoder_padding_mask_cross_attention[idx, :, eng_chars_to_padding_mask] = True
+        decoder_padding_mask_cross_attention[idx, dg_chars_to_padding_mask, :] = True
+
+    encoder_self_attention_mask = torch.where(encoder_padding_mask, NEG_INFTY, 0)
+    decoder_self_attention_mask = torch.where(look_ahead_mask | decoder_padding_mask_self_attention, NEG_INFTY, 0)
+    decoder_cross_attention_mask = torch.where(decoder_padding_mask_cross_attention, NEG_INFTY, 0)
+
+    print(f"encoder_self_attention_mask {encoder_self_attention_mask.size()}: {encoder_self_attention_mask[0, :10, :10]}")
+    print(f"decoder_self_attention_mask {decoder_self_attention_mask.size()}: {decoder_self_attention_mask[0, :10, :10]}")
+    print(f"decoder_cross_attention_mask {decoder_cross_attention_mask.size()}: {decoder_cross_attention_mask[0, :10, :10]}")
+
+    return encoder_self_attention_mask, decoder_self_attention_mask, decoder_cross_attention_mask
+
+    but didnt work

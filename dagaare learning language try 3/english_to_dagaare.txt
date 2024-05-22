@@ -1,0 +1,2951 @@
+A a	B b	D d	E e	Ɛ ɛ	F f	G g	H h	I i		
+a	ba	da	e	ɛ	fa	ga	ha	i		
+[a]	[b]	[d]	[e~ɪ]	[ɛ]	[f]	[g]	[h]	[i]		
+J j	K k	L l	M m	N n	O o	Ɔ ɔ	P p	R r		
+ja	ka	la	ma	na	o	ɔ	pa	ra		
+[ɟ]	[k]	[l]	[m]	[n]	[o~ʊ]	[ɔ]	[p]	[r]		
+S s	T t	U u	V v	W w	Y y	Z z				
+sa	ta	u	va	wa	ya	za				
+[s]	[t]	[u]	[v]	[w]	[j]	[z]				
+										
+gb	gy	kp	ky	ng	ngm	ny				
+[gb]	[ɟ]	[kp]	[c]	[ŋ]	[ŋm]	[ɲ]				
+
+
+
+n mengɛ (tɔr) ('myself')	maa mengɛ ('me, myself')
+fo mengɛ (tɔr) ('yourself')	foo mengɛ ('you, yourself')
+o mengɛ (tɔr) ('him-/herself')	onɔ mengɛ ('s/he, him-/herself')
+te menne (tɔr) ('ourselves')	tenee menne ('we, ourselves')
+yɛ menne (tɔr) ('yourselves')	yɛnee menne ('you, yourselves')
+ba menne (tɔr) ('themselves')	bana menne ('they, themselves')
+a menne (tɔr) ('themselves', non-human)	ana menne ('they, themselves', non-human)
+/N Proverbs/Idioms Source Text Version in English
+Receptor Language Text
+Version in Dagaare with
+Gloss
+1. An eye for an eye and
+tooth for a tooth
+Mtt. 5:38: An eye
+for eye, a tooth for
+a tooth.
+Nimirinayɔɔ la nimiri sane,
+kanyene, meŋ na yɔɔ la nyenee
+sane.
+Eye Fut. Pay Fact. Eye debt
+Conj. tooth also Fut. Pay Fact.
+Tooth debt.
+2. To go the extra mile Mtt. 5:41: Go the
+extra mile
+…vɛŋ ka fo gaa mɛɛle ayi ne o
+…let that you go mile two Conj
+3rd Pers. Sing.
+Dansieh, S.A./Proverbs and naturalness in mother-tongue translation
+Page 116 Legon Journal of the Humanities Vol. 30.1 (2019)
+3. To wash one’s hands off a
+matter
+Mtt. 27:24 Wash
+your hands of the
+matter
+…ka o de koɔ a neba niŋe eŋe a
+pɛge o nuuri…
+Conj. he take water Def. people
+eye on Conj. wash 3rd Pers. Sing.
+hand+pl.
+4. To cast pearls before
+swine
+Mtt. 7: 6 To give
+dogs what is holy.
+Ta ko bare boŋ naŋ e bonsoŋ,
+bee lɔɔ yɛ lɛpɛl-veɛlaa eŋ dobaare poɔ.
+Imp.Neg.givedog+Pl.thing
+which be thing-good Conj.
+throw Your pearl+beautiful put
+pig-Pl. inside.
+5. To cast the first stone/
+People who live in glass
+houses must not throw
+stones.
+Jn. 8:7: Cast the
+first stone
+A soba na zaa naŋ ba taa yelbieri a yɛpoɔ, yɛ vɛŋ ka o de weɛ
+de kuurii za neŋ a pɔgo
+Def. fellow Spec. all that Neg.
+have deed+badYou+Pl. let him
+take lead take stone throw Prep.
+Def. woman
+6. In/By the twinkling of
+an eye
+I Cor. 15:50-52 In
+the twinkling of an
+eye
+…a nimiri zaŋnoo poɔ…
+… Def. eye blinking inside
+7. To fall from grace to grass Gal. 5:4: Fall from
+grace
+…yɛ le la yi a nɔndeteroo sobiri
+poɔ
+… You-Pl. fall Fact. From Def.
+mouth-take-give road inside
+8. Do not muzzle out the ox
+that treads the grain.
+I Cor. 9:9; I Tim
+5:18 Do not muzzle
+out the ox that
+treads out the
+grain.
+…ta le a nakuoraa na noɔre naŋ
+nɛbrɛ a bombie.
+Neg. tie Def. cow-farmer mouth
+that stepping-on Def grain.
+9. Bad company ruins good
+morals
+I Cor. 15: 33 Bad
+company ruins
+good morals.
+Tutaafaare maŋ saaŋ la eveɛle.
+Follow-fellow bad Hab. Spoil
+Spec. Deed+good
+10. If the blind leadthe blind,
+both will fall in a pit
+Mtt.15:14 Ka zɔŋ wa tagra zɔŋ, ba zaa
+bayi na laŋ le la a bɔg poɔ.
+Cond.Blind-person+Emph.
+Pull+Prog. Blind-person they all
+two Fut. together fall Def. ditch
+inside.
+11. No city or house divided
+against itself will stand
+Mtt 12:25 Yiri na zaa naŋ poŋ kyaare ne o
+meŋɛ koŋ toɔ are.
+House/Town Spec. all that divide towards with 3rd Pers. Sing
+Pron. Fut. Neg. be-able stand.
+Dansieh, S.A./Legon Journal of the Humanities Vol. 30.1 (2019)
+Legon Journal of the Humanities Vol. 30.1 (2019) Page 117
+12. The Son of man Mtt 8:20; Lk 9:58 Nensaala Bidɔɔ Person+weak
+child+male (Dɔɔ bie/ninsaalaa
+bie)
+13. Signs of the times A baroo saŋ mannoo (Nyalaanyiili)
+Def. ending time illustration.
+14. The eleventh hour Mtt 20:6-8 Zimanee gogori anuu saŋ
+(Saŋparaa puoriŋ, meaning too
+late) Evening bell+Pl. 5 period.
+15. Den of thieves Mtt 21:13; Mk 11:17;
+Lk 19:46
+Nanyigiri die(Nanyigi baa)
+Thieves+Pl room
+16. Sounding your trumpet Mtt 6:2 Peɛle eelɛ (fara bara) BlowProg. Horn+Pl.
+17. All who take the sword
+will perish by the sword.
+Mtt. 26:52 Balaŋ naŋ voɔ a soɔ na bɔre wɛ
+la a soɔ eŋɛ
+They-who that pull-out Def.
+knife Fut. Get-lost waste Perf.
+Def. knife on
+18. The stone that the builders rejected, has become
+the cornerstone.
+Mtt 21:42 A kuuri na mɛmeɛrebɛ naŋ zagre, waa la a goŋgonaa zukuuri
+Def. stone which Def.
+build+builders Perf. reject be
+Fact. Def. bend-bend head
+stone.
+19. Straight and narrow. Mtt.7:14 Kyɛ a sobiri naŋ gɛrɛ a Nyɔvore
+zie ne a be dendɔree la bile
+20. No man seweth a piece
+of new cloth on an old
+garment.
+Mk2:21 Neɛ bamaŋ de pɛmpaala a liiri
+ne kparekora.
+Person Neg. Hab. Take newcloth Prep. Sew-on with dressold.
+21. Good Samaritan Lk 10:30-37 Samaria Dɔɔvelaa (Nensoŋbie)
+Samaria Man-good
+22. Breathed His last/He
+gave up the ghost
+Lk 23:46 Voore O vooroŋ pare baara.
+Breathe 3rd Pers. Sing. source
+ending
+23. Eat, drink and be merry Lk 12:19 Dire, nyuuro, a nyɛrɛ popeɛloŋ
+Eat+Prog. Drin+Prog. Conj.
+See+Prog. Stomach-white (Dire,
+nyuuro, a kuolo)
+24. See the light Lk 11:33 Nyɛrɛ a kyaane
+See+Prog. Def. light (Possible
+interpretation of the neg. being
+stupid)
+Dansieh, S.A./Proverbs and naturalness in mother-tongue translation
+Page 118 Legon Journal of the Humanities Vol. 30.1 (2019)
+25. Not lose heart Lk 18:1 Ta bale
+Imp. Neg. Be+tired (poɔ saaŋ/
+eŋa kyoɔre) may be better
+sometimes
+26. Divided we fall Lk 11:17 Yiri kaŋa zaa naŋ poŋ kyaare
+ne o meŋɛ na le la
+House any all that divide+Perf.
+towards Prep. 3rd Pers. Sing. self
+Fut. Fall Emph.
+(Dankyiniŋ maŋ wɛre ka nane
+zo kpɛ te pa)
+27. A cross you have to bear Lk 14:27 Tuo dagara
+Carry wood+cross
+28. Don’t judge by appearances
+Jn 7:24: 2 Cor 10:7 Kaara lɛ nensaala naŋ waa kyɛ
+dire o sarɛɛ
+Watch how weak-person Emph.
+Be Conj. Eat+Prog. 3rd Pers.
+Sing. judgment
+29. Cast the first stone. Jn. 8:7 A soba na naŋ ba taa yelbieri
+zaa a yɛ poɔ, yɛ vɛŋ ka o de weɛ
+de kuurii za...
+Def. fellow Emph. that Neg.
+have deed-bad any Def. 2nd Pers.
+Pl. inside 2ndPers. Pl. allow that
+3rd Pers. Sing. take lead take
+stone throw.
+30. Circumcision of the heart Rom 2:29 Yɔ-ŋmaabo e la sukyiri bone.
+Penis-cutting Pres.+Be Spec.
+heart knowing.
+31. Risk your neck Rom 16:4 De fo nyɔvore ko
+Take 2nd Pers. Sing. give.
+(De zu biŋ ka ba ŋmaa)
+32. Twinkling of an eye I Cor 15:50-52 A nimiri zaŋbo poɔ
+Def. eye blink inside.
+33. A thorn in the flesh 2 Cor 12:7 Goɔ da kyɔge ma la
+Thorn prick me Perf. (Saŋkpaŋ-malee)Too literal
+34. Fall from grace Gal. 5:4 Ye le la yi a nɔndeteroo sobiri
+poɔ
+2nd-Pers-Pl. fall Perf. from Def.
+mouth-take-give road inside.
+35. Whatever one sows, that
+will he reap
+Gal 6:7. Bon na neɛ naŋ bore, onɔ la
+ka o na kyɛ (Neɛ zaa waseɛroŋ
+maŋ o nuore).
+Thing that person Emph. Sow
+that Spec. that 3rd-Pers.-Sing.-
+cut
+Dansieh, S.A./Legon Journal of the Humanities Vol. 30.1 (2019)
+Legon Journal of the Humanities Vol. 30.1 (2019) Page 119
+36. The love of money is a
+root of all kinds of evil.
+I Tim. 6:10 Bonso libie nɔmmo la a yelfaa
+eroŋ yaga piilu zie.
+What-cause money love be Def.
+matter-bad deed plenty beginning place.
+37. Does a spring pour forth
+from the same opening
+both fresh and salt water?…Can a fig tree bear
+olives, or a grapevine
+produce figs?
+James 3:11,12 Kŏɔnoɔ ane kŏɔtuo natŏɔ bullo
+yire la ziyenaa bee? N yɔɔ mine,
+kaŋkaŋteɛ na tŏɔ wɔŋ la *ɔleve
+wɔmɔ bee? Ora na tŏɔ wɔŋ la
+kaŋkama?
+Water+sweet Conj. Water+bitter can germinate come+out+-
+from Def. place+one Qn. Marker
+My younger+siblings fig+tree
+can bear+fruit Spec. olive fruits
+Qn. Marker Yellow berry Fut.
+Be+able bear fig Qn.
+38. Wallowing in the mire 2 Peter 2:22a Bille mɛmɛrɛ poɔ
+Roll-over+Prog. Mud inside.
+39. The dog returns to his
+own vomit
+2 Peter 2:22b Baa maŋ leɛ di la o meŋɛ tiiri.
+Dog Hab. Turn-back eat Emph.
+3rd Pers. Sing. self vomit
+40. God speed 2 Jn 1:11 Tuori
+Meet
+41. Lukewarm Rev 3:16a Ba waa maaroŋ bee toloŋ
+ Neg. be cold Conj. hot
+42. Spit out of Rev. 3:16b Poore bare
+Spew throw-away
+(Poore/Toore bare, usually after
+uttering a curse)
+Dansieh, S.A./Proverbs and naturalness in mother-tongue translation
+Page 120 Legon Journal of the Humanities Vol. 30.1 (2019)
+The 42 proverbs compiled were then subjected to analysis in the
+receptor language (RL) to assess the extent of their naturalness by checking
+(X) in the appropriate column on the scale: Natural –Near Natural – Less
+Natural. The results are presented in Table 2.
+Table 2: Extent of naturalness of identified proverbs translated into Dagaare
+S/N Source
+Text Version in
+English
+RL Version Degree of
+Naturalness:
+1.Natural
+Degree of
+Naturalness:
+2. Near
+Natural
+Degree of
+Naturalness:
+3. Less
+Natural
+1. Mtt. 5:38
+An Eye for
+an eye, and
+a tooth for a
+tooth.
+Nimiri na yɔɔ la
+nimiri sane, ka
+nyene, meŋ na yɔɔ
+la nyenee sane.
+Eye Fut. Pay-for
+Fact. eye debt
+Conj. tooth Fut.
+pay-for tooth debt
+X
+2. Mtt. 5:41
+…go with
+him two
+(i.e. To go
+the extra
+mile)
+…vɛŋ ka fo gaa
+mɛɛle ayi ne o
+Let-that 2nd Pers.-
+Sing. go mile two
+with him
+X
+3. Mtt 27:24
+...washed
+his hands of
+the matter
+…ka o de koɔ…a
+pɛge o nuuri…
+Conj. 2nd-Pers.-
+Sing. take water
+Conj. wash 2ndPers.-Sing. hand
+X
+4. Mtt 7: 6
+Do not give
+dogs what
+is holy (=To
+cast pearls
+before
+swine KJV)
+Ta ko bare boŋ
+naŋ e bonsoŋ, bee
+lɔɔ yɛ lɛpɛl-veɛlaa
+eŋ dobaare poɔ.
+Imp.+Neg. takegive thing that
+be thing-good
+pig+dog-Pl. inside
+X
+Dansieh, S.A./Legon Journal of the Humanities Vol. 30.1 (2019)
+Legon Journal of the Humanities Vol. 30.1 (2019) Page 121
+5. Jn. 8:7
+Be the first
+to throw a
+stone at.
+A soba na zaa naŋ
+ba taa yelbieri a
+yɛ poɔ, yɛ vɛŋ ka
+o de weɛ de kuurii
+zaneŋ a pɔgo
+Take lead take
+stone throw
+X
+6. I Cor 15:50-
+52; Eph
+6:12
+In the twinkling of an
+eye
+… a nimiri zaŋnoo
+poɔ…
+Def. eye blinking
+inside
+X
+7. Gal. 5:4
+Fallen away
+from grace.
+(To fall
+from grace)
+… yɛ le la yi a
+nɔndeteroo sobiri
+poɔ.
+2nd-Pers.-Pl. fall
+Fact. from road
+inside
+X
+8. I Cor 9:9 I
+Tim 5:18
+You shall
+not muzzle
+out an ox
+when it
+treads out
+the grain.
+…ta le a nakuoraa
+na noɔre naŋ
+nɛbrɛ a bombie.
+Imp.-Neg. tie
+cow-farmer Comp.
+stepping-on
+things-seed
+X
+9. I Cor 15: 33
+Bad
+company
+ruins good
+morals.
+Tutaafaare maŋ
+saaŋ la eveɛle.
+Following+one-another+bad Hab.
+Spoil Fact deedsgood
+X
+10. 2 Peter 2:22
+The dog returns to its
+own vomit.
+Baa maŋ leɛ di la o
+meŋɛ tiiri
+Dog Hab. turn eat
+3rd Pers. Sing. own
+vomit
+X
+Dansieh, S.A./Proverbs and naturalness in mother-tongue translation
+Page 122 Legon Journal of the Humanities Vol. 30.1 (2019)
+11. Mtt.15:13-
+14
+The blind
+leading the
+blind.
+Ka zɔŋ wa ta
+-
+gra zɔŋ, ba zaa
+bayi na laŋ le
+la a b
+ɔg po
+ɔ.
+Cond.Blind-per
+-
+son+Emph.
+Pull+Prog.
+Blind-person they
+all two Fut. togeth
+-
+er fall Def. ditch
+inside.
+X
+12. Mtt 12:25
+A house
+divided
+against
+itself
+Yiri na zaa naŋ
+poŋ kyaare ne o
+meŋ
+ɛ koŋ to
+ɔ are.
+(Dankyiniŋ maŋ wɛre ka nane zo
+kp
+ɛte pa
+)
+House/Town Spec.
+all that divide
+towards with 3rd
+Pers. Sing Pron.
+Fut. Neg. be-able
+stand.
+X
+13. Mtt 8:20;
+Lk 9:58
+The Son of
+man
+Nensaala Bidɔɔ
+Person+weak
+child+male (
+Dɔɔ
+bie/ninsaalaa bie)
+X
+14. Mtt. 10:6
+Signs of the
+times
+A baroosaŋ man
+-
+noo Def. ending+
+-
+time illustration.
+X
+15. Mtt 20:6-8
+The elev
+-
+enth hour
+Zimanee gogori
+anuu saŋ
+(Saŋparaa puoriŋ)
+Evening bell+Pl. 5
+period.
+X
+16. Mtt 21:13;
+Mk 11:17;
+Lk 19:46
+Den of
+thieves
+Nanyigiri
+die(Nanyigi baa)
+Thieves+Pl room
+X
+Dansieh, S.A./Legon Journal of the Humanities Vol. 30.1 (2019)
+Legon Journal of the Humanities Vol. 30.1 (2019) Page 123
+17. Mtt 6:2
+Sounding
+your trumpet
+Peɛle eelɛ (fara
+bara) Blow-Prog.
+Horn+Pl.
+X
+18. Mtt. 26:52
+He who
+lives by
+the sword
+dies by the
+sword.
+Balaŋ naŋ voɔ a
+soɔ na bɔrewɛ la
+a soɔ eŋɛ Theywho that pull-out
+Def. knife Fut.
+Get+lost+waste
+Perf. Def. knife on
+X
+19. Mtt 21:42
+The stone
+which the
+builders
+rejected,
+the same
+became the
+head of the
+corner.
+A kuuri na
+mɛmeɛrebɛ naŋ
+zagre, waa la a
+goŋgonaazukuuri
+Def. stone which
+Def. build+builders Perf. reject
+be Fact. Def.
+bend-Redup. head
+stone.
+X
+20. Mtt.7:14
+Straight and
+narrow.
+Kyɛ a sobiri naŋ
+gɛrɛ a Nyɔvore zie
+ne a be dendɔre e
+la bile.
+X
+21. Mk2:21
+No man
+seweth a
+piece of
+new cloth
+on an old
+garment.
+Neɛ ba maŋ de
+pɛmpaala a liiri ne
+kparekora.
+Person Neg. Hab.
+Take new-cloth
+Prep. Sew-on with
+dress-old.
+X
+22. Lk 10:30-37
+Good Samaritan
+Samaria Dɔɔvelaa
+(Nensoŋ bie)
+Samaria Man-good
+X
+Dansieh, S.A./Proverbs and naturalness in mother-tongue translation
+Page 124 Legon Journal of the Humanities Vol. 30.1 (2019)
+23. Lk 23:46
+He gave up
+the ghost
+Voore O vooroŋ
+pare baara.
+Breathe 3rd Pers.
+Sing. source ending
+(Oŋ daaŋ ŋmaa
+vooroŋ/ Oŋ daaŋ
+kpi) Possible
+cultural misinterpretation of
+“give up the ghost”
+=:seɛ yi (meaning
+one’s soul leaving
+the body and can
+be brought back
+through rituals).
+X
+24. Lk 12:19
+Eat, drink
+and be
+merry
+Dire, nyuuro, a
+nyɛrɛ popeɛloŋ
+Eat+Prog.
+Drin+Prog. Conj.
+See+Prog. Stomach-white (Dire,
+nyuuro, a kuolo)
+X
+25. Lk 11:33
+See the light
+Nyɛrɛ a kyaane
+See+Prog. Def.
+light (Possible
+interpretation of
+the Neg. will mean
+‘to be stupid’)
+X
+26. Lk 18:1
+Not lose
+heart
+Ta bale
+Imp. Neg. Be+tired
+(ta vɛŋ ka poɔ
+saaŋ/eŋa kyoɔre,
+literally: Imp. Neg.
+let (your) stomach spoil/body
+be weak) may be
+better.
+X
+Dansieh, S.A./Legon Journal of the Humanities Vol. 30.1 (2019)
+Legon Journal of the Humanities Vol. 30.1 (2019) Page 125
+27. Lk 11:17
+Divided we
+fall
+Yirikangzaanang
+pong kyaare ne o
+mengena le la
+House any all
+that divide+Perf
+towards Prep. 3rd
+Pers. Sing. self Fut.
+Fall Emph.
+X
+28. Lk 14:27
+A cross you
+have to bear
+Tuo dagara
+Carry wood+cross
+X
+29. Jn 7:24: 2
+Cor 10:7
+Don’t judge
+by appearances
+Kaara lɛ nensaala
+naŋ waa kyɛ dire
+o sarɛɛ Watch
+how weak-person
+Emph. Be Conj.
+Eat+Prog. 3rd Pers.
+Sing. judgement
+X
+30. Jn. 8:7
+Cast the
+first stone.
+A soba na naŋ ba
+taa yelbieri zaa a
+yɛ poɔ, yɛ vɛŋ ka
+o de weɛ de kuurii
+za...
+Def. fellow Emph
+that Neg. have
+deed-bad any Def.
+2nd Pers. Pl. inside
+2ndPers. Pl. allow
+that 3rd Pers. Sing.
+take lead take
+stone throw.
+X
+31. Rom 2:29
+Circumcision of the
+heart
+Yɔ-ŋmaabo e la
+sukyiri bone.
+Penis-cutting
+Pres.+Be Spec.
+heart knowing.
+X
+Dansieh, S.A./Proverbs and naturalness in mother-tongue translation
+Page 126 Legon Journal of the Humanities Vol. 30.1 (2019)
+32. Rom 16:4
+Risk your
+neck
+De fo ny
+ɔvore ko
+Take 2nd Pers. Sing.
+Nose+living give.
+(De zu bi
+ŋ ka ba
+ŋmaa Take head
+put+down Comp.
+they cut)
+X
+33. I Cor 15:50-
+52
+Twinkling
+of an eye
+A nimiri zaŋbo po
+ɔ
+Def. eye blink
+inside.
+X
+34. 2 Cor 12:7
+A thorn in
+the flesh
+Go
+ɔ da ky
+ɔge ma
+la Thorn Past prick
+me Perf.
+X
+35. Gal. 5:4
+Fall from
+grace
+Ye le la yi a n
+ɔnde
+-
+teroo sobiri po
+ɔ
+2nd-Pers-Pl. fall
+Perf. from Def.
+mouth-take-give
+road inside.
+X
+36. Gal 6:7
+Whatsoev
+-
+er a man
+soweth, that
+shall he also
+reap.
+Bon na ne
+ɛ naŋ
+bore, on
+ɔ la ka o
+meŋ na ky
+ɛ (Ne
+ɛ
+zaa wase
+ɛroo ma
+ŋ
+so
+ɔ o no
+ɔre).
+Thing Spec. person
+Emph. Sow Comp.
+Spec. Fut. 3rd
+-
+Pers.-Sing. cut
+X
+37. I Tim. 6:10
+The love of
+money is
+the root of
+all evil.
+Bonso libie n
+ɔmmo
+la a yelfaa eroŋ
+yaga piilu zie.
+What-cause mon
+-
+ey love be Def.
+matter-bad deed
+plenty beginning
+place.
+X
+Dansieh, S.A./Legon Journal of the Humanities Vol. 30.1 (2019)
+Legon Journal of the Humanities Vol. 30.1 (2019) Page 127
+38. James
+3:11,12
+Does a
+fountain
+send forth
+at the same
+place sweet
+water and
+bitter…Can
+a fig tree
+bear olive
+beries?
+Kŏɔnoɔ ane kŏɔtuo
+na tŏɔ bullo yire la
+ziyenaa bee? N yɔɔ
+mine, kaŋkaŋteɛ
+natŏɔ wɔŋ la
+*ɔlevewɔmɔ bee?
+Ora na t ŏ ɔ wɔŋ la
+kaŋkama?
+Sweet-water Conj.
+Be-able spring
+coming-from
+place-one Qn.
+Marker. My brothers, fig+tree be
+able bear olivet+-
+fruit Qn. Marker.
+Yellow-berry can
+bear fig?
+X
+39. 2 Peter
+2:22a
+Wallowing
+in the mire.
+ Bille mɛmɛrɛ poɔ
+Roll-over+Prog.
+Mud inside.
+X
+40. 2 Jn 1:11
+God speed
+Tuori
+Meet
+X
+41. Rev 3:16a
+Lukewarm
+Ba waa maaroŋ
+bee toloŋ
+Neg. be cold Conj.
+hot
+X
+42. Rev. 3:16b
+Spew out
+Poore bare
+Spew throw-away
+
+Num.	Base 1	Gloss	Base 2	Gloss	Compound	Gloss 
+1.		Bónè 	Thing 	lááné	worthless	Bón-lááné 	A worthless thing
+2.		Bónè	Thing 	léé	small	Bón- léé	A small thing
+3.		Bónè  	Thing 	páálà	new	Bón-páálà	 New things
+4.		Bónè  	Thing 	mááróng	wet	Bón-mááróng	A wet thing
+5.		Bèbír 	Day 	sóng	good	Bèbí-sóng	Good day
+6.		nóɔ́rè 	Mouth 	fáá	bad	nɔ́-fáá	rudeness
+7.		nóɔ́rè 	Mouth 	nòɔ́	sweet	nɔ́-nòɔ́	convincing
+8.		dɔ́ɔ́ 	Man 	léé	small 	dɔ̀ɔ̀-léé	Small boy
+9.		néɛ̀ 	Person 	fáá	bad	Néng-fáá	Bad person
+10.		Bìé 	Child 	fáá	bad	Bì-fáá	 Bad child
+11.		Pììrí 	Rock 	fáá	bad	Pì-fáá	Bad rock
+12.		Kùùrí 	Hoe 	fáá	bad	Kù-fáá	Bad hoe
+13.		góɔ̀ 	Thorn 	fáá	bad	Gó↑-fáá	Bad thorn
+14.		Póɔ̀ 	Stomach 	fáá	bad	Pò-fáá	Wickedness
+15.		nʊ́ɔ́rɪ̀ 	Mouth 	fáá	bad	nɔ́!-fáá	Bad mouth
+16.		Dòbáá 	Pig 	faa	bad	Dòbà-fáá	Bad pig
+17.		gbɛ́rɪ̀ 	Leg 	fáá	bad	gbɛ́-!fáá	ill luck
+18.		Báá 	Dog 	léé	small	Bà-léé	puppy
+19.		Bàá 	River 	kpóǹg	big	Bà-kpóǹg	Large river
+20.		Báá 	Dog 	zèlé	tongue	Bà-zèlé	The tongue of a dog
+21.		Bèbírì 	Day 	tɔ̀ɔ̀ré	far	Bèbí-tɔ̀ɔ̀ré	A distant date
+22.		bɛ́ngɛ̀ 	Beans 	kórɔ́	old	bɛ́ng-kórɔ́	Old beans
+23.		Bìé 	Child 	sòńg	good	Bì-sòńg	A good child
+24.		Bóɔ́ 	Goat 	léé 	small	Bò-léé	Little goat
+25.		Bóndìríì 	Food 	káráá	raw	bóndì-káráá	Raw food
+26.		Bónè 	Thing 	fáá	bad	Bón-fáá	a bad thing
+27.		Bónè 	Thing 	fẽ́e͂́	small	Bón-fẽ́e͂́	a small 
+28.		Bónè 	Thing 	kyɛ́léé	half	Bón-kyɛ́léé	A half thing
+29.		Bónè 	Thing 	nòɔ̀	sweet	Bón-nòɔ̀	A sweet thing
+30.		Bónè 	Thing 	sààlàá	smooth	Bón-sààlàá	A smooth thing
+31.		Bónè 	Thing 	sààlóng	slippery	Bón-sààlóng	a slippery thing
+32.		Bónè 	Thing 	sáánà	strange	Bón-sáánà	A strange thing
+33.		Bónè 	Thing 	vèláà	good	Bón-vèláà	A good thing
+34.		Bónè 	Thing 	zèɛ̀	red 	Bón-zèɛ̀	A red thing
+35.		Bónè 	Thing 	kṹṹ	dead	Bón-kṹṹ	a dead thing
+36.		Dã́ã̀ 	Drink 	zèɛ̀	white	Dã́ã̀- zèɛ̀	
+37.		Dàá 	Stick 	léé	small	Dà-léé	A dry twig
+38.		éngɛ́	Body 	túò	bitter 	Én-túò	laziness
+39.		gbɛ́rɪ̀ 	Leg 	vèlàá	good	gbɛ́-vèlàá	Goodluck 
+40.		kṍɔ͂́ 	Water 	sóng	good	kɔ̀n-sóng	Holy water
+41.		Lìbírì 	Money 	pèláá	white 	Lìbí-pèláá	cowry
+42.		Mǎ	Mother 	bílé	small	Mà-bílé	Maternal aunt
+43.		Néɛ̀ 	Person 	pááláá	new	Néng-pááláá	A new person
+44.		Néɛ̀ 	Person 	pèláà	white	Néng-pèláà	a white person
+45.		Néɛ̀ 	Person 	fàà	bad	Nén-fàà	A bad person
+46.		Néɛ̀ 	Person 	lááné	worthless	Nén-lááné	a worthless person
+47.		Néɛ̀ 	Person 	sóng	good	Nén-sóng	a good person
+48.		Néɛ̀ 	Person 	sɔ́gláá	black	Nén-sɔ́gláá	a black person
+49.		Nóɔ́rè 	Mouth 	làng	together	nɔ́-làng	unity
+50.		Núbìŕ 	Finger 	léé	small	Nú-bìléé	Little finger
+51.		Núbìrì 	Finger 	wóg̀	long	Núbi-wóg̀	long-fingered-ness (thief)
+52.		Póɔ̀	Stomach 	vèláà	good	Pò-vèláá	sincere
+53.		Súúrí 	Anger 	tólóng	hot	Sù-tólóng	Quick tempered
+54.		Nímírì 	Eye 	zèɛ́	red	Nímí-zèɛ́	seriousness
+55.		Nímírì 	Eye 	tɔ́ɔ́ré	far	Nímí-tɔ́ɔ́ré	ahead
+56.		Nímírì 	Eye 	tììrúng	bitter	Nímí-tììrúng	wickedness
+57.		Nóɔ̀dáá	Fowl male 	léé	small	nɔ́dà-léé	A cockerel
+58.		Nóɔ́rè 	Mouth 	kpéɛ́né	hard	nɔ́↓-kpéɛ́né	Argumentative 
+59.		Nû 	Hand 	dɛ́gérè	dirty	Nú-dɛ́gérè 	Dirty hands
+60.		Nóɔ̀ 	Fowl 	léé	small	nɔ̀-léé 	A chick
+61.		Nú 	Hand 	láámá	idle 	Nú-láámá	Idleness, laziness, boredom
+62.		kɔ̀kɔ̀láà	Cat	wéɛ́mɛ́	Bush/wild	kɔ̀kɔ́l-wéɛ́mɛ́	Wild cat
+63.		ko͂̀ɔ͂́	water	mááróng	cold	kɔ̀ng-mááróng	Cold water
+64.		ko͂̀ɔ͂́	water	míírûng	sour	kɔ̀ng-míírûng	Sour water, mostly used in preparing T.Z
+65.		ko͂̀ɔ͂́	water	zùlúng	deep	kɔ̀n-zùlúng	Deep water
+66.		kúrí	metal	zèɛ́	red	Kùrì-zèɛ́	Brass/copper (metal)
+67.		Mírì 	rope	pèlàá	white	Mí-pélàá	White rope
+68.		Mírì	rope	zèɛ́	red	Mí-zèɛ́	Red rope
+69.		móɔ́	grass	máárà	fresh	mɔ̀máárà	Fresh grass
+70.		nááb↓ó (downstep)	cow	léé	small	Náá-léé	Calf 
+71.		nɛ́nè	meat	káráá	raw	nɛ́nkáráá	Raw meat
+72.		ngmáángà	monkey	zèɛ̀	red	Ngmàà-zèɛ̀	a type of monkey (tone change)
+73.		ngmánéé	dove	zèɛ́	red	Ngmǎn-zèɛ́	a type of dove (tone change
+74.		pɔ́gé	woman	póɔ́	pregnant	pɔ̀g-póɔ́	Pregnant (tonal change)
+75.		Sã̀ã̀	father	bìlé	small	Sã̀ã̀-bílé	Paternal uncle
+76.		sáábó	Type of food	dógè	pot	Sàà-dógè	Cooking pot
+77.		sáábó	Type of food	tólóng	hot	sàà-tólóng	Hot T.Z (tone change)
+78.		téngɛ́	ground	tólóng	hot	Tén-tólóng	Hot ground/dry season
+79.		tɛ́né	soil	pèɛ̀lońg	whiteness	tɛ́m-pèlàá	ash
+
+
+
+
+
+Noun+Noun compounds
+	Base 1	Gloss	Base 2	Gloss	Compound	Gloss 
+80.		Bìé 	Child 	dɔ́ɔ́	man	Bì-dɔ́ɔ́	Son 
+81.		Bɛ́ngɛ̀ 	Beans 	dá↓á	stick	bɛ́n- dá↓á	Beanstalk
+82.		Báá 	Dog 	zẽ̀e͂́	blood	Bà-zẽ̀ẽ́	Blood of a dog
+83.		Bɛ́ngɛ̀	Beans 	zɔ́ǹg	flour	bɛ́n-zɔ́ǹg	Beans flour
+84.		Bóɔ́ 	Goat 	dáá	male	Bò-dáá	Male goat
+85.		Bóndìríì 	Food 	zíé	place	Bóndì-zíé	Restaurant 
+86.		Bónè 	Thing 	nyáà	chest 	Bón-nyáà	Chest of something
+87.		Dã́ã̀ 	Drink 	dìé	room	Dã́ã̀-dìé	Pito house
+88.		Dã́ã̀ 	Drink 	dógè	pot	Dã́ã́-dógè	Pito pot
+89.		Dã́ã̀ 	Drink 	nyúúrò	one who drinks	Dã́ã́-nyúúrò	An alcoholic
+90.		Dàá 	Tree 	pɛ́gé	peels 	Dà-pɛ́gé	Bark of tree
+91.		Dɔ́ɔ́ 	Man 	dã́ã̀	drink 	dɔ̀ɔ̀-dã́ã̀ 	A male child born on the day pito has been brewed in the house
+92.		Dúórùng 	Urine 	láá	bowl	Dúórùng-láá	A chamberpot
+93.		Góɔ̀	Thorn 	tèɛ́	tree	gɔ̂-tèɛ́	A tree with thorns
+94.		Gánè 	Book 	bɔ̀ng	know	Gán-bɔ́gnɔ́	Literate 
+95.		kõ̀ɔ̃́ 	Water 	nóɔ́rè	mouth 	kɔ̀n-nóɔ́rè	Coastline, beach
+96.		Màléfà 	Gun 	bírì	seed	Màléfà-bírì	bullet
+97.		nã̀ã́ 	Chief 	bíé	child	Nà-bíé	A prince
+98.		Nímírì 	Eye 	láá	bowl 	Nímí-láá	Eye socket
+99.		Nóɔ̀ 	Fowl 	nɛ́nè	meat	nɔ́-nɛ́nè	chicken
+100.		Nû 	Hand 	pùòrí	back	Nú- pùòrí	Back of hand
+101.		Nû	Hand 	póɔ́	stomach	Nú-póɔ́	Palm of hand
+102.		Ngméǹ 	God 	dìé	house 	Ngmén-dìé	Church (tone change)
+103.		tèɛ̀né 	Chin 	kɔ́ɔ́lóng	hair	tẽ̀ɛ̀-kɔ́ɔ́lóng	beard
+104.		Nángè 	Poverty 	dááná	person	Nán-dááná	Poor person
+105.		Nóɔ̀ 	Fowl 	dáá	male	nɔ́-dáá 	A roaster 
+106.		Nû	Hand 	kúóngáá	dry	Nú-kúóngáá	Dry hand
+107.		Sàkúúrì 	School 	bìé	child	Sàkú-bìé	Student 
+108.		Zû 	Head 	pílí	mat	Zú-pílí	Hat (change in tone)
+109.		Nímírì 	Eye 	kyááné	mirrors	Nímí-kyááné	spectacles
+110.		Kúrí 	Metal 	wìrí	horse	Kúrí-wìrí	Bicyle 
+111.		kálì	dawadawa	bírì	Seed	Kál-bírì	Dawadawa seed
+112.		kámááné 	Corn	bírì	Seed	Kámáá-bírì	Corn seed
+113.		kámááné 	Corn	dàá	Stick/stalk	Kámáá-dàá	Corn stalk
+114.		Kùòrí	Funeral	Mààlè	Make/perform	Kò-mààlè	Funeral rights
+115.		Kùòrí	Funeral	mááróng	Fresh	Kò-mááróng	Funeral where the corpse isn’t buried yet
+116.		Kùòrí	Funeral	Tólóng	hot	Kò-tólóng	Early part of mourning at a funeral
+117.		kɔ̀kɔ́rè	Throat	lɛ̀ré	bead	kɔ̀kɔ́-lɛ̀ré	necklace
+118.		kɔ̀kɔ̀láà	cat	wóɔ́	bag	kɔ̀kɔ̌l-wóɔ́	bag made from cat hide
+119.		ko͂̀ɔ͂́	water	dógè	pot	kɔ̌n-dógè	Water pot
+120.		ko͂̀ɔ͂́ +dú	Water +swim	zíé	place	kɔ̌ndú-gzíé	Swimming pool
+121.		ko͂̀ɔ͂́	water	náng	Scarcity/poverty	kɔ́n-náng	Water scarcity
+122.		ko͂̀ɔ͂́	water	nóɔ́ré	mouth	kɔ̀n-nóɔ́ré	Beach/river bank
+123.		ko͂̀ɔ͂́	water	nyúúrì	Drinking(N)	kɔ́n-nyúúrì	Drinking water 
+124.		Kúrí	metal	dàá	stick	Kùrì-dàá	Iron bar
+125.		kúsírì	stone	bírì	seed	Kúsí-bírì	pebble
+126.		kṹṹ	corpse	bògí	hole	kṹṹ-bògí	grave
+127.		kpéɛ́ó	living	zíé	place	kpɛ̀-zíé	Place of abode (tone change)
+128.		Lìbírì	money	bìngzíé	Keeping place	Lìbí-bìngzíé	bank
+129.		Lìbírì	money	bùgó	granary	Lìbí-bùgó	A money safe
+130.		Lìbírì	money	dááná	owner	Lìbí-dááná	A rich person
+131.		Lìbírì	money	zɔ́ng	flour	Lìbí-zɔ́ng	Gold dust
+132.		Máné	rubber	tèɛ́	tree	Mǎn-tèɛ́	Rubber tree (plant)(tone change)
+133.		móɔ́	grass	náábó	cow	mɔ̀-náábó	Bush cow
+134.		móɔ́	grass	néɛ̀	person	mɔ̀-néɛ́	Bush person
+135.		nááb↓ó	cow	bíní	dung	Náá-bíní	Cow dung
+136.		nááb↓ó	cow	gánè	hide	Náá-gánè	Cowhide
+137.		nááb↓ó	cow	nyánggáà	female	Náá-nyánggáà	 cow
+138.		nááb↓ó	cow	nɛ́nè	meat	Náá-nɛ́nè	Beef/cow meat
+139.		náásáálá	White-person	téngɛ́	land	nààsààl-téngɛ́	abroad
+140.		Nàà	Chief 	yírì	house	Nàà-yírì	palace
+141.		nááb↓ó	cow	zàgé	pen	Náá-zàgé	Cattle pen
+142.		Nã̀ã́	chief	kógí	chair	Nà-kógí	Throne 
+143.		náásáálá	White-person	kúúrì	hoe	nàsà-kúúrí	plough
+144.		nɛ́nè	meat	kã́ã̀	Oil/fat	nɛ́ng-kã́ã̀	Fatty meat
+145.		nɛ́nè	meat	kóɔ́rɔ́	seller	nɛ́ng-kóórɔ́	butcher
+146.		nímírì	eye	bírì	seed	Nímí-bírì	Pupil of eye
+147.		nímírì	eye	gánè	skin	Nímí-gánè	eyelid
+148.		nímírì	eye	kɔ́ɔ́lóng	hair	Nímí-kɔ́ɔ́lóng	eyelash
+149.		Ngmáràá	moon	bírì	seed	Ngmáré-bírì	star
+150.		póɔ́	stomach	yíráá	removal	pò-yíráá	miscarriage
+151.		pɔ́gé	woman	dérɛ́	One who takes	pɔ̀gè-dérɛ́	Bride-groom
+152.		pɔ́gé	woman	dɔ̀gèrɔ́	One who has given birth	pɔ̀gè-dɔ̀gèrɔ́	A woman who has just given birth
+153.		sàà	rain	bírì	seed	Sà-bírì	Rain drop
+154.		sálémá	gold	bógì	hole	Sàlèng-bògí	goldmine
+155.		sálémá	gold	dógé	pot	Sàlèng-dògè	Traditional treasury
+156.		sálémá	gold	kúúrí	stone	Sàlèng-kúúrí	pearl
+157.		sánè	debt	dááná	owner	Sán-dááná	creditor
+158.		sánè	debt	díré	One who takes	Sán-díré	debtor
+159.		sébírì	bee	bògí	hole	Sé-bògí	beehive
+160.		séérè	honey	núúléé	bird	Sé-núúléé	Honey bird (type of bird)
+161.		sɛ́gé	writing	bírì	seed	sɛ́gé-bírì	alphabet
+162.		tẽ̀e͂́	medicine	kõ̀ɔ͂́	water	tẽ̀e͂́kõ̀ɔ͂́	Liquid medicine
+163.		tɔ̀bɔ̀	tobacco	váà	leaf	tɔ̀ɔ̀-váà	Tobacco leaf
+164.		tɔ̀bɔ̀	tobacco	zɔ̀ng	flour	tɔ̀ɔ̀-zɔ̀ng	powedered tobacco
+165.		Wìrí	horse	kógí	chair	Wìrì-kógí	Horse saddle
+166.		Wìrí	horse	zóóré	tail	Wìrì-zóóré	Horsetail
+
+
+Noun-Verb compounds
+Num. 	Base 1	Gloss	Base 2	Gloss	Compound	Gloss  
+167.		Bóndìríì 	Food 	sã̀ã̀	waste 	Bóndì-sã̀ã̀	Food wastage
+168.		Bóndìríì 	Food 	máálì	make 	Bóndí-máál	The act of cooking
+169.		Nímírì 	Eye 	yúò	open	Nímí-yúò	smartness
+189	ko͂̀ɔ͂́	water	sã̀ã̀	waste	kɔ̀n-sã̀ã̀	Water wastage
+190	Lìbírì	money	bɔ́	Search/look	Líbí-bɔ́	Quest for money
+191	Lìbírì		money	dì	Spend/eat	Líbí-dì	act of spending money
+192	nɛ́nè	meat	kúóngáá	dry	nɛng-kúóngáá	Smoked meat
+193	pɔ́gé	woman	dê	take	pɔ̀gè-dê	Marriage(change in tone)
+194	sánè	debt	yɔ́ɔ́	pay	sán-yɔ́ɔ	salary
+
+Báyúó:   Áýúó, fò ángsómá
+
+Áyúó:	 Ángsómáá, fò gááó bé sóng?
+
+
+Báyúó:   Oó, O béé sóng
+
+
+Báyúó:   N kͻ́ͻ́ré là fó nyááó fò yiri bé lá sóng?
+
+Áyúó:  	Oó, O bèlá sóng
+
+Áyúó:	 Yèng lá ká fó wà tàllà gέrέ?
+
+
+Báyúó:  N gέrέ lá ká ń kpáárè kpòló
+
+
+Áyúó:	 N mèǹg gέrέ lá kóláá
+
+Áyͻ̀ͻ́ Fò ngménáá
+
+Báyͻ̀ͻ́:	Ngménáá táε
+
+
+Áyͻ̀ͻ́:	Yeng la ka fo gέrέ? Fo gεrε la tengε béé?
+
+Báyͻ̀ͻ́:	N gέrέ la Gyèrέ bàá
+
+Áyͻ̀ͻ́:	Fò nà léέ wà lá zénέ béé?
+
+Báyͻ̀ͻ́:	Ài, N nà léέ wà lá bíéú
+
+Áyͻ̀ͻ́:   Kyέng sóng
+ 
+Báyͻ̀ͻ́:	Bárká	Áyͻ̀ͻ́: Good afternoon
+
+Báyͻ̀ͻ́: Good afternoon [has the sun reached you?]
+
+Áyͻ̀ͻ́: Where are you going to? Are you traveling?
+
+Báyͻ̀ͻ́: I am going to Jirapa.
+
+Áyͻ̀ͻ́: Will you return today?
+
+Báyͻ̀ͻ́: No, I will return tomorrow.
+
+Áyͻ̀ͻ́: Safe journey.
+
+Báyͻ̀ͻ́: Thank you
+
+3. Dialogue (3) – Good Evening!
+Dagaare	English
+Dͻ̀ͻ̀dáà: Fò zìmááné
+
+Pͻgdáà: Zì̀é máángέέ
+
+Dͻ̀ͻ̀dáà: Yéng lá ká fó yí wààná?
+
+Pͻgdáà: Ánkáráá lá ká ñ yí wààná
+
+Dͻ̀ͻ̀dáà: Fò sórì?
+
+Pͻgdáà: Ò bé lá sóng	Dͻ̀ͻ̀dáà: Good evening
+
+Pͻgdáà: Good evening
+
+Dͻ̀ͻ̀dáà: Where are you coming from?
+
+Pͻgdáà: I am coming from Accra
+
+Dͻ̀ͻ̀dáà: How was the journey?{ Welcome }
+
+Pͻgdáà: Fine
+
+4. Dialogue (4) – Safe Journey!
+Dagaare	English
+Dͻ̀ͻ̀zèέ:Pͻ̀gzèέ:, Yèng lá ká fó dé́ὲ wà tàllà gborͻ̀gborͻ̀ lέ gέrέ?
+
+Pͻ̀gzèέ: Ǹ wà gέrέ ka N de lͻ̀ͻ̀rè àgàà Wà
+
+
+Dͻ̀ͻ̀zèέ: Fò ná kyéng sóng. Kyέ fó tͻ̀ͻ̀ wà kͻ̀ͻ̀rͻ̀
+
+Pͻ̀gzèέ: Tόὸ, bárká, kyέ Ǹ kòng kͻ̀ͻ̀ré. Tέέè léé kàngá lá ká N gὲrέká Ñ tè è
+
+
+
+Dͻ̀ͻ̀zèέ: Ngméǹ nà sóng
+
+Pͻ̀gzèέ: Tόὸ, púóràá bé bè lá.	Dͻ̀ͻ̀zèέ: Pogzee, where are you rushing to?
+
+Pͻ̀gzèέ: I am on my way to catch a bus for Wa.
+
+Dͻ̀ͻ̀zèέ: Safe journey. But please do not keep long.
+
+Dͻ̀ͻ̀zèέ: O.k. thanks, I will not keep long. I am only going to sit for a ‘small exam’ {In some cases Dagaaba play down on the exigency of the situation}
+
+Dͻ̀ͻ̀zèέ: May God bless [Good luck]
+
+Pͻ̀gzèέ: O.k. thanks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Some other forms of greetings or wishes
+The Dagaaba have various forms of greetings for various occasions.  The greetings for morning, afternoon and evening are used for normal everyday life. However, during special occasions like funerals, childbirth, anniversaries, sickness, they greetings may vary.
+Dialogue 5: Funeral
+Dagaare 	English 
+Áyór: Dɛ̀rpɔ́gé, ká yɛ̀ wólóngwólóng wɛ́?
+
+Dɛ̀rpɔ́gé: wólóngwólóng lá, kà yɛ̀ mèng béɛ́róó?
+
+Áyór: À béé sóng. Kyɛ́ ká fò nyɔ́gé fó mèngɛ́: à wáá túó kyɛ́ tè bá sò á fángá.
+
+Dɛ̀rṕɔgé: Tɔ̀ɔ̀. Bàrká
+
+Zógááyéng: Áyór, ká à bá vòbá bé sóng?
+
+Áyór: Bá bèé sóng.	Áyór:Dɛ̀rpɔ́gé, how is the difficult moment?
+
+Dɛ̀rpɔ́gé: It is indeed difficult, and follow-up?
+
+Áyór: It is fine. But pull yourself together: it is bitter but it is beyond us.
+
+Dɛ̀rpɔ́gé: Alright. Thank you
+
+Zógááyéng: Áyór, (upon returning from a funeral), how are the living?
+
+Áyór: They are fine.
+Note: vììrúú, nímìtól,and wáhálá, wóóré can be used as synonyms for wólóngwólóng.
+
+
+Dialog 6: Sickness
+Dagaare 	English
+Kógí: N dɔ́ɔ́ Zìémá, nè fò gɔ́mbéráá wɛ́?
+
+Zìémá: Hmm, gɔ́mbéráá là. Ká á yìdèmé bé sóng?
+
+Kógí: Bá béé sóng. Ngmén ná pààlè fò lààféɛ́.
+
+Ziema: Kà á è lɛ́.
+	Kógí: My friend Ziema, how be the sleeplessness?
+Zìémá: it’s indeed sleeplessness. How is the family?
+
+Kógí: They are fine. May God grant you healing.
+
+Zìémá: May it be so.
+
+Dialog 7: Childbirth/Fortune
+Dagaare 	English
+Núòtáɛ̀: Bàgbɛ́rè, nè fò zúnúò!
+
+Bàgbɛ́r̀e: Zúnúò là, n yɔ́ɔ́. Kà á bíírí wááɛ̀ mááróng?
+
+Núòtáɛ̀: Bà wááɛ̀ mááróng. Kà á bíé bàà sóng á wá fáá té.
+
+Bàgbɛ́rè: Àméénà	Núòtáɛ̀: Bàgbɛ́rè, happy fortune!
+
+Bagbɛre: It’s indeed a fortune. How’re the children?
+
+Núòtáɛ̀: They’re fine. May the child grow well and save us.
+
+Bagbɛre: Amen
+
+
+Dialogue 8: Greetings for meeting someone again in a long while
+Dagaare 	Eńglish
+Gbèɛ̀l: Oo, nénséɛ̀ béé nénsààlá?
+
+Yùòráá: Màà nàà sòòrɔ́ fò béé?
+
+Gbèɛ̀l: Té sáng wɛ̀!
+
+Yùòráá: Sáng lá. Fò mɔ̀ɔ̀ àgé yí là à té Gááná ngá póɔ́ béé?
+
+Gbèɛ̀l: Yèng páng! Té zà̀a bè á kyɛ́ òò n dɔ́ɔ́.
+
+Yuoraa: Ká lɛ̀ fò sèrèng bàng là kpéɛ̀bó.
+
+
+Gbèɛ̀l: Àná bérááyí bà séɛ̀ lɔ́gɔ́ yíèé?
+
+
+Yùòráá: Ànèng séɛ̀ éng. (Lá ká à dó (lkd) )
+	Gbèɛ̀l: Oo, a ghost or a human?
+
+Yùòráá:I should rather be asking you so or?
+
+Gbèɛ̀l: Long time!
+
+Yùòráá: It’s really been long. Have you flown outside this our Ghana?
+
+Gbèɛ̀l: For where! We are all here oo my friend.
+
+Yùòráá: Then, you have mastered how to stay here.
+
+Gbèɛ̀l: Well os being missed not better than being fed up with?
+
+Yùòráá: That’s better really better. (Laugh out loud (lol) )
+
+Note: Bérááyì (two days), kɔ́ɔ́róng (long time), lígílígí (unheard of), among other expressions can also be used in greeting a person you have not met in a while.
+
+A, a			as in 	báná lá wààná   	‘It is they who are coming’
+B, b			as in 	báá			    ‘dog’ 
+D, d			as in 	dúní				‘knee’
+E, e			as in 	kpéré	 		‘to cut up’; also as in
+féntéré		 	‘ring’ 	
+ε, ε			as in  	gέrέ      	 	‘going’
+F, f			as in 	fànfánè			‘soap’
+G, g			as in 	gánè			    ‘book’
+GB, gb		as in 	gbέrè			‘leg’
+GY, gy		as in 	gyìlé		        ‘xylophones’
+H, h			as in		húólì	 	    ‘to mock at someone’
+I, i			as in 	bìbììrí		    ‘children’	
+K, k			as in		kànnè		    ‘to read’	
+KP, kp		as in 	kpááré		    ‘occiput’
+KY, ky		as in 	kyέngé	        ‘to walk’
+L, l			as in 	láá				‘bowl’
+M, m		as in		má				‘mother’
+N, n			as in 	néὲ				‘person’
+NG, ng		as in 	bòngó			‘donkey’
+NY, ny		as in 	nyέ				‘to see’
+NGM, ngm	as in 	ngméǹ			‘God’
+O, o			as in 	 zòró			‘running’; also as in
+tólóng	         ‘heat’ 
+ͻ, ͻ		    as in  	sͻ́wͻ́lͻ́		     ‘kind of dish’
+P, p			as in		pὲnnè		     ‘to rest’
+R, r			as in 	pùrì		         ‘to burst’
+S, s			as in 	sénsέ		     ‘cakes’
+T, t			as in		tùòrì		        ‘to meet’
+U, u			as in  	dùndúló			‘worms’
+V, v			as in 	vóóróng		    ‘breath’, ‘life’
+W, w		as in 	wááó		    ‘snake’
+Y, y			as in 	yánngáá		   	‘grandchild’	
+Z, z			as in 	zàgá		       	‘pen’	
+
+N bà ná táá à níì gàà dàà
+Ká ń táá à níì gàà bàà
+Á níí ná dú lá à bàà bótá
+
+N nyɛ́ lá ngmáágà
+Ká ò zò gàà tè dó táŋà
+Ngmáágà párè lá nángà
+Kyɛ́ nángà mèng párè lá dúŋà
+
+Áyúó màrè lá bíé
+Bà yí lá tómá zìé
+Á páng gɛ̀rɛ̀ lá dìè
+Á náng tè pɛ̀nnè bèrí píè
+
+Tè ná sù lá sèɛ́ré kàyàà
+Á sígí témpóɔ́ tè núgé báwáá
+Bà nà ngmɛ́ lá gángáá
+Ká bíírí máng sèɛ́ ágè dòsáá
+
+Tongue twister:
+
+Sésèènέ símíe sénsέ sͻ́gláá sòlͻ̀sòlͻ̀
+Bààbá báá bá bàà báá báábò
+Dàá dáárè dèɛ̀né dèɛ́ dáá dèɛ̀mɛ́ dàngbálè
+Pɔ̀gsáá pɔ̀gèyáá pɛ́ péɛ́rè pààlè pèɛ́
+Dɔ̀ɔ̀sɔ̀gláá dɔ́ dàngèlé tè dɔ̀ɔ̀n dúné
+Màkómá mɔ̀mmɔ́, mɔ́ng mì míè mèrɛ́ mérɛ́ mèrɛ́
+Zùkónkpɛ̀láá zòzèɛ́ zòngzú zó gàà zèng zòmm
+
+Ǹ yúórí lá Dàkóráá. Ń yí lá Ulò. Ń nyέ lá yùòmó lìzárè né píé. Ń wàá lá kóͻ́ráá. Ń tàá lá pͻ̀g. Ń nͻ̀ńg kòͻ́ò yágà. Bèbírì zàá Ń máng gáá lá wèέ. Ń máng kͻ́ lá yágà. 
+
+Ń pͻ́g yúórí lá Pͻ̀gzèέ. Ò máng sòngnͻ́ má lá yágà à̀ wèὲ tómà póͻ́. Ò nͻ̀nǵ lá N yέlέ kà méng nͻ̀ng'ò yágà máng mààlé lá bóndìríì à wà kò má à wèὲ póͻ́ kyέ leὲ wùò dààré kúlí. Kà mààńg wà kͻ́ lέέ kà zíé tè máà N máng ìrì dé lá N kùùrí à pὲglè N bͻ́gͻ̀ póͻ́ à tè kúlò..
+Ǹ nè ǹ pͻ́g, tè tàá lá bìbììrí báyì. Kàng yúórì lá Áyͻ̀ͻ́ kà à kànǵ ná méng yúórì è Báyúó. Áyͻ̀ͻ́ nyέ lá yùòmò píé. Ónͻ́ lá à tè bìdὲngdὲngὲ sòbͻ́. Kà fòó'ng nyέó kà néέ'ng wá yèlí kò fó, fó kòng bͻ́ng ká ͻ̀ nyέ lá yúòmó píé tὲgέ. Ò wógì! Báyú́ó nyέ lá yúòmó àyͻ̀póí. Nóbͻ́ máng yèlí ká ò yí má lá yágá. Bá zàá báyì lá gὲrέ sàkúúrì. Báná éǹg bá máng gàà wèέ bèbírì zàá. Áyúó máng gáá lá kóláá á tè ͻ̀ng kòͻ́ wà né. Ǹ tàá lá dónné àné nóórè. À wàá lá yágà. Zìmááné sáǹg Báyúó máng dìg'á lá èng zàgá póͻ́. Kà áná 'ng ẁa tè kpὲ báárè ὸ máng nyͻ́gè lã ã zãgã pͻ̀g kyέ pãã lẽὲ gãã zẽng pènnὲ. Ǹ nẽ Pͻ̀gzèέ nͻ́ng bá lá yãgã.
+
+Tͻ́ͻ̀ pàmpánà, yὲ páà bͻ̀ng má lá àné ǹ pͻ́g né ǹ bíírí. Kà yὲnéé'ńg bóͻ́rͻ̀ kà yέ bͻ̀ng à Ǹ dìè dèmé àné à N téngέ dèmé yέlέ N nà mánnè kó yὲ là.
+	Ñ tàá lá gánè, mãã lá só'ó. Dé à gánbílè ná méng kó má. 
+	Fò tàá lá gánè fòò lá só'ó. N nà dé lá à gánbílè ná méng kò fó. 
+	O tàá lá gánè, ónͻ́ lá só'ó. N nà dé lá gánbílè ná méng kó' ó.
+	Tè tàá lá gánè, tènéé lá só'ó. Dé à gánbílè ná méng kó té.
+	Yὲ tàá lá gánè, yὲnéé lá só'ó. N nà dé lá à gánbílè ná méng kò yέ. 
+	Bà tàá lá gánè, bana lá só'ó. N dé lá à gánbílè ná méng kò bá.
+
+N zɔ̀ɔ̀mèngɛ́ yúórí lá Áyúó. Ò yí lá Gyèr̀ebáá kyɛ́ kpéɛ́rɛ́ Wǎ póɔ́.  Gyèrèbààlɛ́ɛ́ é lá Dàgààbá, ázúìng á n zɔ̀ɔ̀mèngɛ́ Áyúó é lá Dàǵaò.
+Áyúó é lá pɔ̀gèśarèléé nǎng nyɛ́ yúómó píé nè yénì. Ò é lá zìɛ́ párpár. Ò zììlóng èngɛ́, bà kó ò lá yòkpɛ̀gláá nà dì Pɔ̀gzìɛ́. Ò é lá bààláá wógì. Ò zùkɔ́ɔ́lóng sɔ́ɛ̀ɛ̀ lá ngà válènvúúlóng. Ò nyímɛ̀ é lá píɛ́lè, á pɛ́rè lá tàà vìláá lɛ́. Ò táálà nyòbògí wógì, tòò bílìì, nè nímíbɛ́rɛ́.
+
+Áyúó, táá lá yɔ̀ɔ̀mìné bátà: yɔ̀ɔ̀dɔ̀bá báyì, kpéɛ́mɛ́ bónyéní. Áyúó lá à ò mǎ bìribààráá. Ò bè lá kàrèngdérè àyòɔ̀bó. Ò nɔ̀ng lá sàkùùrì nè zànnóó. Áyúó yèlí ká ò bóɔ́rɔ̀ ká ò léɛ̀ álóópèléé mɔ́nɔ́, ázúìng ò múɔ̀ lá níngé ò zànnóó póɔ́. Áyúó nɔ̀ng lá Sáènsé nè Máásè gáng ò zànnóó dɔ̀lɔ̀ záá. Ò máng dáng lá ìrúú à zànné fìì kyɛ́ gàà sàkùùrì.
+
+Áyúó mǎ é lá dàádògrɔ́. Áyúó máng sòng lá ò má ɔ́ng dã́ã́kóɔ̀. Ká bà náng wá bàrè sákúúbììrí, Áyúó máng tà.sògà sóng lá ò mǎ kòɔ̀rè á dã́ã́. Á dã́ã́ kòɔ̀róó zìé ká Áyúó tò kyɛ́ zànné Gááná lìbìé sɔ̀róó. Ká Áyúó mǎ wá sɔ̀rè ò dàá lìbìé, ò máng írì lá lìbìmá léɛ̀ dà nè á kpɛ́ɛ̀. Á lɛ̀ púòríng, ò máng pó lá tɔ̀nɔ́, à dè mìné dà zèɛ̀ré bómá kyɛ́ dè à kyɛ̀lɛ́́ɛ kò Áyúó ká ò bìng kò. Ká kyúú wá bààré, Áyúó máng sɔ̀rè lá à tɔ̀nɔ́ à yèlì ò mǎ àwólà tɔ̀nɔ́ bà náng nyɛ́. 
+
+ Áyúó bílé sángà, ò dà nɔ̀ng là sááò kyɛ́ dà bà bàng ò mɔ̀mmó. Pámpáná, ò bàng lá bóndìrríì máálòò. Á bóndì nɔ́náá páá lá sááò nè yɔ́ɔ́váárè zèɛ̀ré. Ò nɔ̀ng lá sàátólóng zùgózùgó nè yɔ́ɔ́vááre zèɛ̀ré bà náng ngmáà kã́ã́ nɛ̀rè. O ̀máng dì lá lɛ̀nnè núbìé.
+
+Áyúó nímípɛ́lè yɛ́lɛ́ wàá lá yágà. Ò nɔ̀ng lá mírì várèbó, àmpé ŋméɛ́bò, séɛ̀ré, nè núbɔ̀l ngméɛ́bò. Ò nɔ̀ng lá sòróó nè sɛ́gèbó mèng. À Áyúó nímípɛ́lè yɛ́lɛ́ nǵa é lá n nímípɛ́lè yɛ́lɛ́. Bé lá ká tè bààlóng píílì.
+
+nényénì
+Báyì
+bátà
+Bànáárè
+bànúú
+Bàyòͻ̀ó
+Bàyͻ̀pòí
+bàníì
+bàwáè
+(nóbà) píé
+(nóbà) píé né yénì
+píé né báỳi
+píé né bàwáé
+(nóbà) lèzárè
+lèzárè né yénì
+lèzárè né báyì
+lèzárè né bàwáé
+(nóbà) lèzárè né píé
+lèzárè né píé né yénì
+lèzárè né píé né bàyí
+(nóbà) lèzáὲ áyí
+lèzáὲ áyì né yénì
+lèzáὲ áyì né báyì
+Lèzáὲ ́ayì né píé
+lèzáὲ áyì né píe ́né yénì
+lèzáὲ áyì né píé né báyì
+(nóbà) lèzáὲ átà
+lèzáὲ átà ńe yénì
+lèzáὲ átà né báyì
+(nóbà) lèzáὲ átà né píé
+lèzáὲ átà né píé né yénì
+lèzáὲ átà né píé né báyì
+(nóbà) lèzáὲ ànáárè
+lèzáὲ ànáárè né yénì	
+lèzáὲ ànáárè né báyì
+(nóbà) lèzáὲ ànáárè ńe píé
+lèzáὲ ànáárè né píé né yéǹi
+lèzáὲ ànáárè né píé né báyì
+(nóbà) kͻ̀ͻ́
+Kͻ̀ͻ́ né yénì
+Kͻ̀ͻ́ né báyì
+Kͻ̀ͻ̀ré áyì
+Kͻ̀ͻ̀ré átà
+Kͻ̀ͻ̀ré àwá́é
+(nóbà) túrì
+Túr áyì	
+túr átà	
+túrì túrì (múrì)
+túrì túrì túrì (búrì)
+
+Dakoraa: Fo be song?
+Ayuo: oo, fo meng be song?
+Dakoraa: Fo yuori la bong
+Ayuo: Ayuo
+Dakoraa: Fo nyε la yuomo awola?
+Ayuo: N nyε la yuomo lizare ne ayi
+Dakoraa: Fo saa ne for ma taa la birri bawola?
+Ayuo: Ba taa la biiri bayɔpoi: dɔbɔ bata ane pɔbbɔ banaare. Maa la a banuu sobɔ
+Dakoraa: Tɔɔ, barka!
+Ayuo: Barka kyebe!
+
+Tè bóɔ̀lɔ́ lá gyèmáà zàá ká bà wá làng ǹe tè tè kúltáámáálóó tígrí póɔ́.
+À lámmò ngá ná è lá a Gyɛ̀nɔ̀ɔ̀ré kyúú bèrí píé né àwáè dáaŕé. À wágrè è lá bágúó gbèlènpíé né kyɛ́léé sángà. Tè ná làng là táá Kúnchénì sàkùùyírì dèrè átà sóbá póɔ́. À Covid 19 zúìng, nòbà bànáárè lá ná máng zèng kógí záá zú. À dìé mèng ná bàng dè lá nòbà lìzáátá. Dàng wá lá dàng kpɛ́. 
+
+ Time	Dagaare
+1 a.m.	Tèntͻ́ráá gbèlèng yénì	
+2 a.m.	Tèntͻ́ráá gbèllááyì
+3 a.m.	Tèntͻ́ráá gbèlláátà
+4 a.m.	bágúó gbèlláánáárè
+5 a.m.	bágúó gbèlláánúú
+6 a.m.	bágúó gbèllááyòͻ̀ó
+7 a.m.	bágúó gbèllááyͻ̀pòì
+8 a.m.	bágúó gbèllááníì
+9 a.m.	bágúó gbèllááwáé
+10 a.m.	ngménáá gbèlèngpíé
+11 a.m.	ngménáá gbèlèngpíé né yénì
+12 noon	ngménáá gbèlèngpíé né áyì
+1 p.m.	ngménáá gbèlèng yénì
+2 p.m.	ngménáá gbèlláàyì
+3 p.m.	ngménáá gbèlláàtà
+4 p.m.	zìmááné gbèlláànáárè
+5 p.m. 	zìmááné gbèlláànúú
+6 p.m.	zìmááné gbèlláàyòͻ̀ó
+7 p.m.	zìmááné gbèlláàyͻ̀pòì
+8 p.m.	zìmááné gbèlláàníì
+9 p.m.	zìmááné gbèlláàwáé
+10 p.m.	Tèntͻ́ráá gbelengpie
+11 p.m.	Tèntͻ́ráá gbèlèngpíé né yénì
+12 midnight	Tèntͻ́ráá gbèlèngpíé né áyì
+ 
+Yέlέ mìnné mánnóó		- 	Some expressions
+•	Tè máng gáá lá tómá bàgùó gbèlláàyͻ̀pòí pàr mítì lìzárè né píè  
+= We go to work at 7.30 a.m.
+•	Tè máng írí lá tómá zù Zìmáánè gbèlláánáárè ngmàà mítì píé  
+= We close from work at 10 minutes to 4 p.m.
+•	À ngmέ lá gbèlláánáárè pàr mítì píé 
+= It’s 10 minutes after 4
+•	Kà ánáng wà ngmὲ gbèláànúú ngmàà mítì píé né ànúú séng má 
+= When it is quarter to five, wake me up.
+
+Yágàlánùó: Bóngkánsàá, wágrè búò lá ká tè ná éng à nóòrè bóndìríí?
+Bóngkánsàá: Bágùó gbélmé àníì sángà. Fó éng bà yèlé fó? dóìng yɛ́lɛ́ kyɛ́ ká nóórè yɛ́lɛ́ lá wónó fó? Nmàá, zíé nyààgɛ́ɛ́ lá wóó, wágrè búò ká tè ná dì sèèmáá?
+Pɔ̀gwèɛ́: Fóó éng nè fó póɔ́ ngá yàà, fó bà ɔ́ɔ́ sàkɔ́ré à lá nyú búúlóng béé? Ká gbélén píé nè áyì bà pàré yɛ̀ bá lá dìré bónzáá.
+Bóngkánsàá: À búúlóng mɔ̀ɔ́, dúròng Yóng náánè bè? Màà éng nà kyéè lá símmíè ɔ́ɔ́ gbélènpíé sángà ká lɛ́ náánè à kòng nyɔ́gè.
+Pɔ̀gwèɛ́: Kà lɛ́ fóng kyéè pámpáná. Gbélènpíé bà ngmèɛ́rɛ́ fó à yírì ngá póɔ́. Yɛ́ gɛ́rɛ́ lá kɔ́mpíítá kélásé gbélmé àwáè nè kyɛ̀léè sángá.
+Bóngkánsàá: Òì, N dá ínéé lá wóó.
+Yágàlánùó: À fó mèng à yì bóndìríí pùòríng, bóng kà fó máng bà ínnì?
+Bongkansaa: Ààh, fó ínnì kà máà lá tèɛ́rè fó à nóòrè bóndìríí émmò wágrè béé?
+Yágàlánùó: Lá ká à dó (LKD), à wáá lá lɛ́. Kyɛ́ séé ká tè págè. À wágrè pámpáná é lá mìtírì lìzàáyì pàré gbélmé àyɔ̀póì. 
+
+Dagaare	English
+Sóndéè/Kó̀séέráá	Sunday
+Móndéè/ Gyóͻ́ráá	Monday
+Tíísídéè/Bénέráá	Tuesday
+Wálánsèdéè/Kúóráá	Wednesday
+Táásèdéè/Yͻ́wááráá	Thursday
+Fèráádéè/Féέráá	Friday
+Sátádéè/Méménáá	Saturday
+
+Tàmpúórì: Dòsáá, dáárè ìrí záámèè, n dáárè yélì ká bóng kò fó?
+Dòsáá: Nbǎ fó dáárè yélè kà N pɛ́gè fó dágàkpáróó Móndéè dáárè.
+Tàmpúórì: Tɔ̀ɔ̀, à zénɛ̀ bébìrí é lá bóng?
+Dòsáá: Zénɛ̀ é lá Sóndéè.
+Tàmpúórì: Tɔ̀ɔ̀, N yélì ká N téɛ́rè fó. Tè kpááróó ná láng lá táà Táásèdéè dáárè. Kyɛ́ séé ká fó dáng nè á dágàkpáróó pɛ́gèbó, ká lɛ̀ náánè ò kòng kó.
+Dosaa: N kòng ínnì, Nbǎ. N nà pɛ́gè ò lá bíèuó bèbíé. Kà ò nèng bà kò gbá, kyɛ́ Tíísídéè gɛ́rɛ́ ò Wálènsì éng, ò ná kó lá.
+Tàmpúórì: Àvéɛ̀lɛ́. 
+
+Gyέnóͻ́rè		January
+Fábòͻ̀rè	February
+Máákyè	March
+Épèrè	April
+Méè	May
+Gyúúǹi		June
+Gyòlááè	July
+Ágòs	August
+Sὲbtémbà	September
+Otóóbà	October
+Nòvémbà	November
+Dìsémbà/Búrnyὲ kyúù	December / Christmas month
+
+Dááré kàng, Méè kyúù póͻ́, sáá wà míé lá yágà. Kà Dàkóráá né ò yídèmé páà zèng yèlé yέlέ zìmááné sáǹg:
+
+Pͻ́gzèέ:		Ab̀á à sáá nyέ páá mí lá yágà zénὲ!
+
+Dàkóráá:		Lὲ lá, N téέré ká á úóní sàng pàà báárέέ lá kyέ kà séέ kpὲ
+
+Pͻ́gzèέ:		Lὲ'ng vèέlέ! Wèὲ tómͻ́ táέ lá
+
+Dàkóráá:		Kà bíé 'ńg wà bìè nàng zέ bέngὲ à gàà tè bòr kyέ kà Ǹ méng báárè 			    vààlè Ǹ wèὲ váálá.
+
+Áyͻ̀ͻ́:	Tè tékyὲ dà yèlì ká kà sáá 'ńg wà mí bíéú ká té táá kùé àné sͻ̀ré wààná nè à sàkúúrì.
+
+Báyúó:		Màà éǹg kòng tóͻ̀ ḱͻ̀ kͻ́nͻ́rè, N nàng wá bͻ̀ng kóͻ́ò sέré
+
+Pͻ́gzèέ:		À tékyὲré bóͻ́rͻ́ ká bá wùl yέ lá kóͻ́ò béé?
+
+Áyͻ̀ͻ́:		Óó, bà máng è lá ká té kͻ́ yágà
+
+Pͻ́gzèέ:			Yέ wà à tè wèέ póͻ́ kà té wùl yέ kóͻ́ò, tènéé́ 'ng bͻ́ngàá gàng à tékyὲré
+
+Dàkóráá:		Pͻ́gzèέ, nàng vέńg bá, à kànnóó né à wèὲ tòmͻ̀ zàà lá bòn zánnè.
+
+Séέ sáǹg	(Méè - Ótóóbà)	Wet season
+Uóní	(Nòvémbà - Épèrè)	Dry season
+ͻ́ͻ́rè	Cold
+Tólóng	Heat, warmth
+ͻ́ͻ́rè èrέ má lá.		I am feeling cold	
+Tòlóng èrέ má lá.			I am feeling hot/warm
+Séέkpὲὲ lá				It's in the wet/rainy season
+Uóní yíé lá.				It is in the dry season
+Tèntͻ́ráá				Night time
+Ngménáá				Day time/afternoon
+Bágúó			Morning
+Zìmááne	́			Evening
+Zìʋέlmέ				Dawn
+Ngméntàntúó			Noon, "hot afternoon"
+Tèntͻ̀rbéénéé			Midnight
+Sàs̀ὲ fúúró lá.			The wind is blowing /it is windy.
+Sáá mííré lá.			It is raining.			
+Wárè	Drought
+Mèɛ̀lóng	Dew
+Sásèɛ́ sángá	Harmattan 
+
+Yóɔ̀ráá: Érɛ́sóng, à ɔ́ɔ́rè kpèɛ́rɛ́ lá fó méng béé N bèɛ́rɛ́ lá?
+Érɛ́sóng: N dɔ́ɔ́, fó bà báng. N mììné lá gbá kyɛ́ fó bà kyɛ́llè. 
+Yóɔ̀ráá: Óò, n nyɛ́ lá à ɔ́ɔ́kyí fó náng yí. À yùònáá sàsèɛ́ dáng nè lá pììlúú zúò.
+Érɛ́sóng: Hmmm, tólóng sángá, tè dà máng bà yélì ká ɔ́ɔ́réng séɛ̀?
+Yóɔ̀ráá: Ɔ́ɔ́réng séréng séɛ̀; tè nà báng úórè lá vũ̀ṹ béé píllì bómá kyɛ́ à tólóng sángá, fó kòng báng lɔ́rè kóɔ́ póɔ́ béé yágé fó bónsúúrì bárè.
+Érɛ́sóng: Kyɛ́ fó nà báng só lá kòmmááróng béé à bɔ́ fìgráá wɛ́?
+Yóɔ̀ráá: À wàà lá lɛ́ óò. Kyɛ́ ká wárè wá nyɔ́gè ká kɔ̀nnáng bébé, wólá ká fó ná é? 
+Érɛ́sóng: Nímízìé páng ná lá óò. Ká tè nèè dà tùón nyɔ́gè  à tólóng nè ɔ́ɔ́rè dɔ̃̀ɔ̃́n pùllí táà, à dá ná sómá lá yágá. Ngménáátúò sángá tè dá máng é mèɛ̀lóng béé ɔ́ɔ́rè fĩ̀ĩ̀ lɔ́ɔ́ éng.
+Yóɔ̀ráá: Fó bá báng, tè dá máng zɔ̀ɔ̀rɛ́ɛ́ táà nè à púllúù yɛ́lɛ́. 
+Érɛ́sóng: Nèɛ̀ ngá ná máng yélè ká bá púllí tólóng fĩ̀ĩ̀ kà kángá kà ɔ́ɔ́rè fĩ̀ĩ̀.
+Yóɔ̀ráá: Énkyáá fó bámmó nyɛ́! 
+
+Áyͻ̀ͻ́ tè yí lá kóláá wàànah kà sáánà kàńg páà sòòrè O à Nààyírí sórì yέlέ
+
+Sáánà:	Fò kóláá bè sóǹg, Pͻ̀gsáràà. Nààyírí sóŕi lá ká N bóͻ́rͻ̀.
+
+Àyͻ́ͻ̀: 	Oó, ò bé lá sóng. A Nààyirí bá è tͻ̀ͻ̀ré. Déὲ dé à sórì nyε̃ dáá dáá. Fò nà kyέng lá lέέ, à tè nyέ yízèέ kàńg. Pàrè à yìrì kyέ là kyέng bíláá. Fò nà nyέ lá sókyárá kàńg.
+
+Sáánà::	Òhõ, Ǹ kyὲllέ lá.
+
+Àyͻ́ͻ̀:	Fò nà dé lá à dòlòńg sórì ná. Fò ná kyέng tá sógͻ́ lá, à nyέ tìkpóǹg kàńg náng bé fò gͻ̀ͻ́ sέng ná. Pàrè à tèέ. Kààpͻ́g gbà fò nà nyέ lá nóbͻ̀ kà bá zèng à tèὲ páré. Bòkòng-tá-wέ lá.
+
+Sáánà::	Òhõ, lὲ lá béé?
+
+Àyͻ́ͻ̀: 	Lὲ là. Gáng á bòkòng-tà-wὲ bárè. Kyέng béláá kyέ ká́á́ fónímìtͻ̀ͻ̀rè. Fò ná nyέ lá yíkpóǹg kàng náng tè àè. A Nààyírì lá lέ.
+
+Sáánà::	Pͻ̀gsáràà, fò tàá lá pùòràà yágà! Ngmèn nà sóng fò.
+
+Àyͻ́ͻ̀:	Pùòràà kyé bé. Fò nà kyέng sóng.
+
+Sáánà::	Bárká!
+
+
+Yɛlɛ minne mannoo			Some expressions
+Dòlòńg sέng			Right hand side
+Gͻ̀ͻ́ sέng				Left hand side
+Pùòrí sέng				Behind
+Nímísógͻ́				In front
+Dáá dáá				Straight ahead
+Tèὲ páré				Under the tree
+Tángá zú				On top of the mountain
+Tángá séέ				By the mountain
+Sàpáré sέng				Towards east
+Lòòrí sέng				Towards west
+
+Ngmáà	Turn
+Tú	Pass
+Bárè	Ignore
+Kyáárè	Face/facing
+Saana: Bipɔlee, fo yoɔbo be song?
+Yɔbonzie: O bee song, n beɛre. Ka fo yi zie be song? 
+Saana: Gaafera, fo na bang wuli ma la Jirapa Dubai sorii?
+Yɔbonzie: Oo, a zie ba taa bommo. Ka fong wa iri, deɛ zoro daadaa gɛrɛ. Fo na te ta la sokyɛrɛ kanga kɔvare nang bing a sonsoga poɔ. Ngmaa tu a gɔɔ sori. Deɛ tu a sori nga gɛrɛ fo na te ta la be a koltare nang baare; a nimitoore zaa e la soziɛ. A koltare baaroo zie, sori kanga gang la a gɔɔsɛng a eng taa koltaare. Ngmaa tu a sori nga. Fo na zo la te kpɛ tenglee kanga pare yi a la te guo tanga kanga do. Dubai be la a tangazu. Fo na nyɛ la a Dubai deri nang saa a dulongsɛng ka a veɛlong boɔlɔ fo. Kyɛ fo nang zo sigi fii; fo na nyɛ la a panyɛlong fo na na tu kpɛ fo dulong seng. 
+
+
+
+Direction for a recipe
+Pore	Pour
+Ɔng	Fetch
+Dɔɔng	Stir/mix
+Kyee	Fry
+Sɛ	Roast
+Waale	Steam
+Duge	Boil
+Tole	Heat/warm
+Ngma	Chop
+Ngmaa	Cut
+Leɛre	Turn over
+Uuri	Steam, just vapour
+Dugle	Put on fire
+Togi	Take off from fire
+Pɔge	Cover
+Yuo	Uncover 
+Maa 	Cool down
+Tage	Thick
+Koɔ	Watery
+Eng	Put/add
+Kpaara	Boiling
+Saan	Mash
+Ɛre	Blend/grind
+Kyoɔre	Sieve
+Wɛle	Separate
+Be/beɛɛ/beɛ	Cooked/ready/getting ready
+Tɔ	Pound
+Zɛ	Sieve
+Yeɛle	Winow
+Pɛle/pere	Peel/dehusk
+Beɛre	Slice
+Dàkóráá:	Adàmú, mánné à fò yídèmé yέlέ kó té wὲ
+
+Adàmú:	Tóó, Ǹ yí lá Kógrĩ. Ǹ sàà yúórí lá Yínyέ kyέ kà N má méng yúórí dì` A-ùrèé.
+
+Dàkóráá:	Fò yòńg lá à bà bíé béé?
+
+ Adàmú:	Aí, à tè dͻ́bͻ́ é lá bátà kyέ kà à pͻ́gbͻ́ méng è bànáárè. Màà lá à bìdὲngdέngέ. A tè bèrèbááráá déὲ báárέέ sàkúúrì pàmpánà.
+
+Dàkóráá:	Kà fòò éng? Fò wá táá bíírí béé
+
+Adàmú:	Ǹ táá lá bíírí bátà: pògyááré lá bàzàà. Ǹ yͻ́ͻ́léé kàngá táá lá bíírí bà núú! A N ̀púúléé kàngá méng táá lá bíírí bànáárè, kà kàngá méng táá bíírí báyì. Ǹ yͻ́ͻ́ púúlè báyì nàng bá kúlí sérébέsέré. N` yͻ́ͻ̀ kànga méng nàng wá dé pͻ́gé sέré.
+
+ Dàkóráá:	Fò sàà né fò má táá lá yángmìnè yágà lε̃.
+
+Adàmú:	Yèlmèng lá! Bà póóré zàà’ng pὲlè. Néngkpóng zàà máng bóͻ́rͻ̀ lá yángáá. Ǹ bíírí máng yéléé bà sààkómá né bá màkómà mìnè yέlέ yágà.
+
+kyebe 
+Balaara
+kpɛ muo/faare o mengɛ
+Ba kyebe
+Ba la eraa
+Saa
+sɔgle
+Bore
+
+
+
+Dɛlle
+Yage
+Uu
+Maale kuu
+
+
+Alliteration
+Sage sɔri sooree ɔɔ
+Da deɛmɛ daa die
+Teɛ taa ne teɛrɛ
+Nankoɔse noɔre nomo 
+Pɔgsarilee page pɔge pane
+Ba bang ba biiri
+Kɔkɔlaa kɔre kamaana eng kaa poɔ
+Zɛngzɛng soba zo zie zeɛ zeɛre 
+Yengedme yangaa yɛng yaa yallɛɛ la
+Saa mɔnɔ mɔng mɛ Mɛyiri ma makoma laa
+
+Assonance
+
+Ka ba da na wa la
+Kuri muri la dalugri pare
+Nyɛ seɛ nang vɛng ka ba teɛ seɛ
+Mɔ ɔng dɔri koma
+Zo do doloraa
+
+Simile
+Boɔrɔ yuori nga kaloo/zama
+Tona nga bondaa
+Nyegrɛ nga salma
+Veɛlɛ nga wɛkpaao
+Kyili nga kɔrmɔlee
+Sɔɔ nga haara
+Fane nga gbɔga
+Pɛle nga kyuu
+
+Metarphor
+Kpɛsaaseɛre
+Maang poɔ pie
+Daasennyoɔlee
+Sɔglaa
+Melaa
+Pɔgebaa
+Badɛre bonlee seɛ
+Naapɔge poɔ la
+Zulee ne Kpangaa
+Pɔge wa kooraa
+   Die bugo
+ 
+
+
+
+
+Onomatopoeia
+Kpengkpegleng
+Vooo
+Vurr
+Hurr
+Kpao
+Gbaen
+Kilegreng
+
+
+
+Personification
+Saa kono la
+A gonne laɛ la
+A kamaana dɔgɛɛ la
+A vuu kpiee la
+Saa gmɛ ma la
+
+
+Irony
+Veɛlɛ nga bangyeraa saare
+
+Exaggeration
+kɔng zaang kpɛ mɛ
+Kɔnyuuri zaang kpɛ ma
+A tengazu zaang saa
+
+Idioms
+Ngmaa seɛ
+Eɛ ko
+Yɔlle
+Mele
+  Ɔng eng
+ Kpɛ lare
+Zu kong kpɛ laa
+Seng neɛ
+
+bóndìréé	Food	sèngkááfá/mui	rice
+Dáà	Drink	séngkáà	ground nuts / peanuts
+dáázèέ / pìtó	locally brewed beer	Séngkáázὲèré	ground nut soup
+Kámáánà	Corn	símíé	bambara beans
+Kyí	Grain	Sέrmááné	pepper
+kóóséé/ sénsέ	Cakes	yààròng	salt
+Kòͻ́́	Water	Zéὲ	millet 
+sáálóng	Okro	Z̀ὲeré	soup
+sáálong zèὲré	okro soup	zὲváárè	green leaves soup 
+(vegetable soup)
+sááó / áábó	typical Dagaare staple food made of (millet) flour		
+
+2.	Dialogue
+
+(1)
+Báyúó:	Bàkóré Dàkóráá, wà dì sááó!
+Dàkóráá:	Pùòràà bébé lá yágà! Kͻ́ǹg kpέ má lá!
+Báyúó: 	Kòͻ̀ lá bìng kyὲ. Pέgè fò nú.
+Dàkóráá:	Ohòò, à sááó nyέ zèὲré nòmͻ́ lá yágà. Ang lá dóg’áá?
+Báyúó:	Áyúó lá dógé à zèὲrέ. O mà lá mͻ̀ngè à sááó. Áyúó, Dàkóráá pùgró fó lá à zèὲré dógòò.
+Áyúó:	Bárká. Kà yὲnéé’ng wà bóͻ́rͻ̀ ká yέ èng yààròńg béé sέrmáánéé bíláá áná láàmὲ.
+Dàkóráá:	A séngέέ lá!
+Báyúó:	Áyúó, írí à sààlͻ́ré kàngá wà póͻ̀.
+Dàkóráá:	Á sèngέέ lá. Tè nà tégé lá. N kòng dí yágà.
+Báyúó:	Áyúó, náng ͻ̀ng kòͻ́ wà kò má ká N nyú.
+Áyúó:	Tͻ̀ͻ́, à kͻ̀nyúúrí lá ámὲ
+Báyúó:	N nàngnyú kòͻ́ wà báórè nyέ N pàà tégέέ lá. Dàkóráá nàng dí à nͻ́dέgrè kòͻ́ kó má.
+Dàkóráá:	Fò tégέέ lá wíé lέ
+Áyúó:	Báyúó, bòng lá ká fó né sáánà dìré bómá ká fódéὲ dàng’òó ìrì
+ Báyúó:	Dàkóráá bá è sáánà!
+Dàkóráá:	N mèng tégέέ lá gbà, déà kòͻ́ kó má ká N pέgè N nú. Aýúó, wà wùò à lááré.
+
+Dͻ́ktà:	Fò yúoŕi lá bóng? 
+Bààlá:	N yúorí lá Dὲré.
+Dͻ́ktà:	Fò yèng lá bèὲrέ?
+Bààlá:	Nzú ͻ̀ͻ̀rá lá, kà ǹ póͻ́ méng bèὲrέ. N éngέ zàà déὲ tólέέ lá yágà.
+Dͻ́ktà:	A fol bààlòńg nyέ é là bèrí àwólà?
+Bààlá:	À bérí átà lá nyέ ǹ zũ nàńg ͻ̀ͻ̀rͻ́
+Dͻ́ktà:	Dónné máng dóng fò lá béé?
+Bààlá:	Oó, dónné máng dóng dóng má lá. N bá táá túngtúngdángná.
+Dͻ́ktà:	È kà ń séénè à fò éngέ. Dé tàmóómétà nyε̃ èngέ fò nóͻ́r’éng. Fò tέmpéréékyà é lá dìgíréé l̀izáré né píé né ànéé. Fò nóͻ́rè nòmͻ́ lã?
+
+Bààlá:	Àí! 
+Dͻ́ktà:	Ǹ téέré ká màlááréyà nyͻ́gé fò lá. Ǹ nà kó fó lá tèé ká fó kúlí nyúúrò. Ǹ nà é lá ká à nέέsé méng kyͻ́gé fò.
+
+(i)	“N yèng lá nyέ” exercise
+(ii)	Song about parts of the body:
+N táá lá źu bòn yúú
+A nétóbó áihy
+A ní nímíé a yí
+Engέ bòn yení́
+A né nyúú
+
+Some parts of the  body
+Dagaare……………………………………..English
+Nyaga………………………………………..intestines
+Sukyiri/gbogri……………………………………….heart
+Sɔɔree…………………………………………liver
+Kpegre…………………………………………gizzard
+Seɛ………………………………………………waist
+Nubi-eɛnee/eɛmɛ……………………………………….fingernail(s)
+Gbebi-eɛnee/eɛmɛ………………………………………toenail(s)
+Bere/Berɛ…………………………………………breast(s)
+Nyaa……………………………………………….chest
+*gyiile…………………………………………tendons
+Ziiwoore………………………………………..veins
+Kɔbɔ…………………………………………….bones
+Engane…………………………………………skin
+Enɛne…………………………………………..flesh
+Nyɛbie……………………………………….ribs
+Baalugo……………………………………….armit
+Nimigyɛle………………………………………eyeball
+Zele…………………………………………tongue
+Nɔgbɛmɛ……………………………………..lips
+Nyimɛ………………………………….teeth
+Nimikɔɔlong…………………………..eyelashes
+Tamanyinɛ…………………………….gum
+Nubie…………………………………fingers
+Paresɛgɛ………………………………buttocks
+Posogekɔɔree/posogedaa………………………….spinal cord/spine
+Yaga……………………………………………………cheeks
+Yagkɔɔre/yagkɔbɔ……………………………….jaw(s)
+Teɛne…………………………………………….chin
+Kyel/hɔgpɛngpɛlɛng………………………………spleen
+Falenfoogo…………………………………………lungs
+Kalenkaa………………………………………….gall bladder
+Kɔkɔyoraa.......................... .wind pipe
+Begɛ/begre..................wing(s)
+
+dàá	market	kòͻ̀r	sell
+kááyáá	goods	bárrè	to haggle  
+lìbíè	money	à dááó é lá túó	costly
+dà	buy	à dááó é lá mͻ́lͻ́	cheap
+
+2.	Dialogue
+
+Bóndáárá:	A kpàróò nyέ dààróǹg lá bóng?
+
+Nàngkóͻ́rͻ́:	A kpàróò nyέ la sidi turi ata! 
+
+Bóndáárá:	Ábà! A kpàróò dàá é lá túó. N bárrέέ là!
+
+Nàngkóͻ́rͻ́:	A kpàróò nyέ é lá vèlàà yágà! Fò nà sú’ó lá kͻ̀ͻ̀rͻ̀ kyέ ká ó zágé.
+
+Bóndáárá:	N bͻ̀ngὲὲ lá kyέ ò dááó é lá kpéέngáá yágà. Ngmàà bàrè!
+
+Nàngkóͻ́rͻ́:	Tóò, N írí lá sídí kͻ̀ͻ̀ré ànúú bàré. Pàmpánà ò dàá é lá mͻ̀̀lͻ́. Irí sídí túrí áyì né kͻ̀ͻ̀ré ànúú tèrè!
+
+Bóndáárá:	N bákóré, N nà kó fó lá sídí túrí áyí.
+
+Nàngkóͻ́rͻ́:	Tóò, dé à kpàróò sídí túrí áyì.
+
+Bóndáárá:	Bárká, Dé à lìbíè
+	
+1.	Vocabulary
+
+dáà	drink / alcohol	daapge	pito brewer / seller
+dáá (zèέ) / pítõ	locally brewed drink	dáányúúríbó	alcohol drinkers (customers)
+Dáádógè	pot of pito		
+dáángmáné	calabash (of pito)		
+
+2.	Dialogue
+
+Báyͻ̀ͻ́	:	Ǹ bámìné, nyέ dáádógèléé náng b’ǹg Pͻ̀gdáà dèndͻ́rè nóͻ́rè Pͻgáà mͻ̀ͻ́ yàà d́ógé lá dáà béé?
+
+Básnéǹg	:	Kà té kpέ wὲ. Kͻ̀ngnyúúrì kpέ má lá yágà.
+
+Áyúó	:	Pͻ̀gdáà dáányúŕìbó kpέ wà zèngὲὲ lá. Ǹ dé dáà kò ba béé.
+
+Pͻ̀dáà	:	Dé dáángmámá gàà te bìng kyέ sòòrè bá sέré? Bá é lá néng bà wólà?
+
+Áyúó	:	Bà é lá bànáárè.
+
+Pͻ̀dáà	:	Dé dáángmámá ànáárè ámὲ gàà tè bìng kyέ dé ángsómá kó bá.
+
+Áyúó	:	Yὲ ángsómá! Yέ é kà Ǹ póré dáà kò yέ.
+
+Báyͻ̀ͻ́	:	Pͻ̀dáà né Áyúó, à yὲ dáà nyέ páà nòmͻ́ lá yágà. Yέ dé dáádógré áyì wà né.
+
+Áyúó	:	Ǹ màbílé Pͻ̀dáà, bà yèlì ká Ǹ dé dáá dógrè áyì wà né.
+
+Pͻ̀dáà	:	Dé à bònbέrὲ nà áyì nàńg è Sídí kͻ̀ͻ̀rè ànúú àńúu gàà tè kò bá. Dé à dáábéléngmáné gὲrέ né à tè éέrèà dáábélé bàrè.
+
+Báyͻ̀ͻ́	:	Áyúó, fò né fò màbílé Pͻ̀dáà, à yέ dáà nyέ páà fárέέ là yágà
+
+Básnéǹg	:	Áyúó, gàà yèlì kò à fò màbílè Pͻ̀dáà ká ó là dì dáá dógrè áyì wà kò tè.
+
+Báyͻ̀ͻ́	:	Ábà Báséǹg! Tè nà tóͻ́ lá à dáà nyέ nyú? Tá èrέ ká té wà bùgì wὲ.
+
+Básnéǹg	:	Tóò, kà lὲfóò lá é kà té yͻ́ͻ́ kyέ gàà. Áyúó, tá là dé à dáà wà. Wà dé à lìbíè.
+
+Báyͻ̀ͻ́	:	Áyúó, à dáà àwòlá lá?
+
+Áyúó	:	Sídì túrí là!
+
+Báyͻ̀ͻ́	:	Dé à lìbíè. Sídì túrì áyì gánè lá. Ngmáré kó té kyéngyì.
+
+Báyͻ̀ͻ́	:	Bárká, tè gὲrέ lá. Wúó à ngmámá.
+
+Básnéǹg	:	Kààpͻ́gètè nà léέ wà lá zìmááné sángà à wá nyú à tè dáábìnnáà.
+
+Áyúó	:	Tóò, tè nà kyέllέ yέ lá.
+
+sórì	road, journey	Tátángέ	reach a destination
+yísórì	go on a journey	dé lͻ́ͻ́rè	go by car / lorry
+Kyέng sóng	Safe journey!	Kpὲ àlóópèléè	go by car
+Tè bé lá pùòrí	See you later!	Zͻ̀ͻ̀ sákèrè kyέng gbέὲ	Walk
+
+2.	Dialogue 1
+
+Dááré kànǵ Dàkóráá né ò yídèmé zèngὲὲ lá; à séllὲ sénséllὲ, kà Dàsáá wà ngmὲ bà páné.
+
+Dàsáá:		Agòò ! Ańg bé díé’ǹg?
+
+Ayͻ̀ͻ́:		Dàsáá, kṕὲrὲe wààná; tè bé bé lá. 
+		
+Dàsáá:		Ayͻ̀ͻ́ Ǹ wààná ká Ǹ yèlì kò fó ká bíéú Ǹ gὲrέ lá Ǹ áréyírì.
+
+Ayͻ̀ͻ́:		A fò áréyírì é lá tͻ̀ͻ̀ré bèè? Fò nà kyέng lá gbέὲ bée ́fò nà dé lá ́ͻ́rè?
+
+Dàsáá:		Ǹ áréyírì lá Nàdòlí. A Nàdòlì bá péέlè kyέ ò bá là è lέ tͻ̀ͻ̀ré méng. Ǹ nà zͻ́ͻ́ lá sákèrè gàà.
+
+Pͻ̀gzèέ: 		Tèng bóò kà fó nà tú gàà à Nàdòlì?
+
+Dàsáá:		Ǹ nà yí lá Ulò à tè gàà Gyèrέbàá kyέ páà tè tá Nàdòlí.
+
+Ayͻ̀ͻ́:		Nyέ dàkógé! Zèng à séllè sénséllὲ kò té.
+
+Dàsáá:		Aí, Ǹ kòng zéng. Ǹ nà dáng lá írúú bíéú bágúó. Írì yí bèὲlè má ká Ǹ kúlí.
+
+Ayͻ̀ͻ́:		Tóò, írì ká Ǹ bàrè fó sórì.
+
+Pͻ̀gzèέ: 		Pulò̀rì à fò árébámìné Kyέng sóng!
+
+Ayͻ̀ͻ́:		Tóò kà yέ zéng sòńg. Tè bè lá pùòrí.
+		
+ 
+pͻ̀gè páné
+yí yègé
+págé kááyáá
+zὲlè wóͻ́ 
+yùò páné
+zͻ̀ͻ̀ sákèrè
+tá téngέ
+pùòrí à téngέ nóbà
+sígí à sàkèrè zũ
+bìngì à sákèrè
+
+Vocabulary
+
+zèέ	red
+sͻ́gláá	black
+dòͻ̀ré	yellow
+pélàá	white
+úlí	grey
+tevaa	green
+
+3.	Dialogue 
+
+Báyͻ̀ͻ́:		Bákóré Dàkòráá, fò kòng gáá à kùòrí zénέ béé?
+
+Dàkóráá:		Àng lá kpì?
+
+Báyͻ̀ͻ́:		Kààné dèmé dͻ́ͻ́ kàng lá kpì.
+
+Dàkóráá:		Ǹ nà gáá lá! Kyέ Ǹ pàà wá táá kpàré zͻ̀gláá. Kpàré zèèrè yóng lá ká Nl táá.
+
+Báyͻ̀ͻ́:		Ǹ nà kó fó lá Dàgákpàré sͻ́gláá. Fò kòng tóͻ̀ tàá kpàré zèέ gàà kùòrí.
+
+Dàkóráá:		Ǹ kùrèè nyέ pàà é lá dòͻ̀ré béláá.
+
+Báyͻ̀ͻ́:		Á ná éǹg bá è yélí zàá. Kà à kùré’ńg è dòͻ̀ré béé úlí béé ngmààlóǹg zàà, kyέ kà à kpàróò è sͻ́gláá béé pèlàá béé lénnè lénnè, à lὲ séngέ lá.
+
+nyéráá	báá	sóͻ́ngáá	dòbáá / pòríkó	gbéngní
+ 	 	 	 	 
+wὲnàá	wͻ́ͻ̀	bóͻ́	péróó	kͻ̀kͻ̀láà
+ 	 	 	 	 
+wááó	nùúléé	vígí	nóléé	nóͻ̀
+ 	 	 	 	 
+kpááó	kùntùng	bͻ́bóè	zómmó	kùnkúní
+ 	 	 	 	 
+lɔ́ngɔ́	lɔ̀ngɔ̀	ɔ̀ngɔ́	dàkyènͻ́gùó	ngmáágà
+ 	 	 	 	 
+dóngɔ̀	bɔ̀ngɔ́	wìrí	έbàá	nááò
+To distinguish between male and females animals, add daa to males and pɔge to females.
+For instance
+Bɔɛdaa  drake  bɔɛpɔge    duck
+Bodaa  Billy  
+
+
+To identify offspring of animals, add lee/bile to indicate singular bilii for plural
+
+Bolee/bobile/bobilii
+Flora
+
+tépúrmó/tepuuri	flowers	móɔ́	grass / bush
+wèέ	farm	tèέ	tree
+Tángáá	shea tree	gòngó	cotton tree
+váárè	leaves	gáà	ebony tree
+móngó	mango tree	dòͻ́	dawadawa tree
+ángsígnéé	(kind of) berry	kyèràá	akearrle tree
+tɛne	soil		
+biiree	sand		
+yagraa	clay		
+			
+Dέré é lá kóͻ́ráá. Ò kͻ́ lá bómá yágà à ò wèὲ póͻ́. Ò táà lá kyí, bέngὲ, símíé, sèngkááfá, kámáána, sènkáà, sáálóng àné kómmíé.
+
+Dέré gúoló lá dónné méng. Ò tàá lá dónné yágà lε̃ à ò zàgá póͻ́: níì, bóórè, péérè àné nóórè.
+
+Dέré é lá nàngkpááná méng. Ò máng yͻ́ lá móͻ́. Ò máng kó lá wὲdónné yágà. wὲníì, sóͻ́né, ìrrí, wállé, etc. Kyέ Ò nàng wá kó gbéngné sέré.
+
+séέré	dance (n.)
+sèὲ	to dance
+yíélúng	song
+Yíélì	to sing
+ànléé	women dance
+báwáá	a kind of dance
+à sèὲ báwáá	to dance
+à ngmὲ gàngàá	to beat / play the drum
+à yíélì yíélúng	to sing a song
+gàngàá	drum
+
+2. Dialogue 
+
+Áyúó:	Séέré gàngàré yàà kònó lá. Yὲ yàà tàá lá séέré zénέ béé?
+
+Báyͻ̀ͻ́:	Séέré lèè lá yágà zénέ. Dàsáá bá yèlì kò fó béé?
+
+Áyúó:	Lὲ lá béé? Ǹ bͻ̀ng ká pàmpáná nyέzàà kà Dàsáá nà kpέ wà kyε̃ kà té náá gàà tè sèὲmséέré. Kààpͻ̀g Ǹ nà nyέ fó lá bé. Ańgmìné là ngmèὲrέ à gyìlè né à gàngàré zénὲ?
+
+Báyͻ̀ͻ́:	A gàngàngméέbέ né à gyìl’ngméέbέ yí lá Tìzzã. Bà máng ngmέ lá vèlàà yágà.
+
+Áyúó:	Tá wà yìnnè à fò kyéém né à fò séέré kùréè. Ǹ nà sú lá Ǹ sèὲ sèὲ ká́áyáá yí gààtè pͻ́gè Dàsáá.
+
+
+
+
+
+
+
+
+
+
+Activities:
+
+Listen to the following songs:
+
+(I) Bá yáá wáέ lá yéé – They Have Come Again
+
+Bá      yáá     wáέ      lá       yéé
+3.PL    again    come  	FOC   	PART
+‘They have come again’
+
+Bá     	yáá	    wáέ	     lá      yéé
+3.PL 	again 	come 	FOC 	PART
+‘They have come again’
+
+Bòwáálέέ 	yáá	    wáέ    	lá  	     yéé
+Bowaalee 	again 	come 	FOC 	PART 
+‘Bowaalee have come again’
+
+À      	yáá     wáέ	    né   	pͻ́lóó
+DEF 	again 	come 	with 	pride
+‘Coming again with pride’
+
+Bá     yáá    	wáέ    	lá   	yéé
+3.PL 	again 	come 	FOC 	PART
+‘They have come again’
+
+Bá     	yáá	wáέ    	lá      	yéé
+3.PL 	again 	come 	FOC 	PART
+‘They have come again’
+
+Bòwáálέέ 	yáá	wáέ     lá   	yéé
+Bowaalee 	again 	come 	FOC 	PART 
+‘Bowaalee have come again’
+
+À     	yáá      wáέ    	né  	pͻ́lóó
+DEF 	again 	come 	with 	pride
+‘Coming again with pride’
+
+*****
+Pààwélέέ   yáá    wáέ     lá    yéé 
+Pààwélέέ   again   come   FOC  PART 
+‘Paawelee have come again’
+*****
+Màrtéénέέ   yáá    wáέ    lá    yéé 
+Màrtéénέέ   again   come   FOC PART 
+‘Mareteenee have come again’
+*****
+Màrwárέέ   y!áá    wáέ     lá    yéé
+Màrwárέέ   again   come   FOC   PART 
+‘Marwaree have come again’
+*****
+
+A     	 yáá      wáέ      né   	pͻ́lóó 
+DEF 	again 	 come 	 with 	pride
+‘Coming again with pride’
+
+(II) Ándónέέ yέ nòòrͻ́- People of the World Tread Carefully
+
+Ándónέέ      yέ      nòòrͻ́  	yééé   			(repeat many times)
+Masses		2.PL 	move 	back PART
+‘People of the world be careful.’
+
+Kúú   	bé 	pùórí 	yàa  	 tè  	wááná   (repeat many times)
+Death 	be 	back 	again 	DIR 	come
+‘Death is imminent.’
+
+Bòwáálέέ 	yέ    	nòòrͻ́ 	yéé
+Bowaalee 	2.PL 	move 	back PART
+‘Bowaalee be careful.’
+
+Kúú  	bé  	pùòrí 	yàa	te  	wááná
+Death 	be 	back 	again 	DIR 	come
+‘Death is imminent.’
+
+(III) Kònó wááná   yéé - Oh, Come Mourn with Us
+
+Kònóó     wááná     yéé
+Weep-IMP come-IMP   PART
+‘Come along and mourn!’
+
+Kònóó     wááná     yéé
+Weep-IMP come-IMP   PART
+Come along and mourn!
+
+Fò 	náng 	wá   	táá    	sáá     	né  	má
+2.SG yet 		NEG 	have 	father 	and 	mother
+‘Though parents you no longer have’
+
+Kyͻ́          méng 	Kònóó     	wááná	lέ
+but. 2.SG 	also   	weep   	come 	PART
+‘You may also still come along to mourn with the others.’
+
+Kyͻ́        	méng 	Kònóó	wááná	lέ
+but. 2.SG 	also   	weep   	come 	PART
+‘You may also still come along to mourn with the others.’
+
+Kònóó      wááná   yéé
+Weep-IMP 	come-IMP 	PART
+‘Come along and mourn!’
+
+Kònóó       wááná       yéé                                         
+Weep-IMP 	come-IMP 	PART
+‘Come along and mourn!’
+
+Bèkpéé 	wá     	táá    	sáá    	né    	má
+orphan 	NEG 	have 	father 	and 	mother
+‘Though, orphan as you are -   no longer having parents’
+
+Kyͻ́         méng 	Kònóó	wááná	lέ
+But. .SG 	also   	weep   	come 	PART 
+‘You may also still come along to mourn with the others.’
+
+Hííné    wááná    yéé 
+Wail-IMP come-IMP PART
+‘Come along and wail!’
+
+Hííné      wááná     yéé
+Wail-IMP come-IMP   PART
+‘Come along and wail!’
+
+Fó     	náng 	wá     	táá     	sáá    	né  	má
+2.SG 	yet    	NEG 	have 	father 	and 	mother
+‘Though parents you no longer have’
+
+Kyͻ́          méng 	  Hííné	wááná	lέ
+But. 2.SG 	also   	weep   	come 	PART
+‘You may also still come along to mourn with the others.’
+
+Kyͻ́        	méng 	Hííné	wááná	lέ
+But. 2.SG 	also   	weep   	come 	PART 
+‘You may also still come along to mourn with the others.’
+
+ngmàà-dà-kóré     bá     yínn-é      tèὲ        dúó-ù
+monkey-male-old  NEG   forget-IMP   tree    climb-NOM
+'An old monkey never forgets how to climb trees.'
+tá    tá     má     séέ      lá   bàrè    má   ǹ    nú
+NEG reach    me   be.better  FOC  leave   me   my  hand
+'Don't get near me is better than leave my hand.'
+ENG: Prevention is better than cure.
+tágè	  ka	   ń  tágè  lá   kyèὲ-né    ngmáné
+pull	  and  I  pull  FOC	tear-IMP   calabash
+'If we fight over a useful thing we may both lose it.'
+bì-bil-tòng –zágr-á				bá		dì-ré		bón-káà
+child-small-send-refuse-AG    NEG   eat-IMP    thing-oil
+'A child who refuses to go on errands does not get the opportunity to eat juicy things'
+báá-ré     áyì   sóͻ́ngáá     bá	  bͻ̀-rͻ́    
+dog-PL    two   rabbit      NEG   lose-IMP
+'When two dogs chase a rabbit, it hardly escapes.'
+ENG: Two heads are better than one: reference to the virtues of teamwork.
+wá-bͻ́ng-nͻ́    	lá     tèὲ-rέ    kùrí
+NEG-know-AG  FOC  shoot-IMP  tortoise
+'It is only a novice hunter who shoots at the tortoise.'
+bà   bá    pùg-ró    bà-zò-ráà    ò   nìgé   sog̀ͻ́
+they NEG praise-IMP  dog-run-AG   it   face   in front
+'You do not praise a fast dog in its presence.'
+Zú –ngmáá-rá    lá 	 zò-roæ   sòɔ́
+head-cut-AG    FOC  fear-IMP  knife
+'The executioner fears the knife'
+Sááná     lá    pùò-ró    wòngó
+stranger   FOC  greet-IMP  deaf
+'It is only a stranger who greets the deaf'
+Nímí-è áyì	áyì		bá		 mùùl-ó		tókókyiìlé		
+eye-PL      two    NEG    peep-IMP     baobab.fruit
+'You do not use two eyes to look into a baobab.fruit (like a bottle).'
+
+Yes 	òό
+No	àí
+Thank you  	bárká
+Thank you very much 	bárká yágà
+You're welcome	fò sórì yááná. /bárká kyé bé
+Please	nàng
+Excuse me / Sorry	gááfárà
+Hello   	fò bé sóǹg? 
+Goodbye  	kyέng sóng
+So long  	tè bé lá pùòrí. 
+Good morning 	fò/yὲ ángsómá
+Good afternoon 	fò/yὲ ngménáá
+Good evening 	fò/yὲ zìmááné
+Good night 	gáǹg sòńg
+I do not understand  	ǹ báwòng àpáré/ ǹ bà bàng á múní
+How do you say this in English? 	wólɔ̀ kà ińglísì dèmé máng yèlì à lὲ?  
+Do you speak ... 	fò wònό lá ---- 
+English  	Ińglísì/bͻ̀rfͻ́/nàsààréǹg
+French 	Fàránsè
+German 	Gyέέmàà,
+Spanish 	Sìpáánísí
+Chinese 	Kyáánádémé kͻ̃kͻ́rè
+	
+I  	ǹ
+We 	tè
+You (singular, familiar) 	fò
+You (singular, formal) 	fò
+You (plural) 	yὲ
+They 	bà
+What is your name? 	fòyúórì lá bóng? 
+Nice to meet you.	n ̀póͻ́ pὲlὲὲ làné ǹ nàńg nyέ fò.
+How are you? 	fò bèsóǹg? 
+Good /I am fine	ǹ bẽ lá sõng
+Bad / Not so fine 	à bá sòmͻ́
+So so 	lέ mìné lá́/ǹ kyàglὲὲ
+	
+
+Wife 	
+pɔ́gɔ́
+Husband 	sérέ
+Daughter	pͻ̀gyáá /bìpͻ́gͻ́
+Son 	bìdͻ́ͻ́
+Mother 	mã
+Father 	sàá
+Friend 	zͻ̀mèngá/bákóré/kyὲnέ
+Where is the bathroom? 	yèng lá à kõnsòdì̀ebé?  
+	
+Numbers:	Námbàre
+0, zero  	tógítógí
+1, one 	bóngyénì / yèntì
+2, two	áyì / yìì
+3, three	àtà / tàà
+4, four	ànáárè / náárè
+5, five	ànúú / núú
+6, six	àyòͻ̀ó / yͻ̀ͻ̀
+7, seven	àyͻ̀póì / pόì
+8, eight	àníì / níì
+9, nine	àwáé / wáé
+10, ten	píé
+	
+11, eleven	píé né yénì
+12, twelve	píé né Áyì
+13, thirteen	píé né Átà
+14, fourteen	píé né Ànáárè
+15, fifteen	píé né Ànúú
+16, sixteen	píé né Àyòͻ̀ó
+17, seventeen	píé né Àyͻ̀póì
+18, eighteen	píé né Àníì
+19, nineteen	píé né Àwáé
+20, twenty	lèzárè 
+	
+21, twenty one	lèzárè né yénì
+30, thirty	lèzárè né píé
+40, forty	lèzááyì
+50, fifty	lèzááyì né píé
+60, sixty	lèzáátà
+70, seventy	lèzáátà né píé
+80, eighty	lèzáànáárè
+90, ninety	lèzáánáárè né píé
+100, one hundred	kͻ̀ͻ́
+1,000 one thousand	tũr
+1,000,000 one million	tũr tũr
+1, 000, 000 000 one billion	tũr tũr tũr(bũr)
+	
+Shopping/Dining:	Bóndà / bóndì:
+How much does this cost?	àwólá lá à bon nyε
+What is this?	bòng lá nyέ? 
+I'll buy it.	ǹ nà dá ó lá
+I would like to buy …	ǹ bóͻ́rͻ́ lá ká ń dà ……
+Do you have ...	fò táá lá … 
+Do you accept credit cards?	fò nàńg dé lá líbíèkár̀tààré béé?  
+Open	tè yùòè lá
+Closed	te pͻ̀gὲὲ lá
+Postcard	Pùòráákártàá
+Stamps	Támpè
+A little	béláá / fíí
+A lot	Yágà
+All	à zàá
+	
+Breakfast	bágúódííú
+Lunch	ngménáádííú
+Dinner	zí̀máánédííú
+Vegetarian	kòngͻ́ͻ́nέnèsòbá / bónváàryòńgdíráá
+Kosher	dííúlóngkóróò
+Cheers!	yέ nyͻ́gé ngmámá!
+Please bring the bill.	nàng tàá à lìbìyͻ́ͻ́kàrtàá wà né
+	
+Bread	bòròbòrò
+Beverage	bóndìkòͻ́ / búúlúńg
+Coffee	kͻ̀fì
+Tea	tíì
+Juice	bónkòͻ́ / tèwͻ́mͻ̀kòͻ́
+Water	kòͻ́
+Beer	béὲ
+Wine	vínóó
+Alchohol	dáà
+Salt	yààròńg / nyààròńg
+Pepper	sέrέmáánéé
+Meat	nέnè
+Beef	náánέnè
+Pork	põrknέnè
+Fish	zómͻ̀
+Poultry	nͻ́ńεnè
+Vegetable	zèváárè
+Fruit	tèwͻ́mͻ̀
+Potato	nànyùùrí / nànyíè
+Salad	vákãrè
+Dessert	nͻ́mέlέ
+Ice cream	áísíkríìm
+	
+Travel:	Sóbítù:
+Where is ...?	yèńg sέng lá ká … bẽ?
+How much is the fare?	à lͻ́ͻ́rélìbírí é lá àwólà?
+Ticket	tígítĩ
+One ticket to ..., please.	yέ nàng ngmàà tígítì yènì kò má
+Where are you going?	yèng lá ká fó gὲrέ?
+Where do you live?	yèng ká fò kpèὲrέ
+Train	kátákyè
+Bus	bóͻ́sò
+Subway	té́ngέpúlísóbírí / bògìkátákyè
+Airport	àlóópèlééáróózié
+Train station	kátákyéáróózíé
+Bus station	bóͻ́sòáróózíé
+Subway station	téngέpúlísóbíríáróózié
+Departure	gááó
+Arrival	wááó
+Car rental agency	lͻ́ͻ́réhááózíé
+Parking	lͻ́ͻ́rémààlèbíngóózíé
+	
+Hotel	téέgbέréyírì̃
+Room	dìè
+Reservation	yúóríngmáábíngsέrέ
+Registration	yúóríngmááó
+Are there any vacancies for tonight?	gááózíé bébé lá à zĩmààné nyɛ̂
+No vacancies	vùó kyébé / gááózíé kyẽbé
+Passport	sórítúúgán / páásépͻ́ͻ́tò
+	
+Directions:	Zɪ̂é wulúú:
+Left	gͻ̀ͻ́
+Right	dòlòńg
+Turn right	lèὲ fò dùlòńg séng ná
+Straight	dáádáá
+Go straight	gε̃rε̃ dáádáá
+Up	zúsógͻ́
+Go up 	dó à zúsógͻ́
+Down	párésέng
+Go down	sígí pãrésέng ná
+Far	tͻ́ͻ́rè
+Is the place far?	à zíé é lá tͻ́ͻ́ré béé
+No, it is not far.	àí ò bá é tͻ̀ͻ̀ré
+Near	yέngέng / péέlé  
+Is the place near here?	à zíé péέlé lá kyε̃ béé
+Yes, it is near here	òó, ò péέlé lá kyε̃
+Long	wógì
+Short	ngmàà
+Map	téngáwúlúúgáǹ / mápè
+Tourist Information	yͻ́rébͻ́ yèlìwùlì
+	
+Places:	Zíírí:
+Post office	gámápórróózíé
+Museum	bóngkórͻ́bíngzíé
+Bank	líbìbìngzíé
+Safe	lìbíébùgó
+Police station	pòrísírítíísàńg
+Hospital	bààlbáyírí / dõktàyírĩ
+Pharmacy	tììkòͻ́róózíé
+Store	nàngkòͻ̀rdíé
+Restaurant 	bòndìríízíé
+School	sàkúúrì
+Church	ngmèndíé
+Restrooms	bángyéráá
+Street	tégέpóͻ́sórí
+Square	lòmbóéánáárézíé
+Mountain	tángá
+Hill	kúnkúnéé
+Valley	bàfóͻ́láá
+Ocean	pòò
+Lake	bàvílmé
+River	bàá / kúláá
+Swimming Pool	kòndúùvíé
+Tower	yíwógì / sóngkóngsó
+Bridge	tàkòríkò
+	
+Time and Dates:	Tέm né dééfírí:
+What is the time?	à tέm̀ ngmέ lá àwólà?
+7:13 a.m. 	bágúó gbélláápòĩ pãre mítì píé né átà
+7.13 p.m.	zìmááné gbélláápòĩ pãre mítì píé né átà
+3:15 a.m.	tèntͻ́ráá gbélláátà pãre mítì píé né ánúú
+3.15 p.m.	ngménáá gbélláátà pãre mítì píé né ánúú
+11:30, Eleven thirty	bágúó gbélléng píé né yénì pàr mítì lèzárè né píé
+11:30, Half past eleven	bágúó gbélléng píé né yénì né kyáílléé
+1:45, One forty-five	gbèllèng yénì pàr mítì lèzááyì né ὲnúú
+1:45, A quarter to two	gbèllááyì ngmàà mítì píé né ànúú
+	
+Day	bèbírí
+Week	dàá
+Month	kyúù
+Year	yùòní
+Monday	Móndéè / Gyóͻ́ráá
+Tuesday	Tíísídéè / bénέráá
+Wednesday	Wálánsédéè / kúóráá
+Thursday	Tͻ́ͻ́sèdéè / Yͻ́wááráá
+Friday	Fèráádéè / féέráá
+Saturday	Sátádéè / méménáá
+Sunday	Sóndéè / kóséέráá
+January      	Gyέnòͻ̀rè / kyúúdèngdέǹgsòbͻ́
+February  	Fàbòͻ̀rè / kyúúrááyisòbͻ́
+March	Máákyè / kyúúráátàsòbͻ́
+April	Épèrè / kyúúráánáárèsòbͻ́
+May	Méè / kyúúráánúúsòbͻ́
+June	Gyúúnì / kyúúrááyòͻ̀ósòbͻ́
+July	Gyòlááè / kyúúrááyͻ̀pòìsòbͻ́
+August	Ágͻ̀s / kyúúráánéèsòbͻ́
+September	Sὲbtémbà / kyúúrááwáésòbͻ́
+October	Otóóbà / kyúúrpíésòbͻ́
+November	Nòvémbà / kyúúrpíénéyénìsòbͻ́
+December	Dìzémbà / kyúúrpíénááyìsòbͻ́
+	
+Spring 	váárébóróósángà
+Summer 	tólóngsángà
+Fall	váárésúóróóság̀a
+Winter 	ͻ́ͻ́résángà
+	
+Today	zénὲ
+Yesterday	zààméè / hááméè
+Tomorrow	bíéú
+What's today?	zénέ lá bóng?
+Today is Tuesday.	zénέ (ê) lá Tíísídéè
+Yesterday was Monday.	zààméǹg dà (ê) lá Móńdéè.
+Tomorrow will be Thursday.	bíéú nà (ê) lá Tͻ́ͻ́sèdéè
+	
+Birthday 	dͻ́góódááré / dͻ́goobebiri
+Happy Birthday! 	né fò dͻ́góó dááré yáánè
+	
+
+
+Some Household Items
+Dagaare	English 
+Yuori	Pot 
+Laa/talaa/laalee	Bowl 
+Ngmane/ngmanlee	Calabash 
+Suree	Ladle
+Vuuri	Wooden spatula/paddle
+Bonganaa/sɛng	Mattress, bed, mat,
+Kyaanaa	mirror
+Pɛrɛte	plate
+Dansane	Iron pot
+Tere/kyokoli	spoon
+Kogi/dakogi/dakyage	Stool/chair
+Tabul	table
+Daga	box
+Sikiri	sugar
+Seere	honey
+Zeɛn	Salt-pitre
+Vuu	fire
+Soɔ	knife
+Tammo	bow
+Malfa	gun
+Kuuri	hoe
+tangara	phone
+Sensɔraa...............................................................sponge
+
+
+
+
+
+
+
+
+
+
+
+Clothing
+Kapuro	Pillow
+Kapurwoɔ	Pillow case
+Zupili/kpawoɔ	Hat/cap/fedora
+Kparoo	Shirt/dress/blouse
+Kuree//Tentɔle/para	Pants/trousers
+Kurgbɛngmaara	nicker
+Piraa	button
+Tuuraa	zip
+Mankuri/gondong	skirt
+Kparwogi	Straight/long dress
+Dagakparoo	smock
+Wagyɛ	cloth
+Kparnuwogri	Long sleeve shirt/sweatshirt/pullover/cardigan  
+
+
+Parts of a building
+Dagaare	English
+Pane/Dendɔri	door
+Takoro	window
+Peɛzu	rooftop
+Dankyini	wall
+Tengɛ	floor
+Taaboore/daare	wood
+Konsodie	bathroom
+Korodie	kitchen
+Diganaa	Bedroom/chamber
+Kyaaraa	hall
+Davoro	Yard 
+
+Ma mamine
+Saa saamine
+Dɔɔ dɔɔmine
+Sakoma sakommine
+
+Dɔɔ dɔba
+Pɔge pɔgeba 
+Daara daareba
+Koɔrɔ koɔreba
+Koɔraa koɔreba
+
+
+Bondaana bondaama
+Nandaana nandaama
+Bone boma
+Kamanee kamaana
+
+Bonmaarong bonmaara
+
+Peroo peere
+Vaa vaare
+Daa daare
+Laa laare
+Kyaaraa kyaare
+Kparoo kparre
+Kuree kurre
+Davoro davorre
+Takoro takore
+Baa bare
+Karmazuzie karmazuziire
+Waa waare
+Poɔ poore
+
+Gane gama
+Pane pama
+Fanfane fanfama
+Lane lama
+Zonee zoma
+Tewɔnee tewɔma
+
+
+Mana manne
+Donga donne
+Haanaa haane
+Sɛrmanoo sɛrmaane
+Tanga tanne
+Yangaa yagne
+
+
+Nɔɔtere nɔɔteɛ
+Pɔntere pɔnteɛ
+Nyɔvore Nyɔvoɛ
+Dendɔre dendɔɛ
+Noɔre nɔɛ
+Kpaare kpaɛ
+Gbɛre gbɛɛ
+Neɛre nɛɛ
+Soɔ sɔɛ
+Kɛkɛre kɛkɛrɛɛ
+
+
+Miri mie
+Puori poe
+Yuori yoe
+Yuori yoe
+
+Bibile bibilii
+Dɔɔlee/dɔɔbile dɔɔbilii
+Pɔgelee pɔgbilii
+Nɔlee/nɔbile nɔbilii
+Balee babilii
+
+Ee
+Bonkyeenaa bonkyeenee
+Pili  pilee
+
+Soundalikes
+Yuori
+Yuori
+Puori
+Puori
+Sɛgre
+Sɛgre
+Pɔge
+Pɔge
+Pɔge
+Yoɔre
+Yoɔre
+Paare
+Paare
+Vaa
+Vaa
+Kaa
+Kaa
+Daa
+Daa
+Daa
+Daa
+Lɔɔ
+Lɔɔ
+Lɔɔ
+Baa
+Baa
+Baa
+Wɔɔ
+Wɔɔ
+Wɔɔ
+Tuo
+Tuo
+Poɔ
+Poɔ
+Doge
+Doge
+Mare
+Mare
+Yeli
+Yeli
+Teɛ
+Teɛ
+Teɛ
+Leɛ
+Leɛ
+Kɔng
+Kɔng
+Tuuro
+Tuuro
+Pie
+Pie
+
+Tense
+Present
+N e la karma
+Moro waa nankoɔse
+Ayuuba gɛrɛɛ sakuuri
+
+In Dagaare the present simple is expressed by the use of mang
+Nyɛ Yipɔgetuo
+O mang gaa la sakuuri bebiri zaa
+O mang pɛge la o saakuuri kparoo ka o yi fanana
+Yipɔge tuo mang dang la sakuuri baabo. 
+O mang kyɛllɛ la a kankana yɛlɛ.
+Ngmenaa mang puri la sapare poɔ.
+
+Ɛɛ is added to verbs to express the continuous form
+Ɛre ɛɛ ɛrɛɛ
+N ma ɛrɛɛ zɔng.
+N ma ɛre la zɔng
+N ma ɛrɛ la zɔng.
+Dɔɔngmaa borɛɛ waare
+Tampuori ɔɔrɛɛ simie
+Past is expressed by the use of daa/daare
+A bie daare gaa la Kulmasa.
+N daa ba bang ka saa na mi
+Ba yeli ka bazaang daare
+
+Eebo yelibiri Pampana  Bebiri zaa zaamee busy  wagre fii nang pare
+Seɛ seɛrɛ la  mang seɛ daare seɛ seɛng
+
+Pampana N seɛrɛ la
+Bebiri zaa, n mang seɛ la.
+Zaamee, n zaang seɛɛ la.
+Daare, N daare seɛɛ la
+Lɛ zaa ka n seɛɛ la.
+
+
+Prepisitions
+Zu top
+A gane be la a tabul zu
+A bɔl zo kpɛ la teɛ puli.
+A baa gang la a dɔɔ lambori
+A kɔkɔlaa be la a senne kpakyaga
+Kureema be la sampa pare.
+
+Adverbs
+Place
+Kyɛ
+Be
+A te gaa kyɛ or benee
+Daa poɔ
+Sakuuri
+Adverbs of time
+Zenɛ
+Baguo/bebie
+Ngmenaa
+Zimaanee
+Gbelenpie sanga
+Gbelme ata ne kyɛlee puoring
+Zinyaankolɔkolɔ
+TTensogpongzentaa
+
+Frequency
+Yuoni yuoni
+Kyuu kyuu
+Bie bie
+Tegteglɛ
+A mang taa lɛɛng
+
+Manner
+Gborɔgborɔ
+Maarong
+Pɔgsarong
+Dakyaalong
+Gyermɛ
+Adjectives
+Opinion
+Vilaa
+tontona
+entuo
+ faa
+Nensaalong
+song
+Vaane
+Pɔlɔngpɔlɔng
+
+Size
+Kpong
+Bile
+Ngmaa
+Wogi
+Bɛrong
+Baalaa
+Ngmeene
+Ngmɔrɛɛ
+Bam
+Bile
+
+Age
+Kore
+Paalaa
+Pɔlee
+Saraa
+Bile
+Dakorong
+Pampana
+Zenɛ
+Zaamee
+
+Shape
+Ngmɛglɛng
+Goraa
+Kyulolo
+Pololo
+Gɔnegɔne
+Tel
+Fɔl
+Golonggolong
+Melɛngmelɛng
+Vilenvileng
+
+Colour
+Ziɛ
+Sɔglaa
+Pelaa
+Dɔre
+Tevaa
+Zi tuin tuin
+Kyuɔnɔkyuɔnɔ
+Sɔgle kpirikpiri
+Sɔgle yoriyori
+
+Origin
+Gyerbaalɛɛ
+Ankarɛɛ
+Nasaal
+Dagakparoo
+
+
+Material
+Bɔgane
+Gonne
+Kursɔraa
+Ngmanpegre bbɛglaa
+Kuri wiri
+
+Purpose
+Saao laa
+Koɔ suree
+Daa pelee
+Bɔr-ngmanlee
+Zɛdɔgelee
+Koro ngmanlee
+Serekuli laare
+
+
+Conjunctions
+Ne/aneng
+A
+Kyɛ
+Bonso
+Bonzuing
+Azuing
+Lɛnso
+Anenso
+
+Adverbs of Degree
+Maaleng 
+ la waaɛ
+La eɛ
+La maaleng eɛ
+La maaleng waaɛ
+Gaale
+Sereng
+Sereng kɔne
+Serɛ zaa
+
+
+Person	Singular Subject	Plural
+Subject	Singular
+Object	Plural
+Object			
+First	N	Te	Ma	Te			
+Second	Fo	Yɛ	Fo	Yɛ			
+Third	O	A/Ba	O	A/ba			
+
+N gɛrɛ la weɛ
+Te gɛrɛ la weɛ
+Nba ko ma la kuuri.
+N ba ko te la kue.
+
+Fo wa la wieoung zuo.
+Yɛ gaa te sɛlle teere.
+N de la a gane ko fo.
+N  de la gama ko yɛ
+
+O nɔng la saamaarong ne gyɔgyɔ.
+A nɔng la saamaarong ne gyɔgyɔ.
+Ba nɔng la saamaarong ne gyɔgyɔ.
+
+Doosaa ma ko o la buulung.
+Zoraa zagre a la bare.
+A saa ngmɛ ba la yaga.
+
+
+Possession
+In Dagaare, possession is expressed using the personal pronouns 
+
+N bone la
+Te bone la
+
+Fo bone la
+Yɛ bone la
+
+O bone la
+A bone la
+Ba bone la
+
+Maang so a baa
+Tenee so a baa
+
+Foong so a baa
+Yɛnee so a baa
+
+Oneng so a baa
+A nang so a seemaa
+Banang so a baa
+
+The negative not is expressed using naane
+Foong naane so a baa
+Maa naane so a woɔ.
+Ba na naane so a bondirii.
+
+Some relationtionship terms
+Ba nɔngɛɛ taa
+N nɔng la n sakuubiiri.
+N ba de waabo yɛlɛ.
+Vuu ne koɔ ba taa are ka N ta.
+A seng ka te mang yele wono taa.
+Kaaba nyɛ
+Dɔba ne pɔgeba seng ka ba ennɛ taa.
+
+
+Tori: Pɔgdaa, foo la n kaa kyɛ nyu koɔ a tendaa zaa poɔ.
+Pɔgdaa: Nyɛ lɛ fo nang e ka n sukyiri dɔɔng! Tori, serɛ zaa, N nɔng fo la song.
+Tori: Hmmm, N nyɛ la lɛ. Kyɛ dabeɛ mang bebe bonso dɔɔ zaa boɔrɔ la kpɛkyaane die.
+Pɔgdaa: N yɛng bone, bare dabeɛ. Foo la ka N kaa iri gɛrɛ te kuu daare.
+Tori: N wong a la, N pɔgesaraa.
+
+Joan ne Afari e la zɔɔmenne
+Mara yeli ka o kyɛnɛ la Lia.
+Peter dɔɔ la zeng a daa zu.
+Bikpeebɛ kong  ka kuu la o dɔmɔ.
+
+
+Emphasis
+Pelaa parpar
+Ziɛ tuintuin
+Sɔglaa tingting
+Maa vɔrekpɔrɔ
+
+
+
+
+
+
+
+
+
+Preposition
+Demonstrative
+Nyɛ/nga
+Dakpaama:
+Amɛ
+
+Onang
+
+Anang
+Banang
+
+Gang/a gang
+Baawa e la wogi gang Kujo.
+A gane nga waa la bile gang a onang.
+
+Pare/ a pare
+A wɔ sɔglaa veɛlɛ pare la a bong pelaa na.
+Zenɛ saa waɛng pare zaamee deni.
+
+ maaleng
+A sakuubiiri zaa poɔ, Evielle la maaleng muɔ ninge ne zannoo.
+Bondinuure waa la yaga kyɛ mui ne sensɛ la maaleng noma yaga.
+
+Article
+Definite
+A
+Martha: Fo nyɛ la a baa?
+Jerome: N ba nyɛ o. Kyɛ N nyɛ la baa nang zo tu foɔlaa nyɛ. Kaa pɔge o meng na be la be sɛng.
+Martha: Too, barka. N na kaa la a foɔlaa nyɛ. Kaapɔge, a deɛnɛ la. Baa le ka baa le la baa deɛne wɛ.
+Jerome: Lɛ la, n kpeɛ.
+
+Kitchen 
+Eresong: Nma, bong ka te na maale zimaanee nyɛ?
+Nma: Yɛ maale bone yɛ nang boɔrɔ wɛ.
+Eresong: Ka lɛ N na soore la a yideme mine nyɛ.
+Eresong: Doodaa, bong ka fo boɔre na di zimaanee nga?
+Doodaa: N na ɔɔ la mui. Yɛ doge mui ka a be mɔnɔmɔnɔ.
+Eresong: Yoo. Yoɔraa, ka fo meng?
+Yoɔraa: N na de la simisaao. E ka a zeɛre noma.
+Eresong: Ka lɛ te yeli Nba kyɛ ka te ko kpaao wɛ; bonkang bile mang kpi ka zeɛre noma.
+Eresong: N bakore Doozie, fo meng yeli ka wola?
+Doozie: Antoo, ka lɛ yɛ kyee waare wɛ. Maa eng mang nɔng la bonkpagla.
+Eresong: Ei, tensogɔ nga ne wakyeenee?
+ Ka bonkpagla yɛlɛ wa la ka lɛ fong deɛ vɛng ka n sɛ simie ko fo bee?
+Eresong: Yɛ zaa barka kyɛ maa na tole la a yɔɔvaare zeɛre ka te di saamaarong.
+
+So koɔ
+Kyaare zu
+Maale zu
+Kyɛ zu
+Zɛ kaa
+Kyɛ gbɛbie
+Du nyemɛ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
