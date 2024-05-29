@@ -1,6 +1,6 @@
-Dagaare,English
-a,  and
-a, in order to
+Word,Definition
+a, 1  and
+a, 2  in order to
 a,but
 a,they
 a,the
@@ -9,18 +9,17 @@ aa,expression of surprise and regret
 aa,expression of regret
 aa,expression expressing “I told you so.”
 aae,expression of pain
-a-a, expression of disapproval
-ãa,   yes  answer to a call 
+a-a, 1  expression of disapproval
+ãa, 1  yes  answer to a call 
 ãaa,is that so?  expression of uncertain surprise 
 âaa,answer in agreement
 aa-ee,expression of lack of confidence in someone’s ability to perform a task
 aa-hii,expression of total despair
 aane,infertile  woman  
 aaŋ,well then
-aba,  expression of despair over a repeated mishap
-abaa,   exclamation of satisfaction or commendation
-abɛ,   palm tree 
-abɛ, palm fruit
+aba, 1  expression of despair over a repeated mishap
+abaa, 1  exclamation of satisfaction or commendation
+abɛ, 1  palm tree  2  palm fruit
 abɛbiri,palm fruit
 abɛdãã,palm wine
 abɛkãã,palm oil
@@ -30,10 +29,8 @@ abuobo,which ones  nonhuman
 Afereka,Africa
 Aferekaneɛ,African
 afu,preface  of a book 
-age,   to dance 
-age,  to jump up and down
-age,   to fly
-age,  erect
+age, 1  to dance  2  to jump up and down
+age, 1  to fly  2  erect
 agoo,to ask for permission to join someone  knock door 
 agoo,a type of silky
 agye,bad luck
@@ -62,7 +59,7 @@ ama,but
 ama,these  3rd person plural demonstrative nonhuman 
 ambaŋenaa,a type of small tree with large leaves and pink fruit
 Ameleka,America
-aminekaŋa,   perhaps
+aminekaŋa, 1  perhaps
 amma,much more than  exaggeration 
 ammeseɛrɛ,thanks
 ana,those  3rd person plural strong form nonhuman 
@@ -71,21 +68,17 @@ ananso,because
 ananso,reason
 anaŋ,those ones  3rd person plural demonstrative 
 anaŋ,it  a problem
-andonɛɛ,  world   
-andonɛɛ,people of the world
-ane,   and
-ane, although
+andonɛɛ, 1  world  2  people of the world
+ane, 1  and  2  although
 aneazaa,despite
 aneɛ,effort
 anesɛ,welcome  an expression of goodwill to a stranger who has just arrived 
 angyoɔso,gratitude
 anii,eight
-anlee,   a traditional women’s dance 
-anlee,music for such a dance
+anlee, 1  a traditional women’s dance  2  music for such a dance
 annoo,who  which person  interrogative pronoun 
 ansaŋ,before
-ansiŋinee,   a type of edible berry that turns violet when ripe
-ansiŋinee,   the tree of this fruit
+ansiŋinee, 1  a type of edible berry that turns violet when ripe  2  the tree of this fruit
 ansoɔnee,a woman who has recently given birth
 antere,noon  used as a greeting
 anuu,five
@@ -107,38 +100,32 @@ ara,to gather up one’s courage
 arambiri,kidney
 are,to cut
 are,to be related through the mother’s line
-are,   to stand 
-are, to wait   
-N baŋ ka o na are la ka N gaa te pɔge o, I know s he will wait so that I go to meet him her.
-are, to stop   
-A wɔɔkye kyɛŋɛɛ la tasoga tasoga leɛ are, The watch worked for a while and then stopped.
+are, 1  to stand  2  to wait   N baŋ ka o na are la ka N gaa te pɔge o. I know s he will wait so that I go to meet him her.  3  to stop   A wɔɔkye kyɛŋɛɛ la tasoga tasoga leɛ are. The watch worked for a while and then stopped.
 are,to tear off from the main body  branch or limb of an animal 
 areba,maternal uncle
 arekpoŋ,eldest niece
 arelee,nephew or niece
 aremateke,arithmetic
-arezie,   standing place
-aroozie,   standing place  position 
+arezie, 1  standing place
+aroozie, 1  standing place  position  2 
 ba,not  negative particle 
-ba,   they
+ba, 1  they
 ba,to fix a pointed object firmly in the ground
 ba,to gallop
-ba,   father 
-ba,  friend  between males 
-ba,  Mister
+ba, 1  father  2  friend  between males   3  Mister
 baa,or  normally used in question tag 
 baa,dog
 baa,a small black ground antlike creature which burrows into the ground with the tip of its abdomen
 baa,a type of children’s game
 baa,body of water
-baa,   to grow up
+baa, 1  to grow up
 baabaa,father  familiar term of address used by toddlers 
 Baabol,Bible
 bãabõo,bustard
 baaebaae,goodbye
 baage,bag
 baala,patient
-baalaa,   slim
+baalaa, 1  slim
 baale,to ache slightly  disconfort of the stomach    Ka maaŋ iri ba gaa bangyeraa n poɔ maŋ baala la. If I don’t go to the toilet for the day I normally have a slight stomachache. baalɛɛ
 baale,to separate  grains from unwanted material    A pɔge baale iri la a seŋkãabie yi a pɛgere poɔ. The woman separated the groundnuts from the shells. baalɛɛ
 baalebayiri,hospital
@@ -149,15 +136,13 @@ baalonlɔnnaa,contagious disease
 baalonnooraa,recurring illness
 baaloŋ,friendship   Ba nyɔge la baaloŋ saŋa zaa. They have been friends for a long time.
 baaloŋ,illness
-baaloŋ,   calm   Zenɛ
-baaluu,   gallon measure 
-baaluu,  balloon
+baaloŋ, 1  calm   Zenɛ
+baaluu, 1  gallon measure  2  balloon
 baa-ne-ŋmaaŋa,Ursa Major  constellation   also known as Big Dipper
 baapɛmpɛle,lily pads  pl.  sg  baapɛmpɛloo pl  baapɛmpɛlɛ    baapɛmpɛɛ baapɛmpɛllɛɛ
 baaraa,end
-baare,   to finish
-baasaabiri,   a seed from a type of tree 
-baasaabiri,  a type of large bead made from this seed
+baare, 1  to finish
+baasaabiri, 1  a seed from a type of tree  2  a type of large bead made from this seed
 Baasaale,Baasare  ethnic group 
 baasakuuri,bicycle
 baataŋaa,a type of tree that resembles the shea nut tree
@@ -178,13 +163,11 @@ badaa-de-nyoɔre,the last day of a festival
 badalane,uncastrated male dog
 badalee,male puppy
 badavaraa,castrated dog
-badɛre,   spider 
-badɛre, cunning person
+badɛre, 1  spider  2  cunning person
 badie,the deepest part of a body of water
 badoge,a plant with a sweet smell
 badɔgerɔ,female dog that has recently given birth
-bafoɔlaa,   valley 
-bafoɔlaa,  creek
+bafoɔlaa, 1  valley  2  creek
 baga,a triangular garment worn by men as underwear
 baga,not caring
 baganaa,dog leash
@@ -204,32 +187,28 @@ bagbɛre,valley
 bagboŋ,fool
 bagbori,trough for a dog
 bagyeɛnɛ,a type of children’s dance
-bagyoɔ,   squirrel-like rodent  believed to be very sexually active
-bagyoɔ,  sex maniac  male 
+bagyoɔ, 1  squirrel-like rodent  believed to be very sexually active   2  sex maniac  male 
 bagyɔroo,a thick
 ba-irime,a type of wild mouse found along river valleys which has tender skin
 bakana,broth from dog meat
 bakore,trusted friend
 bakɔ,a type of yam  early maturing 
-bakpoŋ,   large stream
+bakpoŋ, 1  large stream
 balaa,waistband  pair of shorts 
 balambaaraa,peg used for tethering animals
 balambiri,peg used for tethering animals
 balantamm,large and heavy
 balante,belt
-bale,   to be tired
-bale, to be fed up  3  to be weak  4  to be soft
+bale, 1  to be tired  2  to be fed up  3  to be weak  4  to be soft
 bale,tribe
-bale,   avoid
+bale, 1  avoid
 bale,of a kind
 balee,brook
 balee,puppy
 balee,of a dubious and dangerous nature
 baleŋkpɔgre,tick
-balɔre,   ugly person or thing 
-balɔre, one without strength
-balɔrroŋ,   not being strong  
-balɔrroŋ, act of being ugly
+balɔre, 1  ugly person or thing  2  one without strength
+balɔrroŋ, 1  not being strong  2  act of being ugly
 bam,a type of large yam
 bama,these  3rd person plural demonstrative human 
 bambaala,unassuming person  poor person
@@ -1173,6 +1152,7 @@ dakogidɛllaa,chair with a back
 dakogilee,small stool
 dakoɔre,bachelor
 dakoɔroŋ,celibacy
+Word,Definition
 dakyeɛraa,something used for cutting wood
 dakyeɛrɛko,woodpecker
 dakye-nɔguu,parrot
@@ -1336,6 +1316,7 @@ deɛmɛkonlɔŋ,the first layer of TZ in a bowl
 dẽɛmpɔge,mother-in-law
 deɛnaa,plaything  toy
 deɛndɔɔ,father-in-law
+Word,Definition
 deɛne,play  joke  drama
 deɛraa,instrument for scraping and smoothing the edge of objects
 deɛre,to trim  to cut to make even  mouth of calabash 
@@ -1356,6 +1337,7 @@ dendɔgaŋe,bastard
 dendɔlee,bastard
 dendɔmɔ,enemy
 dendɔre,doorway  frontage of the main house
+Word,Definition
 deni,that which belongs to  possessive pronoun 
 denni,to carry on one’s head without the support of one’s hands
 deŋgeluu,sweet potato
@@ -1381,11 +1363,10 @@ dɛlle,to remove the top layer of liquid  to decant  to skim
 dɛmɛdɛmɛ,making an effort
 dɛmɛdɛmɛ,full to capacity with liquid  big  fat  tall  long
 dɛmmo,conversation  talk  a pending problem
+Word,Definition
 dɛndɛlɛŋ,long and wavy
 dɛndɛŋe,first  earlier
-dɛnne,   to straighten
-dɛnne, to roam 
-dɛnne, to be full to capacity  with liquid 
+dɛnne, 1  to straighten   2  to roam   3  to be full to capacity  with liquid 
 dɛnne,praise
 dɛŋe,first
 dɛŋeneŋ,first instance
@@ -1396,26 +1377,23 @@ dɛre,ladder
 dɛre,to boil pito at the second stage of brewing
 dɛremaakonokono,a traditional women’s dance
 Dɛrepɔge,name traditionally given to a female child born after the death of an infant girl of the same mother
-di,   to eat  to burn  to erode  to overcome  to assume a throne  to judge
+di, 1  to eat  to burn  to erode  to overcome  to assume a throne  to judge
 dibogi,where the family line begins and where it ends
-die,   room   
-die, compound  house
-diebie,   cat  
-diebie, son of the house
+die, 1  room   2  compound  house
+diebie, 1  cat   2  son of the house
 diebugo,one who knows nothing outside home  untravelled 
 dieli,to float
 dieneɛ,a close relative
 di faŋa,wield power
 difudeɛ,cheap  simple  Akan 
 diganaa,bedroom
+Word,Definition
 digaŋene,gluttony
 digaŋgaŋ,craftiness
-digi,   to chase  to run after
-digi, to drive away
+digi, 1  to chase  to run after   2  to drive away
 digoo,a disease affecting bean plants
 digbogbo,gluttonous  eating too much
-dii,   to press down e.g. with a heavier object 
-dii,  to pile up
+dii, 1  to press down e.g. with a heavier object   2  to pile up
 dii,to store grain in ashes
 diibu,food
 di kannyiri,to be patient
@@ -1428,8 +1406,7 @@ dindigili,electric fish
 dindigiri,catfish
 dipanaa,plastered room
 dire,to be sharp
-diruŋ,   food 
-diruŋ,  feast
+diruŋ, 1  food   2  feast
 di sane,to owe  to be indebted to
 di sɛrɛɛ,to judge
 disogɔ,middle room
@@ -1437,58 +1414,50 @@ di suuri,to forgive
 diteenɛ,mediator  spokesman in a marriage agreement
 di vi,to be ashamed
 divuo,abandoned room  room without a roof
+Word,Definition
 do,to roll along the ground  circular object 
-do,   to climb up  to ascend
-do,  to soar   
-do,to mate  to crossbreed  nonhuman    
-do,to climb out of the ground into a new nest  trapped termites 
+do, 1  to climb up  to ascend   2  to soar   3  to mate  to crossbreed  nonhuman    4  to climb out of the ground into a new nest  trapped termites 
 dõo,hazy  misty
 dobaa,pig  domesticated 
 dobapɔle,young pig
 dobasugo,herd of swine
 dodoo,large and bloated
 doge,large pot
-doge,   to boil  to cook 
-doge,  to brew   
-doge, to become very hot
+doge, 1  to boil  to cook   2  to brew   3  to become very hot
 dogebile,small pot
 dogele,to put over a fire
 dogi,to remove an object from the top of something
 dogo,a type of dance
 dogodogo,power of charm in magic
 dole,to be unaware
+Word,Definition
 donforoŋ,large big and puffed
 donkyeenɛ,shepherd
 donnyaŋaa,adult female animal
 donnyaŋaa,wild female boar
 donsaana,strange animal
 donseɛ,the waist of an animal
-donsɔgelaa,   black animal  
-donsɔgelaa,  an animal believed to have spiritual powers
+donsɔgelaa, 1  black animal  2  an animal believed to have spiritual powers
 donsugo,large herds of animals
-doŋa,   animal 
-doŋa,  mosquito
-doŋe,to bite    
-doŋe,to sting
+doŋa, 1  animal  2  mosquito
+doŋe,to bite  1  to sting
 doŋe,to be at close range
-doŋenokono,   a type of tree whose leaves are edible
-doŋenokono,  the leaves of this tree
+doŋenokono, 1  a type of tree whose leaves are edible  2  the leaves of this tree
 doŋguolaa,an animal that has been raised
 doŋguolo,animals that are shared between an original owner and a caretaker who raises them
 doŋi,a Muslim religious festival
 doŋkaraa,a strong-smelling plant used for chasing away mosquitoes
 doŋkommiruu,a type of tiny mosquito  bites only during day 
+Word,Definition
 doŋkɔɔseɛ,wasp  a stinging flying insect that resembles a bee but longer
 doŋkuuree,a type of short
-doogɔ,plenty of enjoyment  
-doogɔ,food and drink 
+doogɔ,plenty of enjoyment  food and drink 
 doore,to continuously heave loads or chunks of matter
 doɔ,to raise one’s head
 doɔ,to cause to become worse  behavior 
 doɔ,to ooze  to overflow
 doɔ,to fetch water with a large container
-doɔ,   dawadawa tree  
-doɔ,fruit of the dawadawa tree  edible 
+doɔ, 1  dawadawa tree  2  fruit of the dawadawa tree  edible 
 doɔbo,the act of weeding
 doɔkpangyogele,a large catepillar found on the leaves of the dawadawa tree
 doɔle,xylophone mallet
@@ -1498,21 +1467,21 @@ doɔnyeraa,a type of small ant
 doɔre,yellow
 dopɔge,female bush pig
 dopɔle,young bush pig
-dore,thud  sound of an impact
+dore,thud  sound of an impact e.g. a heavy log falling
 doreba,driver
 doree,large and solid
 dori,remove bits of the top
 dori,heap
 dori,joint  stalk of grass 
 dosoraa,young female bush pig
+Word,Definition
 dɔ,to spill over e.g. boiling water from yam being cooked over fire
 dɔ,to pay the last bride price
 dɔ,to weed
 dɔdɔgeroŋ,wretchedness
 dɔɛ,last bride price
-dɔge,   to bear  child 
-dɔgele,   to place on top of something
-dɔgele,  to exceed
+dɔge, 1  to bear  child 
+dɔgele, 1  to place on top of something  2  to exceed
 dɔgere,to punish
 dɔgeroŋ,descent
 dɔgeroŋ,penalty
@@ -1525,52 +1494,43 @@ dɔle,pop out smoothly e.g. from something slippery
 dɔlle,to stretch
 dɔlɔ,way of doing something
 dɔlɔdɔlɔ,slimy and slippery
+Word,Definition
 dɔndɔŋ-karaa,chief enemy
 dɔndɔre,curd  coagulated milk
 dɔndɔre,shade caused by clouds coming between the earth and the sun
 dɔŋe,enmity
 dɔŋe,to be lean
-dɔɔ,   to squat 
-dɔɔ,  to bow  as in greeting
-dɔɔ,  to excrete
-dɔɔ,  to perch
-dɔɔ,   man
-dɔɔ, friend of the same sex
-dɔ̃ɔ,   to disturb
+dɔɔ, 1  to squat  2  to bow  as in greeting   3  to excrete  4  to perch
+dɔɔ, 1  man  2  friend of the same sex
+dɔ̃ɔ, 1  to disturb
 dɔ̃ɔ,to sprain e.g. a leg
 dɔɔbile,boy
-Dɔɔdãa,name of a male born on the day local beer has been brewed in the house 
+Dɔɔdãa,name of a male born on the day local beer has been brewed in the house  see Pɔgedãã for female name 
 dɔɔkɔɔteɛlɔɔ,a squatting kick game
 dɔɔ-la-pɔge,a man with feminine features
 dɔɔlee,boy
-dɔɔloŋ,   bravery
-dɔɔne,   noise
-dɔɔne,  movement
-dɔɔne,  disturbance
+dɔɔloŋ, 1  bravery
+dɔɔne, 1  noise  2  movement  3  disturbance
 dɔɔnyaŋaa,old man
 dɔɔ-ɔre,infertile man
-dɔɔta,   doctor 
-dɔɔta,  hospital
+dɔɔta, 1  doctor  2  hospital
 dɔɔtayiri,hospital
 dɔre,to advise
+Word,Definition
 dɔre,fruits of doɔ
 dɔrekabakoma,one who incites hatred
 dɔsaŋkpare,peels of dawadawa fruits
 dɔsempeɛlɛ,immature dawadawa fruits
 dɔzɔŋe,daw-daw flour  pulp from daw-daw fruit
 dɔzunni,daw-daw seeds
-du,   to rub against 
-du,  to iron  clothes 
+du, 1  to rub against  2  to iron  clothes 
 dudugiri,a box made of grass
 dugi,swim
 dugi,to be eaten up to powder e.g. wood infected with bugs
 dukuree,large sores caused by scabies
-duli,   to work strenuously on a difficult task
-duli,  to eat a large amount  
+duli, 1  to work strenuously on a difficult task  2  to eat a large amount  fig. 
 duluŋ,a type of large bird
-dunduli,   caterpillar 
-dunduli,  worm 
-dunduli,  maggot
+dunduli, 1  caterpillar  2  worm  3  maggot
 dundulivarekpɛnyoɔre,small green caterpillar that springs from place to place
 dundulkyoo,cocoon
 dundulvarkpɛnyoɔre,a type of small green caterpillar that moves by loops
@@ -1579,17 +1539,12 @@ duni,knee
 dunselee,kneecap
 duŋi,type of weevil  found in wood 
 duo,wild pig
-duo,   to be seated all over the place in great numbers  patients at consulting room
-duo,  to prepare malt for brewing local beer
+Word,Definition
+duo, 1  to be seated all over the place in great numbers  patients at consulting room   2  to prepare malt for brewing local beer
 duogo,giant
 Duoŋ,town in the Upper West Region noted for treatment of bone fractures
-duoraa,   open space for a gathering  
-duoraa,  resting place for sheherds and their animals
-duori,   to urinate 
-duori,   to ejaculate
-duori,   to set high up  child on shoulders  
-duori,   to raise yam mounds 
-duori,   to set a bow ready for use
+duoraa, 1  open space for a gathering   2  resting place for sheherds and their animals
+duori, 1  to urinate  2  to ejaculate  3  to set high up  child on shoulders   4  to raise yam mounds  5  to set a bow ready for use
 duori,to set out in heaps e.g. tomatoes for sale
 duoro,news
 duor-tere,annoucement
@@ -1599,21 +1554,17 @@ duorunwoɔ,bladder
 duorunzẽẽ,bilharziasis
 duoruŋ,urine
 duoruŋkɔnsɔgerɔ,the condition of having difficulty passing urine
-duulaa,   row  
-duulaa,  line  
-duulaa, poetry 
-e,   to act
-eele,   horn
-eele,  antenna
-eɛ,   to pinch 
-eɛ,  to hint
-eɛ,   to mark the foundation of a building
-eɛ,  to cut a very small piece
+duulaa, 1  row  2  line  poetry 
+e, 1  to act
+eele, 1  horn  2  antenna
+eɛ, 1  to pinch  2  to hint
+eɛ, 1  to mark the foundation of a building  2  to cut a very small piece
 eɛ eŋe,to flee
 eɛne,hippopotamus
 eɛne,claw
 eɛne,a type of deer
 eɛne,tiny
+Word,Definition
 eɛne,to claw e.g. a cat climbing a wall
 ẽɛo,type of deer
 eɛraa,hook
@@ -1637,6 +1588,7 @@ enfuomaale,the act of making a picture  draw
 enfuoni,image
 enfuori,the act of bewitching  the act of casting a spell
 enne,act of respect
+Word,Definition
 ennoɔ,happiness
 ensɔgelaa,black skin
 entaa,mutual respect
@@ -1663,33 +1615,29 @@ eŋ noɔre,to promise
 eŋ poɔ,to impregnate
 eŋyoɔre,that which does not produce excitement
 eŋ zẽɛ,to punish severely
+Word,Definition
 eroŋ,conduct
 eroŋ,verb
 Etore,Easter
 etɔ,the name of a clan in Southern Dagao
-ewa,   a kinship group
-ewa,  appellation of this group
+ewa, 1  a kinship group  2  appellation of this group
 ewɛ,the name of a clan in Southern Dagao
 ɛbaa,crocodile
 ɛlemɛ,shellfish
 ɛl-ɛloo,it serves you well
-ɛnne,   to suckle
+ɛnne, 1  to suckle
 ɛre,to crawl  to slide along on the buttocks
 ɛre,to grind
 ɛre,to fill a hole or space tightly to disallow access
-ɛre-eŋ,   exaggeration 
-ɛre-eŋ,  metaphor  lit. 
+ɛre-eŋ, 1  exaggeration  2  metaphor  lit. 
 ɛregbɛrɛ,fleshy and fatty  meat 
-fa,   to be bad   Ka fooŋ ba kyɛlle a bie ŋa na fa la
-fa,   to rob
-faa,   bad   Saa naŋ piili miibu ŋaa
-faa,   to take by force
-fãa,slowly  of a fall    
-O kyeelɛɛ la gɛrɛ fãa na te le, She is falling slowly.
-fãa,   to be unable   
-O gaa la o sori na fãa, She has failed to go on her trip.
-fãa,  to have no choice   
-A pɔmpeŋ sãaɛ la ka noba fãa kyɛ sigi baa te ɔŋ kõɔ, The water tap is spoilt
+fa, 1  to be bad   Ka fooŋ ba kyɛlle a bie ŋa na fa la
+fa, 1  to rob
+faa, 1  bad   Saa naŋ piili miibu ŋaa
+Word,Definition
+faa, 1  to take by force
+fãa,slowly  of a fall    O kyeelɛɛ la gɛrɛ fãa na te le. S he is falling slowly.
+fãa, 1  to be unable   O gaa la o sori na fãa. S he has failed to go on her trip.  2  to have no choice   A pɔmpeŋ sãaɛ la ka noba fãa kyɛ sigi baa te ɔŋ kõɔ. The water tap is spoilt
 fãafãa,whistle used in times of war or danger
 faa le,to drop
 Faaloŋ,the name of a village located near Lawra
@@ -1712,13 +1660,10 @@ fagoo,full of rubbish
 falala,long
 falanfuuri,lungs
 fale,to slap
-faa,   to take by force
-fãa,slowly  of a fall    
-O kyeelɛɛ la gɛrɛ fãa na te le., She is falling slowly.
-fãa,   to be unable   
-O gaa la o sori na fãa, S he has failed to go on her trip. 
-fãa, to have no choice   
-A pɔmpeŋ sãaɛ la ka noba fãa kyɛ sigi baa te ɔŋ kõɔ, The water tap is spoilt
+Word,Definition
+faa, 1  to take by force
+fãa,slowly  of a fall    O kyeelɛɛ la gɛrɛ fãa na te le. S he is falling slowly.
+fãa, 1  to be unable   O gaa la o sori na fãa. S he has failed to go on her trip.  2  to have no choice   A pɔmpeŋ sãaɛ la ka noba fãa kyɛ sigi baa te ɔŋ kõɔ. The water tap is spoilt
 fãafãa,whistle used in times of war or danger
 faa le,to drop
 Faaloŋ,the name of a village located near Lawra
@@ -1751,37 +1696,29 @@ fanne,to sell one’s wares at a low price
 fanne,to think
 faŋa,strength  be strong  physically 
 faŋa,young  used for calves
-Farafara,   a person of the Gurunɛ ethnicity 
-Farafara,  the language spoken by this group
+Farafara, 1  a person of the Gurunɛ ethnicity  2  the language spoken by this group
 farata,tall and straight
-fare,   to foam  yeast in alcohol  discharge from eyes  
-fare,  to boil  porridge 
+fare, 1  to foam  yeast in alcohol  discharge from eyes   2  to boil  porridge 
 fare,to build mounds around crops  farming corn 
 fare,to pluck leaves in large quantities
 fare,to make bare   to shave hair off completely 
 fare,completely   A bibiiri zaa zo kulee la fare. All the children have gone without any left behind.
-fare bini,   shit plenty 
-fare bini,  say disgusting things
-fare yɛlɛ,   to talk a great deal
-fare yɛlɛ,  to complain
+fare bini, 1  shit plenty  2  say disgusting things
+fare yɛlɛ, 1  to talk a great deal  2  to complain
 fasane, with ŋmɛ’  thought
 febo,piercingly  the manner a sharp object enters another suddenly and firmly  a thorn in the body 
 fee,completely  of drinking 
-fẽe,   for a short time  in a short time
-fẽe,  few  
-fẽe,  small
+fẽe, 1  for a short time  in a short time  2  few  3  small
 feelaa,young and tender
 feele,to make tight
+Word,Definition
 feelee,chance
 feeloo,narrow
-feere,   to blow one’s nose
-feere,  to hold
+feere, 1  to blow one’s nose  2  to hold
 feerɔɔ,suddenly disappearing into an opening e.g. into a hole or room
-feɛ,   to whip
-feɛ,  to unshell e.g. rice or corn
+feɛ, 1  to whip  2  to unshell e.g. rice or corn
 fẽɛ,to be grown to some extent  to not be small
-feɛle,   to pass closely by another e.g. a blow missing the target narrowly
-feɛle, to pass gas silently
+feɛle, 1  to pass closely by another e.g. a blow missing the target narrowly  2  to pass gas silently
 feɛle,to sneak out
 fefeɛ,crevice
 feferɛ,the least movement   Ka fooŋ ba maale fo kyi ŋa biŋi
@@ -1797,6 +1734,7 @@ felmaara,sores over the body thought to be incurable e.g. leprosy
 felmaaroŋ,sore caused by leprosy or yaws
 felɔɔ,of a sparkle
 felpɛmpɛle,scar
+Word,Definition
 felzeɛ,sore without pus
 femm,getting away fast and far e.g. bullet
 fenlege,laboured e.g. breathing
@@ -1806,22 +1744,21 @@ fentelɛ,lamp
 fentellaa,local lamp
 fentere,ring e.g. that is put on the finger
 fentere,the act of standing at attention
-fere,   to force
+fere, 1  to force
 fere,regret  bitter experience
 feree,the fruit of the wɔŋkampɔre plant
 fereko,a type of bawaa dance performed by moving to and fro to the sides  left and right 
 feroo,force
 feroo,a type of dance
 feroo toma,duty
-fɛɛ,   happening in some manner e.g. completely
-fɛɛ,  becoming airless instantly  tyre 
+fɛɛ, 1  happening in some manner e.g. completely  2  becoming airless instantly  tyre 
 fɛɛ,deflating completely of quiet sound of pent up air or gas escaping
-fɛge,   to indent  
-fɛge,  to become one-eyed
+fɛge, 1  to indent  2  to become one-eyed
 fɛge,one-eyed person
 fɛge,fall lightly
 fɛgelɛgɛ,out of energy
 fɛgetɛgɛ,completely out of air or energy
+Word,Definition
 fɛlefɛle,tasteless
 fɛlɛlɛ,utterly
 fɛmm,lying flat e.g. vegetation or hair
@@ -1835,25 +1772,19 @@ fieluu,the act of failing
 fifire,scarcely outside than something happens
 figi,to throw out one’s hand to signal to stop
 figiraa,fan
-figiri,   to fan 
-figiri,  to flap one’s wings
+figiri, 1  to fan  2  to flap one’s wings
 fii,manner of movement e.g. of a heavy object in the air
-filoo,at glance   
+filoo,at glance   N nyɛ la a bie filoo kyɛ ka o kpɛ a lɔɔre.
 finni,to cheat
 firimeŋ,appearing neatly cut e.g. growth
-fo,you  second-person singular weak form    
-Fo na gaa la bee fo koŋ gaa?, Will you go or not?
-fo, your  second-person singular possessive    
-Fo yuori la boŋ?, What is your name?
-foge,   to unshell e.g. paddy rice 
-foge,  to poke
-fogele,to be tight e.g. passengers in a crowded bus  
-fogeloo,narrow
-ord,Definition
+fo,you  second-person singular weak form    Fo na gaa la bee fo koŋ gaa? Will you go or not? your  second-person singular possessive    Fo yuori la boŋ? What is your name?
+foge, 1  to unshell e.g. paddy rice  2  to poke
+fogele,to be tight e.g. passengers in a crowded bus   A bibiiri fogele la taa a lɔɔre poɔ.
+fogeloo,narrow   A die waa la fogeloo lɛ.
+Word,Definition
 fogi,to pound e.g. clay for modeling
-fogi,to pull out from a tight hold   
-fogili,to be seedless e.g. bean pod   
-Ka saaŋ ba mi a bɛŋɛ na fogili la., If it does not rain the beans will not form seed.
+fogi,to pull out from a tight hold   Dasaŋa na ba maŋ fogiri la nannyige nubi-eɛmɛ. In the olden days
+fogili,to be seedless e.g. bean pod   Ka saaŋ ba mi a bɛŋɛ na fogili la. If it does not rain the beans will not form seed.
 fogiluu,seedless
 fole,immature
 foli,not hidden
@@ -1863,32 +1794,25 @@ fomeŋɛ,yourself
 fomfom,type of small cake-like food prepared from flour
 fomfom,deepset  eyes 
 fonaano,sleeveless singlet
-fonne,   to sniff  dog on a trail 
-fonne, to snuff
+fonne, 1  to sniff  dog on a trail   2  to snuff
 fonɔfonɔ,soft
-foŋ,then you  used in conditional forms    
-Ka saaŋ wa mi foŋ bore a kamaana, If it rains
+foŋ,then you  used in conditional forms    Ka saaŋ wa mi foŋ bore a kamaana. If it rains
 foo,looking open and endless e.g. a deep hole
 fõo,dry and light e.g. grass
-fõo,you  second person singular strong form    
-Fõo naane ka ba boɔrɔ., They are not looking for you.
-foone,   to shrink e.g. a fruit
-foone,  to deflate e.g. a tyre
+fõo,you  second person singular strong form    Fõo naane ka ba boɔrɔ. They are not looking for you.
+foone, 1  to shrink e.g. a fruit  2  to deflate e.g. a tyre
 foone,shrinked
-fooŋ,you  emphatic   
-Fo yɔɔpɔge balɛɛ la fooŋ na gaa te ɛre a zɔŋe?, Your sister is tired
+fooŋ,you  emphatic    Fo yɔɔpɔge balɛɛ la fooŋ na gaa te ɛre a zɔŋe? Your sister is tired
 foore,to hiss e.g. a snake
 foore,to become bloated
+Word,Definition
 foore,to rage
-foori,   empty
-foori,  empty-handed  
-O bɛlle ma la ne nufoori., She deceived me with an empty hand.
+foori, 1  empty  2  empty-handed  typically used with nu    O bɛlle ma la ne nufoori. S he deceived me with an empty hand.
 foɔ,to fill holes in a wall with mortar
 foɔ,to pile up a heap of guinea corn heads
 foɔ,to place branches or thorns around an object for protection against animals
 foɔ,to whip
-fõɔ,to make lighter   
-E ka a tuobu fõɔ fẽe ka lɛ naane N koŋ tõɔ a tuo., Make the load a little light otherwise I cannot carry it.
+fõɔ,to make lighter   E ka a tuobu fõɔ fẽe ka lɛ naane N koŋ tõɔ a tuo. Make the load a little light otherwise I cannot carry it.
 foɔlaa,passageway
 foɔle,to draw one’s appendages against the body  to stand at attention
 foɔle,to sneak
@@ -1896,86 +1820,78 @@ fõɔo,light  weight
 foɔre,to smear with thick liquid
 fori,to loosen
 fori,since   Fo naŋ fori yi
-fori,   to force out from its cover or shell  boiled bambara beans
-fori,  to treat hide by removing the fur  bleaching of the skin
-fori,  to develop to an appreciable level  to mature   
-A pɔgelee ŋa naŋ ba fori kyɛ o pɔloo zuoe la., This girl is not yet worth a woman but she is quite proud.
+fori, 1  to force out from its cover or shell  boiled bambara beans   2  to treat hide by removing the fur  bleaching of the skin   3  to develop to an appreciable level  to mature   A pɔgelee ŋa naŋ ba fori kyɛ o pɔloo zuoe la. This girl is not yet worth a woman but she is quite proud.
 forɔforɔ,rough
-forre,   to scrape leaves off a branch
-forre  to run very fast  through vegetation 
+forre, 1  to scrape leaves off a branch  2  to run very fast  through vegetation 
 foto,photograph
 fɔbo,very wet
-fɔgele,   to press together 
-fɔgele,to strangle
+fɔgele, 1  to press together  2  to strangle
 fɔlle,to smear with
 fɔnne,to grab
 fɔŋe,to become lean
-fɔrɔ,yaws
+Word,Definition
+fɔrɔ,yaws    fɔrrɛɛ
 fu,rumour
 fu,to blow  wind 
-fu,   to parboil
+fu, 1  to parboil
 fugi,to threaten
 fugi,to bluff
-fugoŋ,falling suddenly into e.g. a hole   
-O faa le a bogiŋ lɛ fogoŋ., She fell into the hole at once.
+fugoŋ,falling suddenly into e.g. a hole   O faa le a bogiŋ lɛ fogoŋ. S he fell into the hole at once.
 fulee,eat gulpingly e.g. of a hungry person
 fuli,exit suddenly
 fulo,entering neatly
 fulofulo,roundish e.g. of aperture like a hole
-fulonfugiri,lung 
+fulonfugiri,lung sg  fulonfuuruu pl  fulonfugo    fulonfugiree Var. falanfuuri
 fululu,appearing round and deep e.g. a hole
-fumini,needle 
-fuoli,   to whistle
-fuoli,  to squeak  of a wheel 
-fuomii,   gluttony
-fuomiŋ,see
+fumini,needle pl  fumime    fuminee fuminnee
+fuoli, 1  to whistle  2  to squeak  of a wheel 
+fuomii, 1  gluttony
+fuomiŋ,see fuomii Var. fuomii
 fuori,to bewitch
 fuori,to sip
 furi,to block an opening with an object
 furi,to open one’s eyes widely e.g. when surprised
 furi,to stoop
 furi,to cave in
-furi,Islamic marriage rite 
+furi,Islamic marriage rite pl  furri    furee furree
 furi kaa,to stare
-fuu,the cast-off skin of a snake
+fuu,the cast-off skin of a snake pl  fuuri    fuuree
+Word,Definition
 fuu,to frighten
 fuu,to speed
-fuu,a game where bare arrows are used 
+fuu,a game where bare arrows are used pl  fuuri    fuuree
 fuuli,to cheat  to make a fool of
 fuuli,to constrict
-fuuri,   foam
+fuuri, 1  foam
 fuuri,to cool off
 fuuri,treachery
 fuurofuuro,bits and pieces  of information 
 ga,to eat TZ without soup
 ga,to run wildly or in a frenzy e.g. cow stung by tsetse fly
-gaa,ebony  tree or fruit  
+gaa,ebony  tree or fruit  pl  gaare    garɛɛ gaarɛɛ
 gaa,to leave
 gaa,to scoop pulp e.g. soil
-gãa,outstretched and long  
-gaabu,onion 
+gãa,outstretched and long   A sɔrsɔrɔ tẽɛ la o nu gãa ka nembaaloŋ erɛ a noba ka ba korɔ o libie.
+gaabu,onion pl  gaaburi    gaaburee gaaburree
 gaafara,excuse
-Gaana,Ghana 
-gaale,   to place flat on the ground
-Gaana,Ghana 
-gaane,   to stride  to take strides of equal length with energy and confidence  
-gaane,to wear by passing a strip between the buttocks
-gaane,  triangular underwear 
+Gaana,Ghana pl  gaanarɪ    gaanɛɛ
+gaale, 1  to place flat on the ground
+Gaana,Ghana pl  gaanarɪ    gaanɛɛ
+gaane, 1  to stride  to take strides of equal length with energy and confidence  2  to wear by passing a strip between the buttocks  triangular underwear 
 gabaa,open and extensive
 gabadayaa,straightaway
 gabadii,a type of woolen cloth used to make suits
 gabaŋgabaŋ,anyhow
-gadaa,   ebony stick
-gadaa, sign of extradition
+Word,Definition
+gadaa, 1  ebony stick  2  sign of extradition
 gado,bed
-gagaraa,   traitor 
-gagaraa,  One who denies the truth and treads on falsehood
-gakogili,dried berry of the ebony tree
+gagaraa, 1  traitor  2  One who denies the truth and treads on falsehood
+gakogili,dried berry of the ebony tree sg  gakogiluu pl  gakogilo    gakogilee
 galaa,fool
 galbie,a great person
 galbie,a child born after more than 9 months of pregnancy
 gale,to speak in anger  to reproach
-gale,to miss the regular time   
+gale,to miss the regular time   O daŋe ba gale toma waabo bebiyeni gba.
 galegale,of quick fast steps  run 
 galegale,dog
 galema,strange
@@ -1984,22 +1900,20 @@ galeŋgoɔnaa,heron
 galiŋkoori,millipede
 galle,to pass
 galle,manoeuvre with skill and expertise
+Word,Definition
 Galyuoni,name traditionally given to a child born after 9 months of pregnancy
 gambanna,one who is literate
-gammiri,woven twine string worn by women around the waist
+gammiri,woven twine string worn by women around the waist sg  gammiruu pl  gammie    gammiiree
 gammisɔgelaa,woven leather waist string
 gammizoolɔ,waist strings for adolescent girl
-gampɛle,   sheet of paper 
-gampɛle,  page of a book
+gampɛle, 1  sheet of paper  2  page of a book
 gamporrizie,post office
-ganaa,   strip of leather 
-ganaa,  twine for chief mourners of a deceased person
+ganaa, 1  strip of leather  2  twine for chief mourners of a deceased person
 ganaaganaa,small and stretched like a string
 ganaaganaa,large and stretched
-gandaa,   hero
+gandaa, 1  hero
 gandaa,placenta
-gane,   book 
-gane, hide
+gane, 1  book  2  hide
 gangyinni,the act of doing things in excess e.g. eating
 gangyinnuŋ,the act of doing things in excess
 ganlaa,a type of dance
@@ -2007,16 +1921,15 @@ ganlɔgɔ,small leather bag worn on the shoulder
 gansɛgerɛ,writer
 gansɔraa,a book for reading
 gantoɔle,mail
+Word,Definition
 gaŋa,An enclosure for livestock e.g. cattle
 gaŋe,mad or insane  dogs 
-gaŋe,to lie down 
-gaŋe,  to sleep
+gaŋe,to lie down  2  to sleep
 gaŋe,to step over  to overtake  to be more than
 gaŋene,next one
 gaŋene,that which is too much
 gaŋgaa,drum  general 
-gaŋgaanaa,reed 
-gaŋgaanaa, vine
+gaŋgaanaa,reed  2  vine
 gaŋgadaa,small drum with a quieter sound
 gaŋgadalee,drumstick
 gaŋgakpoŋ,bass drum
@@ -2032,6 +1945,7 @@ gara,hobble
 garaa,small and pointed
 garaa,ridge
 gare,to stumble
+Word,Definition
 gare,to place across
 gare,go bad
 garegyerɛ,a shrub with milky sap
@@ -2055,11 +1969,11 @@ geregere,moderately hard e.g. half-cooked yam
 gɛbɛɛ,fool
 gieri,to belch
 go,to stoop
+Word,Definition
 go,watch over
 gobaa,shame
-gogo,clock    
-gogo,hour
-gogobiri,bull with a humped back 
+gogo,clock  1  hour
+gogobiri,zebu  bull with a humped back 
 gogoo,standing out with long appendages e.g. pointing
 gogoɔ,sawfish
 golebɛlɛ,lethargic and unsteady  very sick person 
@@ -2084,33 +1998,30 @@ goole,to mix
 goone,to walk majestically with an up-and-down body movement
 goɔ,thorn
 goɔ,to bend at the trunk
+Word,Definition
 goɔ,to prevent from progressing  to cause to return or refrain from something
 goɔ,to bite  snake 
-gõɔ,kiln  place for baking clay items to make them hard 
-gõɔ,  arena
+gõɔ,kiln  place for baking clay items to make them hard   2  arena
 gõɔo,sleep
 goɔraa,a type of small tree with medicinal properties
 goɔre,to walk or run half stooping
-gora,hunchback 
-gora, disease of the back
+gora,hunchback  2  disease of the back
 goraa,curved
-gore,to be abundant
-gore, to be overburdened with weight
+gore,to be abundant  2  to be overburdened with weight
 gore,to pluck feathers or fur
 gorgore,to ruffle
 gori,dowry
 gori,to bend an object  into a sharp curve 
-gɔbaa,skillful person  one full of dexterity 
-gɔbaa,artist  music
+gɔbaa,skillful person  one full of dexterity  2  artist  music
 gɔbenɛ,governor
 gɔbenɛnte,government
 gɔfuuraa,a type of tree with medicinal properties
 gɔge,to nod
-gɔgɔ,a type of tree whose bark is used in tanning 
-gɔgɔ, to type of black bird with a long tail
+gɔgɔ,a type of tree whose bark is used in tanning  2  to type of black bird with a long tail
+Word,Definition
 gɔgɔ,to bend halfway  to stoop
 gɔllaa,a type of small
-gɔlle,   to go round
+gɔlle, 1  to go round
 gɔlɔnteebo,chameleon
 gɔmberaa,state of sleeplessness
 gɔmbulo,unique sound in poetry
@@ -2131,37 +2042,35 @@ gɔŋɔ,type of guinea corn
 gɔɔ,left hand
 gɔɔ,left-handed
 gɔɔ,to go round and round
+Word,Definition
 gɔɔrombiri,literary device  lit. 
 gɔpelaa,a type of tree with medicinal properties
-gɔre,  to bend 
-gɔre,  to mould a hoe into a curved shape
+gɔre, 1  to bend  2  to mould a hoe into a curved shape
 gɔre,scythe
 gɔsɔgelaa,a type of thorn tree
 gɔteɛ,a tree with thorns
 gɔzeɛ,a type of tree with medicinal properties
-gu,   to watch out for 
-gu,  to look after  3  to protect
+gu, 1  to watch out for  2  to look after  3  to protect
 gufu,interpreter
 Gumo,a town in the Sisaalaland noted for soothsaying and divining
 gunni,to stalk  hunter tracking game 
 gunni,to pick tiny leaves from plants
 guo,heavy club with knobbed end
 guoli,to coil  rope 
-guoli,   to bring up  child 
-guoli, to raise  animals 
+guoli, 1  to bring up  child   2  to raise  animals 
 guoli,pot rest  pad on which pots are placed
 guori,kola nuts
-guri,   to throw one’s body onto another  wrestling
+guri, 1  to throw one’s body onto another  wrestling
 guruŋ,mushroom
 guu,to be unable
+Word,Definition
 guu,blunt
 guu,to be blunt
 guuli,to delay someone
 guuli,to be not yet healed of a sprain
 guuli,to delay someone
 guuli,knot
-gba,   to gather substantive debris 
-gba, to beat someone completely  gambling 
+gba, 1  to gather substantive debris  2  to beat someone completely  gambling 
 gba,to close tightly
 gbaa,viper
 gbaalaa,large
@@ -2173,6 +2082,7 @@ gbaane,lean
 gbaga,animal cage
 gbage,to face
 gbagelaŋ,large and strong e.g. cob of corn
+Word,Definition
 gbagele,bone with meat
 gbala,a type of women’s hairstyle
 gbalaa,pole for plucking
@@ -2189,7 +2099,7 @@ gbandiruŋ,inheritance
 gbanfolɔ,a dish made from mashed fresh corn
 gbanna,small farm near the house
 gbannaa,crop field
-gbantieloo,the act of shooting an arrow as high as one can.  
+gbantieloo,the act of shooting an arrow as high as one can.  used with saluoni    O gbaŋ la saluoni gbantieloo.
 gbantori,ulcer
 gbanzeɛ,very lightskinned person
 gbaŋe,gambling
@@ -2199,6 +2109,7 @@ gbaŋgbaa,slave
 gbaŋgbaaloŋ,slavery
 gbaŋgbakyeraa,stone axe
 gbaŋgbalaa,a clearing
+Word,Definition
 gbaŋgbaŋ,midday
 gbaŋgbaŋ,wide
 gbaŋgbele,raw and hard  fruit 
@@ -2210,15 +2121,14 @@ gbare,to shut off from hearing
 gbarema,small child
 gbateele,a kind of grass which is heated and smashed to explode
 gbatɛre,small
-gbe,to grind coarsely 
-gbe, to knaw at something hard  unripe fruit 
+gbe,to grind coarsely  2  to knaw at something hard  unripe fruit 
 gbẽɛ,to cut a bit tiny
 Gbeɛdomoo,a member of the Gbeɛdoma clan
 Gbeɛdomɔ,land area of the clan members  Gbeɛdomɛɛ 
-gbeɛle,a type of fetish manifested in a stone  
-gbeɛle,a stone believed to have supernatural power and treated as a god
+gbeɛle,a type of fetish manifested in a stone  a stone believed to have supernatural power and treated as a god  the clan god of the Gbeɛdomɛɛ
 gbeɛle,to eye with suspicion
 gbeɛle kuuri,round
+Word,Definition
 gbegi,to pile up e.g. firewood
 gbegili,hard and rigid
 gbegili,to become dry and hard
@@ -2230,8 +2140,7 @@ gbeleŋgbeleŋ,flat metal musical instrument  a cymbal
 gbelime,bell
 gbelime,hour
 gbelli,to turn the head away abruptly
-gbeŋgbegri,   river bank 
-gbeŋgbegri,  riverbed  dry 
+gbeŋgbegri, 1  river bank  2  riverbed  dry 
 gbeŋgbelaa,ground where millet is threshed and winnowed out
 gbeŋgbeŋ,firmly fixed
 gbeŋini,lion
@@ -2239,12 +2148,11 @@ gbeŋkeroo,a shrub with brown hard fruits that are edible. Also the fruit of suc
 gberi,of a twine snapping sound
 gberi,stopping suddenly
 gbɛbaŋa,ankle bangle
-gbɛbi-eɛne,   toenail
-gbɛbi-eɛne,  claw
+gbɛbi-eɛne, 1  toenail  2  claw
 gbɛbinyoɔre,tip of the toe
+Word,Definition
 gbɛbiri,toe
-gbɛbogi,   footprint 
-gbɛbogi, spot
+gbɛbogi, 1  footprint  2  spot
 gbɛ̃ɛ,dull
 gbɛɛ yaga,often
 gbɛfaa,ill luck
@@ -2255,19 +2163,20 @@ gbɛkpara,doublelegged
 gbɛkpeɛŋaa,fleetfooted
 gbɛkpoŋi,thigh
 gbɛle,a long
-gbɛle,to wriggle one’s torso  like in dancing  
-gbɛle, way of begging where one wriggles one’s wrist
+gbɛle,to wriggle one’s torso  like in dancing   2  way of begging where one wriggles one’s wrist
 gbɛlee,foot
+gbɛlɛɛ,gbɛlɛɛ
+gbɛlgbɛle,gbɛlgbɛle
 gbɛloŋkoraa,the region at the back of the knee joint
 gbɛlɔlɔraa,calf  human body 
 gbɛneɛraa,footprint
 gbɛnne,to pluck  leaves 
 gbɛnne,to chip the rim or edge of something
-gbɛre,   leg 
-gbɛre,  foot
+gbɛre, 1  leg  2  foot
 gbɛre,person with a physical disability that prevents them from walking
 gbɛre,mane
 gbɛre,to be unable to walk due to a physical disability
+Word,Definition
 gbɛregbɛre,crawl
 gbɛrɛ,sponge
 gbɛroo,weak and dejected  paralysis
@@ -2275,8 +2184,7 @@ gbɛsampane,top of foot
 gbɛsugili,ankle
 gbɛtanlori,half-bent leg on the other
 gbɛtɛre,small pond
-gbɛtoloŋ,the condition of being fast-footed  quickness  
-gbɛtoloŋ,intelligence
+gbɛtoloŋ,the condition of being fast-footed  quickness  2  intelligence
 gbɛtooraa,sock
 gbɛvelaa,good luck
 gbɛyeni,one-legged thing
@@ -2292,17 +2200,15 @@ gbigiri,to shake to test firmness e.g. a stem
 gbili,silent
 gbini,bundle
 gbiŋ-gbiŋ,manner of running that is uninterrupted
+Word,Definition
 gbiŋi,to cause to tremble or shake
 gbiŋi,to hypnotise  to put into utter shock such that the person or thing cannot react
 gbireŋgbireŋ,solid and firm
-gbiri,to sleep 
-gbiri, to coagulate
+gbiri,to sleep  2  to coagulate
 gbo,heart
 gbo,a loud sound
-gbogili,   to pack many objects on top of one another 
-gbogili, to stand up against each other  quarrel 
-gbogiri,   to gnaw flesh from a bone 
-gbogiri,  to lick a container clean e.g. a palatable soup pot
+gbogili, 1  to pack many objects on top of one another  2  to stand up against each other  quarrel 
+gbogiri, 1  to gnaw flesh from a bone  2  to lick a container clean e.g. a palatable soup pot
 gbogbo,gluttonous
 gbole,to look up towards the sky   A naŋkpaana gbole kaa la a nuulee naŋ dɔɔ a teɛ zu.
 gboli,bare-headed  carrying a load on the head without a pad   without attachment
@@ -2319,10 +2225,9 @@ gboŋgboŋ,bucket  metal container
 gboŋgbopelaa,jackal
 gboŋgbori,hyena
 gboŋi,to press against between two things. finger between two objects 
-gboŋi,to pile up  to pack together 
-gboŋi, to block an entrance  of a rodent’s hole 
-gbore,   to hold water in the mouth  
-gbore,  to conceal a hole  of a rodent 
+gboŋi,to pile up  to pack together  2  to block an entrance  of a rodent’s hole 
+Word,Definition
+gbore, 1  to hold water in the mouth  2  to conceal a hole  of a rodent 
 gboregbore,to gargle
 gbori,to move suddenly and strongly
 gbori,ship
@@ -2336,11 +2241,12 @@ gborivuuri,paddle
 gborogboro,very large e.g. grains
 gboroto,the manner of meeting face-to-face suddenly
 gbotole,bush baby  animal 
-gbɔɡe,   to be close to
+gbɔɡe, 1  to be close to
 gbɔɡe,not full e.g. sack of grain
 gbɔgele,to hold too many things at a time
 gbɔgele,to assemble poorly e.g. broken-down machine
 gbɔgɔ,a type of reptile similar to the monitor lizard
+Word,Definition
 gbutuli,uninformed person  fool
 gbuuli,see guuli  make a knot 
 gyaaŋkoli,the sacrum and coccyx
@@ -2350,8 +2256,7 @@ gyãayo,thanks
 Gyabuni,a type of idol with magical powers among the Dagaaba
 gyabuno,fetish
 gyaga,useless
-gyage,   to face a task that is difficult surmount 
-gyage,  jack
+gyage, 1  to face a task that is difficult surmount  2  jack
 gyagele,to hang on to
 gyambiri,clitoris
 gyammo,clitoris
@@ -2363,6 +2268,7 @@ gyaŋgboŋi,house mouse
 gyaŋgboro,fried dough made from the leaves of a small plant
 gyaŋgboro,a type of small plant with edible leaves
 gyaŋgbɔgɔ,a type of monitor lizard
+Word,Definition
 gyarema,a type of yam farm where sticks with branches are used to support the vine of the yam
 gyarima,a type of tree with medicinal properties
 gyee,short form of gyeere
@@ -2386,9 +2292,9 @@ gyenne,to test
 gyenne,to waylay
 gyennoo,test
 gyeraa,woven grass bracelet worn on the wrist
+Word,Definition
 gyeraa,short  distance 
-gyere,to cross between  two objects   
-gyere,to stumble
+gyere,to cross between  two objects   to stumble
 gyere,to subside  of rain 
 gyere,to set an arrow on a bow ready to shoot  to carry an axe on the neck
 gyere,to pierce through to the other side
@@ -2408,6 +2314,7 @@ gyɛle,thought  not giving thought  absent minded
 gyɛlemɛ,smallpox
 gyɛleŋmɛne,snail  shellfish
 gyɛlpɛge,eggshell
+Word,Definition
 gyɛlzizeɛ,yolk
 gyɛmɛgyɛmɛ,slowly and unnoticed
 gyɛndaa,spindle
@@ -2429,6 +2336,7 @@ gyikoli,the sacrum and coccyx
 gyildaa,less loud sounding one of the pair of xylophones
 gyildoɔle,xylophone mallet
 gyili,xylophone
+Word,Definition
 gyilkoɔre,gourd used in making the xylophone
 gyilnyaa,the base chord area of the xylophone
 gyilnyaŋaa,the more loud sounding between a pair of xylophones
@@ -2436,8 +2344,7 @@ gyiri,cordlike talisman worn on the waist
 gyiri,to bring about a change that makes life difficult
 gyirimuri,sulphur
 gyoboraa,carnivore
-gyoge,to pull mouth or lips in front to show anger.  typically used with noɔre   
-gyoge,to weed badly
+gyoge,to pull mouth or lips in front to show anger.  typically used with noɔre   to weed badly
 gyogere,to clear growth badly  barbing or hoeing 
 gyogili,to hold on to lightly and gently
 gyogo,behaviour
@@ -2460,8 +2367,7 @@ haali,greatly
 haali,even if
 haanaa,blackberry
 haare,to shout at  to frighten or drive away
-hage,   hold tight 
-hage,  tighten
+hage, 1  hold tight  2  tighten
 ha-haa,wide open
 hai,so?
 hale,to smell strongly and unpleasantly
@@ -2474,13 +2380,11 @@ hamama,resounding  singing
 hamamma,loudly and continuously
 hamm,large
 hankyere,handkerchief
-haŋe,   to suffer
-haŋe, to perspire
+haŋe, 1  to suffer  2  to perspire
 hap,to clutch tightly  North Dagaare dialect 
 harahara,rough
 hare,of the stomach  overwhelmed by hunger 
-helli,sharp shout e.g. during hearty laughter  
-helli,the sharp cry of a dog when hit
+helli,sharp shout e.g. during hearty laughter  the sharp cry of a dog when hit
 heŋi,to draw in one’s stomach
 heremm,very tight
 hɛɛ,caution
@@ -2505,32 +2409,27 @@ hoo,hooting
 hõo,expression of despair
 hoone,to growl
 hɔɔpɛmpɛlɛŋ,spleen
-hunihuni,   to speak in undertone 
-hunihuni, to gossip
+hunihuni, 1  to speak in undertone  2  to gossip
 hunni,whisper into the ear
-huuni,   to hum  dispirited 
-huuni,  of a dog’s expression of a familiar person  welcome
+huuni, 1  to hum  dispirited   2  of a dog’s expression of a familiar person  welcome
 iini,to get charged up
 ingŋyi,engine
 inni,to forget
 iree,duiker  small antelope 
-iri,   to rise
-iri,   to choose
+iri, 1  to rise
+iri, 1  to choose
+Word,Definition
 ka,that  introducing subordinated clauses 
-ka,   if
+ka, 1  if
 ka,to bail out  water 
-kaa,   to curse 
-kaa,  to invoke
-kaa,  to look
-kãa,   oil  butter 
-kãa, fat 
-kãa, nectar e.g. in honey
+kaa, 1  to curse  2  to invoke
+kaa, 1  to look
+kãa, 1  oil  butter  2  fat  3  nectar e.g. in honey
 kaabanyɛ,disrespect
 kaabo,millet plant
 kãaboli,pure liquid oil
 kãaburi,burnt residue from shea butter
-kaale,   to invoke 
-kaale, to perform a libation
+kaale, 1  to invoke  2  to perform a libation
 kaale,to gather e.g. soil
 kaalɔɔ,little thing eaten instantly
 kaama,lively state
@@ -2539,8 +2438,7 @@ kaaraa,lumpy paste made from bean flour
 kaare,car
 kaare,to drag e.g. feet on the ground
 kaare,to clear one’s throat  to cough up  phlegm 
-kaare,   to move away
-kaare,  to move away immediately
+kaare, 1  to move away  2  to move away immediately
 kaarebiri,sputum sg  kaarebiruu pl  kaarebie    kaarebiree kaarebiiree
 kaaterɛ,cursed one
 kaa tĩĩ,look closely
@@ -2549,8 +2447,7 @@ kabiri,millet grain sg  kabiruu pl  kabie    kabiiree
 kabooroo,millet seed
 kabɔrɔ,fresh
 kabulo,sown sprouts of millet
-kadaa,   millet stalk 
-kadaa, long stick for threshing millet
+kadaa, 1  millet stalk  2  long stick for threshing millet
 kadaara,millet or guinea corn that is not properly matured
 kadori,heap of millet
 kafini,lance
@@ -2610,8 +2507,7 @@ kananna,not coming forth
 kanaŋe,a type of red insect with a split tail
 kanatɛgɛ,reward
 kandazugidaa,wood of the kandazugiri tree
-kandazugiri,   a type of small tree with multiple branches and yellow fruits that are edible 
-kandazugiri,  the fruits of this tree
+kandazugiri, 1  a type of small tree with multiple branches and yellow fruits that are edible  2  the fruits of this tree
 kane,to be overmature e.g. okro fruits
 kanea,hurricane lamp
 kaneɛbiri,lampshade
@@ -2620,9 +2516,9 @@ kankyeemɛ,one hired to cook for another
 kankyɛle,a type of large tree with large
 kankyɛlpelaa,a type of tree
 kankyiri,a type of small plant with edible leaves
+Word,Definition
 kankyirikpoŋ,see
-kanne,   to teach 
-kanne,  to read
+kanne, 1  to teach  2  to read
 kanne,to doubt
 kannyiri,patience
 kansele,council
@@ -2658,9 +2554,7 @@ kapoŋi,millet flower
 kapuro,pillow
 kara,to prepare
 kara,a type of grass used for thatching
-karaa,unripe  
-karaa, not cooked through 
-karaa,not hot enough  of iron in fire 
+karaa,unripe  2  not cooked through  3  not hot enough  of iron in fire 
 karaa,uncompromising
 karaa,cobra
 karaa,clerk
@@ -2670,8 +2564,7 @@ karambanne,wit
 karansunni,kerosene
 karasa,bad-smelling
 karawaara,green grass that has not been burnt completyely
-kare,to drive away 
-kare, to chase
+kare,to drive away  2  to chase
 kare,completely  of people going away 
 kare,to break  small objects 
 karekare,to attempt to make a move
@@ -2724,6 +2617,7 @@ kereŋkereŋ,full to capacity  tyre
 kerese,small and distended
 kerese,big and distended  stomach 
 keri,come round
+Word,Definition
 keri,to measure
 keri,the way a type of sound is produced when a small object hits a bigger  stiff  object  onomatopoeia 
 kɛkɛre,stalk  of maize
@@ -2731,8 +2625,7 @@ kɛlɛkɛlɛ,lightweight  thickness
 kieluu,burnt-smelling
 kieluu,high-pitched and distorted  singing 
 kieree,brim of hat e.g. cowboy hat
-ko,   to kill 
-ko,  to put out  fire 
+ko, 1  to kill  2  to put out  fire 
 ko,to fold  cloth 
 ko,to dry
 ko,to gather e.g. rain clouds
@@ -2750,12 +2643,11 @@ kodɔɔ,widower
 kodu,banana
 kofi,coffee
 koganaa,strip of leather
-kogi,   seat
+kogi, 1  seat
 kogilii,dry and wrinkled  used for humans
 kogilimala,very lean and worn out
 kogiloŋ,small and curved
-kogiluu,   dry 
-kogiluu,  lean e.g. a person
+kogiluu, 1  dry  2  lean e.g. a person
 Kogiri,name of a village in Central Dagao
 kogiri,near the side of
 kogiri,to wink
@@ -2770,7 +2662,7 @@ kokomo,the nature of the sound of when one takes a bite at something hard. e.g. 
 kokoori,pan flute
 kokõɔ,food or drink given to mourners at a funeral
 kokyi,millet for funeral rites
-kolaa,   river
+kolaa, 1  river
 kolaanoɔre,south of Ghana
 kolaa nyɔge,to drown  intransitive 
 kolakola,soft e.g. cloth
@@ -2785,6 +2677,7 @@ kolkole,to engage in affectionate play  usually between lovers
 kolkoli,to be all over another e.g. a dog welcoming an acquaintance
 koll,rising into the air e.g. smoke
 kolle,to gather or cut vegetation in great quantities
+Word,Definition
 kolnoɔ,moorhen
 kolokolo,turkey
 kolokolo,light
@@ -2798,8 +2691,7 @@ Komaase,main city in the Ashanti Region of Ghana
 komakoma,mild e.g. drink
 komboroŋ,wrinkled
 komiri,a string or strip of cloth tied round the wrist or waist of the bereaved during the funeral rites
-kommiruu,   tomato 
-kommiruu,   eggplant
+kommiruu, 1  tomato  2  eggplant
 komoɔreŋ,a type of funeral dirge
 kona,in large quantity
 konaabo,cow meant for funeral rites
@@ -2811,21 +2703,20 @@ konni,cry
 konni,to catch a falling object in midair  to prevent from falling 
 konono,mouse nest
 konobara,lamentation
-konono,   smooth  flour  
-konono,   soft  body 
-konono,    unasuming  behaviour 
+konono, 1  smooth  flour   2  soft  body   3  unasuming  behaviour 
 konoɔ,final funeral of the Sisala  an ethnic group in the UWR 
 kon-ɔɔnɛnesoba,vegetarian
 konzagera,mouse nest
 koŋ,not   N koŋ gaa be zenɛ.
 koŋi,mangled
-koŋi, cry
+koŋi, 1  to cry
 koŋi,to ferment
 koŋkogiri,boundary  of a field 
 koŋkola,farming field
 koŋkombiri,funeral dirge text
 koŋkommoola,incessant crying and for no apparent reason e.g. a child
 koŋŋmɛbaa,back of the head of the dog
+Word,Definition
 koŋ-ɔɔ-moɔ,dog
 kookeree,one’s best attempt  effort
 koone,to groan  in pain 
@@ -2833,15 +2724,13 @@ kooraa,umbilical hernia
 koore,to snore
 koore,to collect or move a load at once
 koɔ,to have an upset stomach
-kõɔ,   water 
-kõɔ,  pus
+kõɔ, 1  water  2  pus
 kõɔ,water-like
 koɔbo,the act of farming
 koɔle,to gather  to bring together
 koɔle,to get sick
 koɔle sɔgelaa,fertile land
-koɔlɔ,   farmland 
-koɔlɔ, environment
+koɔlɔ, 1  farmland  2  environment
 koɔraa,farmer
 koɔre,to sell
 koɔre,to scrape
@@ -2853,8 +2742,7 @@ kopeɛ,ground immediately surrounding the stage of the corpse
 ko-pɔge,widow
 ko-puoraa,belated condolence  usually from someone who misses a funeral 
 koraa,village  bush settlement
-kore,   to be old  not young 
-kore, to be old  not new 
+kore, 1  to be old  not young   2  to be old  not new 
 kore,old
 korekore,to break into bits and pieces  grass 
 korekore,many
@@ -2865,6 +2753,7 @@ kori,to embrace
 kori,laziness
 kori,difficulty
 kori,the manner of a sound from hitting a hard surface
+Word,Definition
 korimo,a type of lizard believed to be poisonous
 koringyoŋ,violin  harp
 koro,pot for storing TZ  thick paste made from flour 
@@ -2882,13 +2771,11 @@ Kowɛre,homeland of the Kowɛre clan
 Kowaroo,a member of the Koware clan
 koyeŋi,wake keeping  funeral 
 koyiri,house of a bereaved family
-kɔ,   to hoe 
-kɔ,  to cultivate
+kɔ, 1  to hoe  2  to cultivate
 Kɔbenɛ,an annual festival celebrated by the people of Lawra
-kɔge,   to be near
+kɔge, 1  to be near
 kɔge,to boil ground malt at the the first stage in the preparation of pito
-kɔgele,   to keep company 
-kɔgele,  to give aid
+kɔgele, 1  to keep company  2  to give aid
 kɔgelɔ,a type of fetish or god
 kɔgeraa,raised lump on the floor of a room used as a seat
 kɔkɔbaŋ,neck bangle
@@ -2946,17 +2833,17 @@ kɔmpũo,period of excessive water on the land e.g. during the peak of heavy rai
 kɔndaare,waves
 kɔndaare,water for sale
 kɔndazugiri,a type of wild dwarf tree
-kɔndazugovũũ,furnace  
-kɔndazugovũũ, hell
+kɔndazugovũũ,furnace  2  hell
 kɔndoge,water pot
 kɔndugzie,swimming pool
 Kɔnduoraa,a river in the Upper West Region of Ghana
 kɔnkyɔkyɔgere,swamp
 kɔnkyɔrɛɛ,a type of bath where soap and sponge are not used
+Word,Definition
 kɔnkyuuri,waterfall
 kɔnnaŋ,water scarcity
 kɔnne,leprosy
-kɔnnimiri,spring    water hole
+kɔnnimiri,spring  1  water hole
 kɔnnoŋ,the condition of having leprosy
 kɔnnoɔre,beach
 kɔnnyuuri,thirst
@@ -2970,8 +2857,7 @@ kɔnsaaloŋ,plain fluid from a swelling  may be mixed with blood
 kɔnsaane,water with mashed porridge
 kɔnso,the act of bathing
 kɔnsobɔɔdoaa,bath towel
-kɔnsogɔ,the middle of water e.g. a stream 
-kɔnsogɔ,the act of keeping afloat in water with body upright
+kɔnsogɔ,the middle of water e.g. a stream  2  the act of keeping afloat in water with body upright
 kɔnsolaa,large jar used for bathing
 kɔnsoŋ,holy water
 kɔnsɔgerɔ,dirty water
@@ -2980,6 +2866,7 @@ kɔnsuoro,one who is bathing
 kɔntere,cheek
 kɔntɛtɛgere,puddles  plural noun 
 kɔntɔmbile,fairy
+Word,Definition
 kɔntɔmbɔgɔ,the act of divining through the power of fairy spirits
 kɔntɔmɔ,fairy
 kɔntɔnkyi,a type of guinea corn with short thick bunch of seed
@@ -2996,25 +2883,20 @@ kɔŋe,to contract leprosy
 kɔŋe,to be unavailable
 kɔŋe,hunger
 kɔŋgaŋene,a place beyond the waters
-kɔŋkaare,water that has been bailed out 
-kɔŋkaare, water that must be bailed out
+kɔŋkaare,water that has been bailed out  2  water that must be bailed out
 kɔŋkare,plain drinking water
 kɔŋkɔŋ,palm tree
 kɔŋkɔŋɔ,leper
 kɔŋkɔre,forest
 kɔŋkpaare,backstroke  swimming 
-kɔɔ,to break 
-kɔɔ,to dance 
-kɔɔ,  to become charred  
-kɔɔ,  to stampede
+kɔɔ,to break  2  to dance  3  to become charred  4  to stampede
 kɔɔ,one hundred
 kɔɔ,appear broken
 kɔɔkyaporo,bone marrow
 kɔɔle,burnt
 kɔɔlmare,to hurt verbally e.g. insult
 kɔɔloŋ,hair
-kɔɔre,bone  
-kɔɔre,  armlet made from elephant tusk
+kɔɔre,bone  2  armlet made from elephant tusk
 kɔɔre,to delay
 kɔɔto,court
 kɔɔyɛ,forest
@@ -3022,8 +2904,7 @@ kɔɔzii,a type of tiny bird that moves in large groups
 kɔpo,cup
 kɔpuori,the act of weeding again
 kɔraa,hook
-kɔre,pocket 
-kɔre, bag
+kɔre,pocket  2  bag
 kɔre,to scoop out  to empty
 kɔre,how it sounds when a stone hits an object
 kɔre,to cough
@@ -3044,12 +2925,12 @@ kukuri,hoe handle
 kukuribone,farm produce
 kukurkpaare,nape of the neck of a hoe handle
 kukpoŋi,large hoe
+Word,Definition
 kuli,to go home
 kulikuli,very
 kulinni,shrill noise of praise
 kull,rising in a cloud
-kulli,to mind 
-kulli, to not regard
+kulli,to mind  2  to not regard
 kultaa,marriage
 kultaa wɛltaa,divorce
 kunoɔre,edge of hoe blade
@@ -3069,8 +2950,7 @@ kuoŋaa,dry
 kuori,funeral
 kuori,to tap with an object
 kuree,shorts
-kuri,metal 
-kuri,iron
+kuri,metal  2  iron
 kuri,to forge
 kuri,to plant calabash seeds
 kuri,to scrape
@@ -3080,16 +2960,13 @@ kuridaa,iron bar
 kurigbɛɛgbori,train
 kurigbɛɛsori,rail line
 kurigbɛwogri,trousers
-kurikuni,tortoise 
-kurikuni, ball of seeds in the calabash fruit  
-kurikuni, padlock
+kurikuni,tortoise  2  ball of seeds in the calabash fruit  3  padlock
 kurikuri,to search
 kurikuro,blacksmith
 kurimoŋ,stunted e.g. malnourished child
 kuriwiri,bicycle
 kuriyoluŋ,the act of wearing shorts or trousers without underwear
-kurizeɛ,brass 
-kurizeɛ, copper
+kurizeɛ,brass  2  copper
 kuri zu mare,to persevere
 kurkumpɛge,shell  of turtle 
 kurusu,small and stunted
@@ -3104,59 +2981,47 @@ kusiwara,gravel
 kutaayi,file
 kutobo,hoe  traditional Dagaaba hoe 
 kutoori,plough breast
-kũu,death  
-kũu, corpse
+kũu,death  2  corpse
 kũu,see bikũu
 kũubogi,grave
 kuunileɛiruu,resurrection
 kuuri,hoe
 kuuri,to dredge  to remove from the bottom of a container of liquid
 kuuri,to quickly dodge an object in the air
-kuuri,stone 
-kuuri, fetish stone
+kuuri,stone  2  fetish stone
+Word,Definition
 kũuyee,a type of small owl believed to foresee evil happenings
-kpá,to boil 
-kpá,to dismantle  usually at the joints  
-kpá,  to lament  to mourn
+kpá,to boil  2  to dismantle  usually at the joints   3  to lament  to mourn
 kpa,to lock
-kpaa,to be unsuccessful   
-A karema goɔ la a bie kpaa., The teacher was unable to stop the child. 
-kpaa, to leave some of
+kpaa,to be unsuccessful   A karema goɔ la a bie kpaa. The teacher was unable to stop the child.  2  to leave some of   Ba di la a bondirii kyɛ ka a kpaa.
 kpaa,to remove by pulling out
-kpaa,leftover   
-A baa ŋa ba nɔŋ bondi-kpaa., This dog does not like leftover food.
+kpaa,leftover   A baa ŋa ba nɔŋ bondi-kpaa. This dog does not like leftover food.
 kpãa,to warn
 kpãa,cook very palatable food
 kpaagyiri,strong whip  made of tendon and leather 
 kpaakpaa,palm kernel
-kpaakpaabiri,palm kernel seed 
+kpaakpaabiri,palm kernel seed sg  kpaakpaabiruu pl  kpaakpaabie    kpaakpaabiree kpaakpaabiiree Var. kpaakpaa
 kpaakyinni,to leap from a height to land
 kpaale,to remind
 kpãaloɔraa,a type of small brown bird
 kpaalzeɛ,a	type	of tree with medicinal properties
 kpaamoɔ,a	type of	grass
-kpaane,to become tight 
-kpaane, to go hunting
+kpaane,to become tight  2  to go hunting
 kpaanyo,nothing
 kpãao,guinea fowl
 kpaaraa,whip
-kpaare,to tap  on a door  
-kpaare,  to roof by knocking nails to hold roof  
-kpaare,  to harvest termites  at the end of the process one knocks on the pot containing termites 
-kpaare, to fly at top speed
-kpaare,to come together 
-kpaare, to assemble
+kpaare,to tap  on a door   2  to roof by knocking nails to hold roof  3  to harvest termites  at the end of the process one knocks on the pot containing termites   4  to fly at top speed
+kpaare,to come together  2  to assemble
 kpaasere,to end up at a point
-kpãa toori,   to insist  
-kpãa toori, to harden one’s heart
+kpãa toori, 1  to insist  2  to harden one’s heart
 kpaba,sweating profusely
 kpabogi,point between the neck and the head
 kpaga,refuse to do anything
 kpage,thick
-kpagelaga,   thick  
-kpagelaga, motionless
+Word,Definition
+kpagelaga, 1  thick  2  motionless
 kpagraa,cornstalk
-kpakuori,a type of whistle made from the wing bone of a bird
+kpakuori,a type of whistle made from the wing bone of a bird pl  kpakuore    kpakuorɛɛ
 kpakuorɔ,pot stand
 kpalanga,crab
 kpale,to be too fat
@@ -3164,9 +3029,9 @@ kpale,to lean
 kpamba,a type of wild mouse
 kpame,to weed
 kpamiiri,one who has spiritual power
-kpanaa,yam 
-kpanbɔŋ,potstand 
-kpanchini,a type of large grasshopper
+kpanaa,yam pl  kpanaare    kpanaarɛɛ
+kpanbɔŋ,potstand pl  kpanbɔnno    kpanbɔŋnɛɛ
+kpanchini,a type of large grasshopper pl  kpanchinni    kpanchinnee
 kpang,dark  moonless night 
 kpaŋa,cornstalk
 kpaŋkpaali,backbone
@@ -3193,10 +3058,11 @@ kpaŋsiri,a type of wild mouse
 kpaŋtɔŋ,cornstalk
 kpaŋwa,a type of wild mouse
 kpãarɛɛ,halfway
-kpãarikaakaa,dart 
-kpãarikuoɔ,a large dart  used in hunting 
+kpãarikaakaa,dart pl  kpãarikaakari    kpãarikaakaree
+kpãarikuoɔ,a large dart  used in hunting  pl  kpãarikuoŋ    kpãarikuoŋee
 kpãarikoŋ,a large
-kpãarikoŋ,a large dart  used in hunting  
+Word,Definition
+kpãarikoŋ,a large dart  used in hunting  pl  kpãarikoŋni    kpãarikoŋnee
 kpeeli,crab
 kpeere,a type of pot stand
 kpeŋkpeŋ,a type of bird
@@ -3231,37 +3097,33 @@ kpuukpuu,a type of bird
 kpuukpuum,a type of bird
 kpuurɛ,a type of bird
 kpuurugu,a type of bird
-kpageloo,   hard
+Word,Definition
+kpageloo, 1  hard
 kpagyɛle,the pointed part of the back of the head
 kpagyiili,main vein connecting the back of the head and the neck
 kpakyaga,between
 kpala,a type of powder for the eyelashes
-kpala,   nakedness
+kpala, 1  nakedness
 kpalaa,sling
 kpalaŋ,quickly
 kpalaŋkpalaŋ,in a uneventful manner
 kpale,to become bare  bald 
-kpale,   bare  empty 
-kpale,  for nothing
+kpale, 1  bare  empty  2  for nothing
 kpale,to make firm  loose soil 
 kpaleŋkpaa,louse
-kpalle,to remind 
-kpalle, to caution  
-kpalle, to remould the blade of an overused implement  axe 
+kpalle,to remind  2  to caution  3  to remould the blade of an overused implement  axe 
 kpambeɛ,spokesman
 kpambiri,wooden bell
 kpammo,thick and hard
-kpane,   lead  
-kpane,  spear
-kpanne,   to hypnotize  
-kpanne,  to be overwhelmed by cold
-kpantoli,   patch of hair as a hairstyle 
-kpantoli,  crest  of a bird 
+kpane, 1  lead  2  spear
+kpanne, 1  to hypnotize  2  to be overwhelmed by cold
+kpantoli, 1  patch of hair as a hairstyle  2  crest  of a bird 
 kpaŋaa,large and hollow
 kpaŋe,to become rigid and hard  of a surface 
 kpaŋe,rigid and hard  surface
 kpaŋenyaŋa,large and dirty  container 
 kpaŋkpane,arm
+Word,Definition
 kpaŋkpannyugbieli,elbow
 kpaŋkpaŋkpẽɛ,force
 kpaŋkpazegle,hard
@@ -3271,22 +3133,17 @@ kpaŋkpoli,chicken without feathers
 kparata,lie prostrate  flat with face upwards
 kpardiiraa,smock with multiple folds
 Kpare,name of a town in the Upper West Region
-kpare,   to tie together  to make a bow  
-kpare, to suffer
-kpare,   to pair up 
-kpare,closed to 
-kpare, to ride one bike or animal together  two or more people 
+kpare, 1  to tie together  to make a bow   2  to suffer
+kpare, 1  to pair up  2  closed to  3  to ride one bike or animal together  two or more people 
 kparoo,top  clothing 
 kparpĩi,needle
 kparsirikyi,expensive beautiful gown
 kparyoluŋ,top wear without a supporting underwear
 kpateɛrɛ,supporter
-kpatere,   gorilla
-kpatere, chimpanzee
+kpatere, 1  gorilla  2  chimpanzee
 kpawerɛ,the act of not showing concern
 kpawoɔ,hat  especially one made from cloth   northern Dagaare dialect 
-kpe,   to shell a bit of  maize seed from cob  
-kpe,   to wink  to give someone a sign 
+kpe, 1  to shell a bit of  maize seed from cob   2  to wink  to give someone a sign 
 kpeebɛ,orphaned
 kpeebo,orphan
 kpẽekpẽe,not bright  fire 
@@ -3306,12 +3163,10 @@ kpeɛrentɔ,neighbour
 kpegere,to be curious  asking questions to find information 
 kpegileŋ,small but compact
 kpegiri,gizzard
-kpegiri,   to shiver  from cold  
-kpegiri,  to move one’s torso quickly and vigorously  usually in dancing 
+kpegiri, 1  to shiver  from cold   2  to move one’s torso quickly and vigorously  usually in dancing 
 kpegiruu,a type of dance
 kpekpe,pair of scissors
-kpele,   to develop a bad eye  black of eye looking whitish 
-kpele,  to cause to be bare  growth 
+kpele, 1  to develop a bad eye  black of eye looking whitish   2  to cause to be bare  growth 
 kpele,hard
 kpele,break completely
 kpeleŋkpeleŋ,uncompromising state  quarel 
@@ -3329,8 +3184,7 @@ kpeŋkperɛŋ,smallish but strong  short person
 kperaa,disease of the hip
 kperaa,exposed
 kpere,to be stunted in growth or development
-kpere,   to break off an attached bit from the main body 
-kpere, to sneeze
+kpere, 1  to break off an attached bit from the main body  2  to sneeze
 kpere,to litter
 kperefene,muscular and stocky
 kperekpere,to struggle
@@ -3338,48 +3192,41 @@ kperekpere,rough
 kperemene,all over  fruits on a tree or scratches on the body 
 kperemɛŋ,stunted
 kperese,very sweet
-kperɛ,   small 
-kperɛ,  worn out  broom 
+kperɛ, 1  small  2  worn out  broom 
 kperɛkperɛ,little bits
 kperi,to chop  meat
 kperime,type of food  full of chopped meat 
 kperiwere,few
-kpɛ,   to enter  
-kpɛ,  to dwell in
+kpɛ, 1  to enter  2  to dwell in
 kpɛde,ownership  wealth 
 kpɛɛ,malt
-kpɛgelaa,   supporting object  for a boiling pot on a hearth.  
-kpɛgelaa, attachment
-kpɛgele,   to place by the side  provide support for a cooking pot on the hearth  
-kpɛgele,   to adjoin
+kpɛgelaa, 1  supporting object  for a boiling pot on a hearth.   2  attachment
+kpɛgele, 1  to place by the side  provide support for a cooking pot on the hearth   2  to adjoin
 kpɛgelɛŋ,loose and flabby  diseased arm 
 kpɛgere,to disturb or worry someone
-kpɛle,   to faint 
-kpɛle, to crave   
-O nyɛ la pegebil velaa kaŋa a deɛ kpɛlɛ o yɛlɛ., He is just crazy about a beautiful girl he saw.
+kpɛle, 1  to faint  2  to crave   O nyɛ la pegebil velaa kaŋa a deɛ kpɛlɛ o yɛlɛ. He is just crazy about a beautiful girl he saw.
 kpɛle,to pluck
 kpɛlemɛ,snatch
 kpɛlewɛlɛ,not firm or strong
 kpɛlewɛlɛ,weak and loose  pair of scissors 
 kpɛlɛŋ,everything
 kpɛlɛŋkpɛlɛŋ,finish completely
+Word,Definition
 kpɛlle,loud and sharp cry
 kpɛnezu,a small black blood-sucking fly that causes river blindness
 kpɛŋkpɛlemɛ,bits and pieces
 kpɛŋkpɛlɛŋ,of a hanging bit
 kpɛŋkpɛrɛŋ,spilled all over
-kpɛre,   to spill 
-kpɛre,  to cook a small quantity of
+kpɛre, 1  to spill  2  to cook a small quantity of
 kpɛrewɛrɛ,small quantity
 kpɛrɛkpɛrɛ,bits and pieces
 kpɛrɛndɛŋ,best of  deed 
 kpɛrɛŋkpɛrɛŋ,smeared all over
 kpɛsenneŋenɛ,pulp from pito malt
-kpɛtaa,   be suited to  fit well 
-kpɛtaa, a union in which the group members work for each other in turns
+kpɛtaa, 1  be suited to  fit well  2  a union in which the group members work for each other in turns
 kpɛwẽɛ,water from prepared malt
 kpɛzie,abode
-kpi,   to die
+kpi, 1  to die
 kpibifi,small
 kpieni,snatch  e.g. hawk snatching a chicken 
 kpiiri,to sew the end of  to hem  dress 
@@ -3389,10 +3236,9 @@ kpinni,to quench
 kpinni,to remind
 kpirikpiri,very black
 kpiroo,protruding in a small manner
-kpo,   to break open an egg 
-kpo,  to remove the bark of a tree
-kpo,   funeral donation
-kpo, meeting place
+kpo, 1  to break open an egg  2  to remove the bark of a tree
+Word,Definition
+kpo, 1  funeral donation  2  meeting place
 kpogeraa,hyena
 kpogi,to bully
 kpogili,helmet
@@ -3406,8 +3252,7 @@ kpokpo,permanent
 kpokpori,mound
 kpolaa,large and blunt
 kpolee,small and round
-kpoli,   to get to the extreme  red hot metal   
-kpoli,  to go bad
+kpoli, 1  to get to the extreme  red hot metal   2  to go bad
 kpoli,bare
 kpoli,a player letting go a dice of the opponent in the game of bie as a sign of total control of the game
 kpolikpala,big
@@ -3415,11 +3260,9 @@ kpoliŋkpoori,a type of small ant
 kpolo,termites  trapped for chicken feed. 
 kpoloŋkpoloŋ,bare and clean  shaven head 
 kpolore,small
-kpolɔ,   inner feeling 
-kpolɔ,   anger
+kpolɔ, 1  inner feeling  2  anger
 kpommu,cassava  plant 
-kponni,   to hit a rigid object to clean of dirt  dust 
-kponni, to empty powdery stuff completely from a container
+kponni, 1  to hit a rigid object to clean of dirt  dust   2  to empty powdery stuff completely from a container
 kpontoli,topknot
 kpoŋi,big
 kpoŋi,to knock on the head slightly
@@ -3427,13 +3270,10 @@ kpoŋkpogiri,wickedness  deliberate unfriendly behaviour
 kpoŋkpoli,miniature xylophone
 kpoŋkpolimo,coop for fowl
 kpoŋkpolo,secondrate xylophone notes  usually laid out on the ground 
-kpoŋkponti,   dried cassava tubers 
-kpoŋkponti,food made from cassava flour
-kpoŋŋo,cassava plant	
-kpoŋŋo, dried cassava tubers
+kpoŋkponti, 1  dried cassava tubers  2  food made from cassava flour
+kpoŋŋo,cassava plant	 2  dried cassava tubers
 kpoo,expression of surprise and dismay
-kpore,   to crack one’s knuckles 
-kpore,  to seal completely  hole 
+kpore, 1  to crack one’s knuckles  2  to seal completely  hole 
 kpore,snuffbox  small container for snuff 
 kpore,lump  on wood 
 kpori,to empty
@@ -3454,14 +3294,11 @@ kpugiloŋ,large
 kpulee,small and rounded on top
 kpulee,large and rounded on top
 kpuleekpulee,groundnut cake
-kpuli,   round-headed 
-kpuli,   hornless  ram 
-kpulikpuli,   to walk with difficulty 
-kpulikpuli, to stutter  leper 
+kpuli, 1  round-headed  2  hornless  ram 
+kpulikpuli, 1  to walk with difficulty  2  to stutter  leper 
 kpulli,to conclude  to bring to the end
 kpuŋkpuli,round headed truncheon
-kpurimunu,   in great numbers  fruit
-kpurimunu,   of the fall of fruits
+kpurimunu, 1  in great numbers  fruit   2  of the fall of fruits
 la,focus particle
 la,to laugh
 la,again
@@ -3475,16 +3312,12 @@ laalɛŋ,medium-size bowl
 laane,useless
 laane,ripe archie-fruit  showing a split 
 laane,to grope
-laare,   to wave e.g. greeting  
-laare,   to move or spread out e.g. people in a circle  
-laare,   to brush aside
+laare, 1  to wave e.g. greeting  2  to move or spread out e.g. people in a circle  3  to brush aside
 laare,to hover above e.g. bird
-laare,   to spread all over   
-Saa mie la ka kõɔ laare a bombulo zaa., The rain has caused a near flooding of all the crops.  
-laare, to move a finger gently over  
- A dɔɔta de la tẽẽ kãã mine laare ne a bie nimie., The doctor applied some creamy medicine to the child’s eyes.
+laare, 1  to spread all over   Saa mie la ka kõɔ laare a bombulo zaa. The rain has caused a near flooding of all the crops.  2  to move a finger gently over   A dɔɔta de la tẽẽ kãã mine laare ne a bie nimie. The doctor applied some creamy medicine to the child’s eyes.
 laare,to assemble  to bring together
 laatereke,electricity
+Word,Definition
 labiri,axe blade
 ladiraa,sharp axe
 laga,spoon
@@ -3499,21 +3332,19 @@ lakpoŋi,large axe
 lalee,small axe
 laloɔrɔ,playmate
 lambiri,testicle
-lambori,   side	
-lambori,  post side  of something 
+lambori, 1  side	 2  post. side  of something 
 lamboriŋ,beside
 lampɛ,cradle cover
 lampɛgere,cheek
 lamponderɛ,tax collector
 lampoŋ,levy
 lane,scrotum
-lanleebu,   unison 
-lanleebu,   rhythm
+lanleebu, 1  unison  2  rhythm
 lanna,tree squirrel
 lanne,to lean against
 laŋa,a tribe  Sisaale 
 Laŋe,area inhabited by the Sisaala
-laŋe,   to gather
+laŋe, 1  to gather
 laŋe,to slosh
 laŋgbaraa,a long pole with a hook for plucking things high up
 laŋkoroo,corner
@@ -3524,27 +3355,22 @@ lare,axe
 lare,to become very hot
 lare,to lock
 lare,to stack one container in another
-le,   to fall  down  
-le,  to be guilty 
-le,  to settle e.g. sediment in liquid  
-le,  to reduce in pain e.g. stomach ache
+le, 1  to fall  down   2  to be guilty  3  to settle e.g. sediment in liquid  4  to reduce in pain e.g. stomach ache
 le,to be bent on
-leere,   to manouvre
+leere, 1  to manouvre
 leɛ,to replace
 leɛ-eebo,to redo  to go over
 leɛgɔɔtɔbaa,a local dish made from fried corn and vegetable
 leɛne,a type of tree with sweet and sour fruits and medicinal properties
 leɛne,large umbrella
-leɛre,   to change  appointment
-leɛre,   to exchange 
-leɛre, change position  
-leɛre, substitute
-leɛre,   to wave one’s hands or other objects in the air or in the face of another 
-leɛre,  wave hand vigorously in the face of another
+leɛre, 1  to change  appointment
+leɛre, 1  to exchange  2  change position  3  substitute
+leɛre, 1  to wave one’s hands or other objects in the air or in the face of another  2  wave hand vigorously in the face of another
 lege,to apply to a spot
+Word,Definition
 laŋa,a tribe  Sisaale 
 Laŋe,area inhabited by the Sisaala
-laŋe,   to gather
+laŋe, 1  to gather
 laŋe,to slosh
 laŋgbaraa,a long pole with a hook for plucking things high up
 laŋkoroo,corner
@@ -3555,37 +3381,27 @@ lare,axe
 lare,to become very hot
 lare,to lock
 lare,to stack one container in another
-le,   to fall  down 
-le,  to be guilty 
-le,  to settle e.g. sediment in liquid 
-le,  to reduce in pain e.g. stomach ache
+le, 1  to fall  down   2  to be guilty  3  to settle e.g. sediment in liquid  4  to reduce in pain e.g. stomach ache
 le,to be bent on
-leere,   to manouvre
+leere, 1  to manouvre
 leɛ,to replace
 leɛ-eebo,to redo  to go over
 leɛgɔɔtɔbaa,a local dish made from fried corn and vegetable
 leɛne,a type of tree with sweet and sour fruits and medicinal properties
 leɛne,large umbrella
-leɛre,   to change  appointment
-leɛre,   to exchange 
-leɛre, change position  
-leɛre,  substitute
-leɛre,   to wave one’s hands or other objects in the air or in the face of another 
-leɛre,    wave hand vigorously in the face of another
+leɛre, 1  to change  appointment
+leɛre, 1  to exchange  2  change position  3  substitute
+leɛre, 1  to wave one’s hands or other objects in the air or in the face of another  2  wave hand vigorously in the face of another
 lege,to apply to a spot
-lege,   to wag  dog’s tail  
-lege,   to struggle
-legelege,to struggle under a tight grip  
- A dɔɔ da feere la a nannyige kɔkɔre ka o te legelegerɛ., The man held the thief’s throat and he struggled to breathe.
+lege, 1  to wag  dog’s tail   2  to struggle
+legelege,to struggle under a tight grip   A dɔɔ da feere la a nannyige kɔkɔre ka o te legelegerɛ. The man held the thief’s throat and he struggled to breathe. legelegɛɛ
 legere,to tickle
 legere,to stalk
 legere,to eat a great deal
 legere,to move noiselessly to avoid being noticed
-legiri,to fill in what is missing e.g. sowing of grains 
-legiri,to argue   
-Dagaaba ba nɔŋ bibile naŋ legire neŋkponni., The Dagaaba do not take kindly to children who argue with elderly people.
-lekere,boastfulness  assuming  typically used with yɛlɛ    
-A bikpoŋ na erɛ la lekere yɛlɛ yelmeŋɛ., That big boy behaves in a boastful manner.
+legiri,to fill in what is missing e.g. sowing of grains   Kɔrre da pere la kyi yaga
+legiri,to argue   Dagaaba ba nɔŋ bibile naŋ legire neŋkponni. The Dagaaba do not take kindly to children who argue with elderly people.
+lekere,boastfulness  assuming  typically used with yɛlɛ    A bikpoŋ na erɛ la lekere yɛlɛ yelmeŋɛ. That big boy behaves in a boastful manner.
 le kõɔ,small
 le kõɔ,watery
 lelaare,to take complete control
@@ -3594,18 +3410,17 @@ le nimiri,pleasant
 lenlenni,a type of skin disease
 lenni,to be spotted
 lenni,to be interpersed
-lenni,   to augment the main drummer’s beat  of support xylophonist  
-lenni, play a musical instrument in support of the lead player
-leŋi,   to fasten
+lenni, 1  to augment the main drummer’s beat  of support xylophonist   2  play a musical instrument in support of the lead player
+leŋi, 1  to fasten
 leraa,safety pin
 lere,a type of loincloth for men
-lere,   to interweave 
-lere,  crisscross e.g. sitting with legs crossed
+lere, 1  to interweave  2  crisscross e.g. sitting with legs crossed
 leree,naked
 leremɛ,interwoven
 lerese,small but intact  person 
 le tobo,beautiful
 lezaɛ anaare,eighty
+Word,Definition
 lezaɛ ata,sixty
 lezaɛ ata ne pie,seventy
 lezaɛ ayi,forty
@@ -3613,24 +3428,16 @@ lezaɛ ayi ne pie,fifty
 lezare,twenty
 lezare ne ayi,thirty-one
 lezare ne yeni,twenty-one
-lɛ,   so
+lɛ, 1  so
 lɛbiri,bead
-lɛɛ,is that so?   
-A dɔɔ ŋmaa na gaa la dansareka kyɛ yi. That short man is an exconvict.
-Lɛɛ?  Is that so?
-lɛɛ,   for a while  wait   
-o are la be lɛɛ wa te bale., She waited until s he became tired.  
-lɛɛ, continuous and for quite sometime   
-Ba yeli ka a sori e la ŋmaa kyɛ ka te kyɛŋe o lɛɛ ka ŋmenaa te kpɛ., We were told the journey was not long but walked and walked until dusk.
+lɛɛ,is that so?   A  A dɔɔ ŋmaa na gaa la dansareka kyɛ yi. B  Lɛɛ? A  That short man is an exconvict. B  Is that so?
+lɛɛ, 1  for a while  wait    o are la be lɛɛ wa te bale. S he waited until s he became tired.  2  continuous and for quite sometime   Ba yeli ka a sori e la ŋmaa kyɛ ka te kyɛŋe o lɛɛ ka ŋmenaa te kpɛ. We were told the journey was not long but walked and walked until dusk. Var. lɛɛŋ
 lɛgerɛŋ,long
 lɛmɛlɛmɛ,slightly sweet
 lɛmpɛrɛŋ,short and even at the top
-lɛnɛɛ,   what  
-N ba baŋe lɛnɛɛ N naŋ na e pampana., I don’t know what to do next. 
-lɛnɛɛ,   how   
-Fo baŋe la lɛnɛɛ ba naŋ maŋ sɛ kparoo?, Do you know how a shirt is sewn?
+lɛnɛɛ, 1  what   N ba baŋe lɛnɛɛ N naŋ na e pampana. I don’t know what to do next.  2  how   Fo baŋe la lɛnɛɛ ba naŋ maŋ sɛ kparoo? Do you know how a shirt is sewn?
 lɛnlɛŋko,expression to soothe a child  usual tune in a cradle song
-lɛnne,   to lick
+lɛnne, 1  to lick
 lɛntɛre,thinking too much of oneself
 lɛŋŋɛlɛŋŋɛ,sickle
 lɛre,bead
@@ -3645,8 +3452,8 @@ libidi,the act of spending money
 libima,capital
 libipelaa,cowry
 libiri,money
-libizɔŋe,   gold dust 
-libizɔŋe, plentiful money
+Word,Definition
+libizɔŋe, 1  gold dust  2  plentiful money
 libu,a funeral rite for an adult woman
 liemu,orange  fruit 
 lige,dark
@@ -3660,8 +3467,7 @@ ligiligi,silent
 ligiruŋ,darkness
 liiri,to patch
 liiri,to get out of sight
-limbo,   a transit place to heaven 
-limbo,  a state of confusion
+limbo, 1  a transit place to heaven  2  a state of confusion
 limelime,between light and darkness
 limm,dark
 limpiriŋ,oval shape and dark
@@ -3672,12 +3478,12 @@ liŋe,lid
 liŋgbiraa,a type of tree with medicinal properties and edible fruits
 liroo,small and protruding
 Lobaa,a person from the Lobi ethnic group
+Word,Definition
 loge,to penetrate soft ground
 logere,to cause to move up and down e.g. muscle under the skin
 logerɔŋ,round and fat
 logɛɛ,powdery
-logi,   poison  
-logi,  venom e.g. of snake
+logi, 1  poison  2  venom e.g. of snake
 logi,quiver  sheath for arrows
 logi,rest stop
 logi,farm for crops that produce nuts
@@ -3696,7 +3502,8 @@ lomm,balloon-like
 lomolomo,jellylike  soft
 lomɔlomɔ,soft e.g. flesh
 lonlommu,a type of fish that is not edible
-lonni,to hurry  
+lonni,to hurry  Southern Dagaare dialect 
+Word,Definition
 loŋgoroŋ,cloudy
 loŋkoroo,hidden corner
 loŋŋo,a type of X-shaped small drum
@@ -3707,16 +3514,14 @@ loɔre,to joke
 loɔre,to bend into a half-circle
 loregboro,crumbled
 lori,pidgeon
-lori,   to untie 
-lori,   to put on weight
+lori, 1  to untie  2  to put on weight
 lori noɔre,to break a fast
 lori pɛnne,to tell lies
 lori,meteorite
 lori,very full  from eating 
 loroto,jellylike e.g. blister on the palm
 loroto,on continuous terrain  smooth-moving vehicle 
-lɔbɔ,   riddle 
-lɔbɔ, A charm believed to be needle-like and has supernatural power that can inflict sickness on someone
+lɔbɔ, 1  riddle  2  A charm believed to be needle-like and has supernatural power that can inflict sickness on someone
 lɔɛ duoraa,parking lot
 lɔge,law
 lɔge,a type of wild mouse
@@ -3725,6 +3530,7 @@ lɔgɔ,a type of small bag in which personal documents are kept and usually carr
 lɔgɔ,state of helplessness
 lɔlɔraa,calf  part of leg 
 lɔlɔrezeɛ,tree
+Word,Definition
 lɔmɛɛ,fat and soft
 lɔnne,to move from one point to another e.g. on a tree
 lɔnnɔ,squirrel
@@ -3732,12 +3538,7 @@ lɔŋe,to spread
 lɔŋe,to sag
 lɔŋɔ,frog
 lɔɔ,mouse
-lɔɔ,   to drop. to fall  from one’s hands  
-lɔɔ,   to throw down  wrestling  
-lɔɔ,   to subdue. to overpower  argument  
-lɔɔ,   to be greater than. to be more than 
-lɔɔ,   to put drops into  eyes   
-lɔɔ,   to dash a buyer for an item bought  tomatoes 
+lɔɔ, 1  to drop. to fall  from one’s hands   2  to throw down  wrestling   3  to subdue. to overpower  argument   4  to be greater than. to be more than 5  to put drops into  eyes   6  to dash a buyer for an item bought  tomatoes 
 lɔɔ baare,to throw away
 lɔɔbiri,a charm believed to be mobile and have destructive powers
 lɔɔlage,to surround
@@ -3754,8 +3555,9 @@ lugi,to induce
 lugi,to swell a little e.g. armpit
 lugiri,a forked beam that supports the main beam in a swish-thatched roof
 lugiri,to loosen  a nut on a bolt 
+Word,Definition
 luŋguri,lemon
-luori,   to become bowed e.g. legs
+luori, 1  to become bowed e.g. legs
 luou,West
 luri,to place underneath to hide e.g. armpit
 luri,to be filled with e.g. smoke
@@ -3765,44 +3567,36 @@ luroluro,in a circular shape  usually within a big enclosure
 lurri,to smooth out a mound by covering all protruding matter with soil
 luuraa,denial
 luuri,to duck
-luuri,   to renounce one’s word or promise 
-luuri,   to return something in exchange for something else
+luuri, 1  to renounce one’s word or promise 2  to return something in exchange for something else
 ma,mother
 ma,to stick to
 ma,suppose
 ma,me  first person singular accusative 
-maa,   I  first person singular strong form 
-maa,   me  first person singular strong form 
-maa,   to be wet  
-maa,   to be cold  objects  
-maa,   to make peaceful
-maa,   move streamingly  used only with liquid substances   
-maa,  slimy
+maa, 1  I  first person singular strong form  2  me  first person singular strong form 
+maa, 1  to be wet  2  to be cold  objects  3  to make peaceful
+maa, 1  move streamingly  used only with liquid substances   2  slimy
 maa gbɛre,to delay
 maalam,Islamic cleric
-maale,   to make 
-maale, to cook
-maale,   to bless 
-maale, to pacify
+maale, 1  to make 2  to cook
+maale, 1  to bless 2  to pacify
+Word,Definition
 maale,to cause to calm down
 maalekondi,a type of ritual food that is eaten only by specific people i.e. those who are members of the ritual
-maaleŋ,just too much 
-maaleŋ,again   
-maane,   flattened  
-A kuree feele o la ka o pare deɛ waa maane lɛ ,The undersized pair of knickers has made his buttocks flat.
-maane, premature  egg 
+maaleŋ,just too much   Saa la maaleŋ miire tu.
+maaleŋ,again   Saa la maaleŋ miire tu.
+maane, 1  flattened   A kuree feele o la ka o pare deɛ waa maane lɛ The undersized pair of knickers has made his buttocks flat.  2  premature  egg 
 maanee,okra
 maa noɔre,to be surprised
 maaŋmeɛ,a kind of tall
 maare,to hold
-maaroŋ,slow  
-maaroŋ,   cold
-maaroŋ, wet  
-maaroŋ,   cold
-maaroŋ,  peace
+maaroŋ,slow   O taa la maaroŋ zuo lɛnso ka ba wa pɔge kpaaroŋ.
+maaroŋ, 1  cold
+maaroŋ, 2  wet   Ka saaŋ mi a zie zaa maŋ e la maaroŋ lɛ.
+maaroŋ, 1  cold
+maaroŋ, 1  peace   Ka zieŋ na maale ferebo ka maaroŋ be be.
 maasa,a type of cake made from millet flour
 maa suuri,to appease
-maayee,empty
+maayee,empty   Nannyigiri da ŋmaa la a woɔ pare iri a libie
 mabie,sibling
 mabiekontapɔgema,a type of small
 mabile,maternal aunt
@@ -3830,6 +3624,7 @@ malefa,gun
 malefabiri,bullet
 malefala,tasteless
 malefatẽe,gunpowder
+Word,Definition
 malemale,very black
 malemale,to struggle to do
 mana,rubber
@@ -3838,14 +3633,12 @@ manamana,sticky
 mane,large body of water
 mankyere,match
 mankyɛlɛ,diarrhoea
-manne,   to measure
+manne, 1  to measure
 manne,to narrate
 mannoɔre,beach
 mansugiri,a type of wild mushroom with medicinal properties
-mansugo,   a type of stomach ailment  hernia 
-mansugo, type of medicine for hernia
-mantare,   Southern Dagaare dialect 
-mantare,  the area where the Southern Dagaare dialect is spoken
+mansugo, 1  a type of stomach ailment  hernia  2  type of medicine for hernia
+mantare, 1  Southern Dagaare dialect  2  the area where the Southern Dagaare dialect is spoken
 mantaroo,speaker of Southern Dagaare dialect
 manteɛ,rubber tree
 manzelɛ,tip of  branch of tree 
@@ -3861,115 +3654,102 @@ maraa,glue
 maraa,cloth used to carry a baby on the back
 maraa,not responding to anything
 maraawa,a type of tree animal
-maramara,marshy 
+maramara,marshy   Saa mie la kõɔ laare a tɛne ka a waa maramara lɛ.
 marata,refusing to respond to anything
 mare,to stick to
-mare,to carry on one’s back e.g. a baby
+mare,to carry on one’s back e.g. a baby   A pɔge mare la a bie ka na gbiri.
 mare,to light
 mare,to detatch  a limb from the body 
-marekpɛ,to tease
+marekpɛ,to tease   Koŋkombie mine maŋ marekpɛ la a kotuo deme.
 meele,to wipe off  dirt
-meele,to try to incriminate someone  to challenge 
-meele eŋ,to turn something to replace something else   
-meelɛ,a type of grass that is thin but strong  
-meelɛ,decorative ribbons worn across the chest 
-meelɛ, string scale  a locally made scale made from a string and a flat piece of wood or container
+meele,to try to incriminate someone  to challenge   O sɔgele gaa toŋ la a toma o yoŋ
+meele eŋ,to turn something to replace something else   Waabo doŋ la a nɔnyaŋaa ko ka ba nyɔge nɔdaa meele eŋ a nɔbilii.
+meelɛ,a type of grass that is thin but strong  2  decorative ribbons worn across the chest  3  string scale  a locally made scale made from a string and a flat piece of wood or container
 meeloo,thin
 meemee,to swing
 meɛ,to incriminate
-meɛbo,structure 
-meɛbo,character
+meɛbo,structure   A pɔge meɛbo wuli ka o taa la seɛ yelmeŋɛ.
+meɛbo,character  a distinguishing feature   A pɔlebile na meɛbo ba veɛlɛ.
 meɛloŋ,dew  drops of water on vegetation
 meɛroŋ,structure
 megemege,to wriggle e.g. fish in muddy water
 melaa,fence
 melaa,talebearer
-mele,to fence in
+mele,to fence in   Ba maŋ mele la dabɔgɔ ka donne na ta sãã o poɔ bombulo.
 melekala,large and twisted
 melekala,small and twisted
 melele,thin
 melemele,to move with unsteady legs
-meletaa,the practice of talebearing 
-melle,to twist
-meloo,eating instantly and hurriedly
+meletaa,the practice of talebearing   Ka noba laŋkpeɛboŋ na noma a seŋ ka ba bare meletaa.
+melle,to twist   Soɔ da kyebe kyɛ a dɔɔ da de la o nu melle ne a miri ŋmaa.
+meloo,eating instantly and hurriedly  especially with tasty food   O nɔnoɔ zuoe la
 menekana,crooked
 menɛ,a type of thin grass
-menne,to throw off something heavy e.g. wrestling   
-menne,to swallow food in large gulps  
-mennoŋ,righteousness  
-menselɛ,well done  praise 
+menne,to throw off something heavy e.g. wrestling   A dɔɔkpeɛŋaa na are la dendeŋ kyɛ menne a o tɔ na bare ka o te le.
+menne,to swallow food in large gulps   Kɔŋ da kpɛ o la te zuo ka o maŋ deɛ ŋmaa a saabo menne bare.
+mennoŋ,righteousness   O mennoŋ zuiŋ noba zaa nɔŋ la o yɛlɛ.
+menselɛ,well done  praise    Gandaa menselɛ ka fooŋ da ba peɛle a bie kpie.
 meŋ,also
-meŋɛ,self  
-meŋɛ,well behaved 
-mere,to shake in pain or distress e.g. hand in contact with fire 
-mere,to broadcast e.g. rice seed during sowing  
-mere,to have a stillbirth  nonhumans   
-mere,to stick the flap of an object into an opening  
-mere barɛ,   to have a stillbirth  of animals 
-mere barɛ,  to desert unweaned young  of animals
-mere pare,   to lie helpless 
-mere pare, to die
+meŋɛ,self   Maa meŋɛ la na gaa a kuori.
+meŋɛ,well behaved   O teɛre ka o waa la meŋɛ zaa kyɛ maa ba teɛre.
+mere,to shake in pain or distress e.g. hand in contact with fire   Vũu nyege o la ka o mere nu.
+mere,to broadcast e.g. rice seed during sowing   Ba kyɔre la baa mere a mui.
+mere,to have a stillbirth  nonhumans    A naapoɔ na da bɛɛ la lɛnso ka o mere bare.
+mere,to stick the flap of an object into an opening   Pɔgeba maŋ mere la ba wagyɛ eŋ kyɛ zeŋ.
+mere barɛ, 1  to have a stillbirth  of animals   2  to desert unweaned young  of animals    A peroo dɔgɛɛ la kyɛ mere bare ka a bilii kpi.
+mere pare, 1  to lie helpless  2  to die
 merete,unresponsive
-meri,to twist one’s lips  to show indifference   to refuse to care
-meri noɔre,   to twist one’s lips  to show indifference   
-meri noɔre, to die
+meri,to twist one’s lips  to show indifference   to refuse to care   A bie lee la ka leɛ kaa kyɛ meri o noɔre.
+meri noɔre, 1  to twist one’s lips  to show indifference   2  to die
 meruu,very small
-mɛ,to build e.g. a house 
-mɛ, to shape  pottery 
-mɛɛ,oozing  oily liquid 
+mɛ,to build e.g. a house  2  to shape  pottery 
+mɛɛ,oozing  oily liquid    Ba kyere la a gbɛre ka kõõ zoro mɛɛ.
 mɛfaa,bad character
-mɛgelɛŋ,flat 
+Word,Definition
+mɛgelɛŋ,flat   Lɔɔre do la a bogiti ka o e ŋmɛgelɛŋ lɛ.
 mɛgeyɛgɛ,loose and flabby  of a fat body 
 mɛle,medal
-mɛlefɛlɛ,tasteless  
-mɛlemɛle,blowing severely with cold   
+mɛlefɛlɛ,tasteless   N nɔŋ la zɛvaare zeɛre kyɛ ama deɛ waa la mɛlefɛlɛ lɛ.
+mɛlemɛle,blowing severely with cold   Saseɛ saŋa baguo ɔɔre maŋ erɛ la mɛlemɛle lɛ
 mɛlɛmɛlɛ,tasty  slightly sweet
 mɛlɛmmɛlɛŋ,sweet or beautiful  kind words
-mɛmeɛrɛ,   potter 
-mɛmɛrɛɛ, builder
-mɛmɛrɛɛ,   mud 
-mɛmɛrɛɛ, marsh
-mɛre,to cook  struggling with 
+mɛmeɛrɛ, 1  potter  2  builder
+mɛmɛrɛɛ, 1  mud  2  marsh
+mɛre,to cook  struggling with    A baala mɛre la seemaa fẽẽ meŋ di.
 mɛrɛɛ,pus
 mi,to rain
 mi,to spin  thread    A zɔŋɔ mi la miri ka o gbɛkpoŋ te zogere.
-mii,   to shake
-mii,   to be sour  taste    O zãã tuŋ la nu a zeɛre poɔ lɛnso ka a mii.  
-mii,  to be sore  
+mii, 1  to shake
+mii, 1  to be sour  taste    O zãã tuŋ la nu a zeɛre poɔ lɛnso ka a mii.  2  to be sore   A bie zãã tɔ o nubiri
 miii,swarming all over e.g. ants
 miire,to desist
-miiruŋ,   sour sap 
-miiruŋ, type of plant with sour sap
+miiruŋ, 1  sour sap  2  type of plant with sour sap
 miiruŋ,sour
 mikalaa,"thick, strong rope"
 milemmilem,intact
 miliki,milk
 milikolo,twisted
-milli,   to get acquainted with  to be used to 
-milli,  be all over
+milli, 1  to get acquainted with  to be used to   Bie naŋ ba milli neɛ koŋ sage ka a soba de o.  2  be all over
 miloo,oily and dirty looking
-miloo,existing in great numbers at a particular spot e.g. ants
-mine,   some
-minimini,streaming continuously e.g. tears 
+miloo,existing in great numbers at a particular spot e.g. ants   A nyere deɛ da te paalɛɛ a korodie zaa
+mine, 1  some
+minimini,streaming continuously e.g. tears   A bie poɔ beɛrɛ la ka o kono minimini lɛ.
 mipelaa,a type of rope used in rituals
 miri,rope
 misiri,mosque
 miti,meeting
 mizeɛ,type of very strong red twine used in making bird trap
 mạạli,get burnt e.g. part of the body
-mmeŋɛ,myself 
-moge,   to suck e.g. sweets 
-moge, to eat powdery food  
-moge,to eat up e.g. wood
+mmeŋɛ,myself   Ka maaŋ beɛrɛ kyɛ ba gaa asibiti mmeŋɛ la ka N erɛ.
+moge, 1  to suck e.g. sweets  2  to eat powdery food  3  to eat up e.g. wood
 mogere,to suck at
 mogi,to eat delicious food voraciously
 moimoi,very red
 mokanzie,pawpaw
-mole,   become weak  used for metal that has become weak e.g. iron 
-mole,  get wet
+mole, 1  become weak  used for metal that has become weak e.g. iron  2  get wet
 mollaa,a type of game in which a loop of string is hidden in soil to be found by other players using twigs
-molle,   to deceive
-molɔmolɔ,not stiff  flexible 
+molle, 1  to deceive
+molɔmolɔ,not stiff  flexible   A tammo waa la molɔmolɔ lɛ.
 momm,wholly and completely
 momone,dried salted fish
 monaŋe,hippopotamus
@@ -3977,58 +3757,48 @@ mone,serious condition of piles
 mone,to become serious
 monɛɛ,red
 monɛɛmonɛɛ,red looking  bloodshot  eyes 
-monne,   to lift and carry a heavy load without assisstance 
-monne,   to dip to fill 
-monne,   to gather up  smile to laugh 
+monne, 1  to lift and carry a heavy load without assisstance  2  to dip to fill  3  to gather up  smile to laugh 
 montole,a type of small round beans
-moŋgolɔ,a type of fall in which the person rolls over
+moŋgolɔ,a type of fall in which the person rolls over   A dãa bugro lee la willi moŋgolɔ.
 moŋgbɛnɛɛ,infected millet seeds
-moole,   to be stunted
-moore,   to empathise  to sympathise with 
-moore,to express regret for not being able to provide something
-moore,   to dissolve
+moole, 1  to be stunted
+moore, 1  to empathise  to sympathise with  2  to express regret for not being able to provide something
+moore, 1  to dissolve
 moore,to suck e.g. finger
 moore,to announce
 moore,to vanish
 moore,to sympathise with
-moore,to smear with thick liquid e.g. mud 
-moore, to camouflage
+moore,to smear with thick liquid e.g. mud  2  to camouflage
 moɔreŋ,to express regret for not being able to provide something
 moɔreŋ,like
 moɔrɔ,illness of sexual misconduct  adultery
 more,to disappear
 more,to pop out e.g. seeds from a fruit in the mouth
-more,   to smile 
-more,  to initiate  typically used with laare 
+more, 1  to smile  2  to initiate  typically used with laare 
 moremore,to vanish at once
 moromoro,soft
 moroo,local herbal medicine in tablet form used in massaging only
 morɔ,herb tablet for external use
-morɔmorɔ,   showing slightly  smile   
-morɔmorɔ,  get lost mysteriously
-mɔ,   to wrestle 
-mɔ,  to try hard
+morɔmorɔ, 1  showing slightly  smile   2  get lost mysteriously
+mɔ, 1  to wrestle  2  to try hard
 mɔ-aŋgaara,halfburnt grass
 mɔdoŋɔ,wild animal
 mɔgaabo,game hunting expedition from a pitched tent over a length of time
 mɔge,to get dirty
-mɔgele,   to beseech
+mɔgele, 1  to beseech
 mɔgeraa,a type of giant white ant
-mɔkangyi,   a type of tree with medicial properties and edible fruits 
-mɔkangyi, pawpaw
-mɔkpeɛrɛ,   bush dweller 
-mɔkpeɛrɛ,    one who lives in a faraway country
+mɔkangyi, 1  a type of tree with medicial properties and edible fruits  2  pawpaw
+mɔkpeɛrɛ, 1  bush dweller  2  one who lives in a faraway country
 mɔll,long and smooth
 mɔloo,a type of large antelope
-mɔlɔ,   cheap  
-mɔlɔ, easy
+mɔlɔ, 1  cheap  2  easy
 mɔlɔmɔlɔ,seemingly easy
 mɔmaara,fresh grass
 mɔnaabo,bush cow
 mɔneɛ,bushman
 mɔnyuu,a type of grass with a strong smell and has medicinal use
-mɔŋe,   to stir  food  
-mɔŋe,   to steer
+Word,Definition
+mɔŋe, 1  to stir  food   2  to steer
 mɔŋe,to refuse to give
 mɔpelaa,a stretch of bush made mainly of dry tall grass
 mɔre,a type of strong grass used for arrow shafts
@@ -4043,35 +3813,30 @@ mɔwegi,wild bush
 mui,rice
 muli,to remove hair or feathers from skin  usually by applying hot water 
 mulli,to dive
-muni,   meaning 
-muni,  reason
-muni,   bottom 
-muni,  under
+muni, 1  meaning  2  reason
+muni, 1  bottom  2  under
 munii,tiny
 munkyara,a type of smock with an opening at the back
 muŋkuri,skirt
 mupelaa,a type of straw from tall grass used in lighting fires
 mupɛge,grass husk
-muri,   straw from a type of tall grass used in making mats  
-muri, a bundle of such straw
+muri, 1  straw from a type of tall grass used in making mats  2  a bundle of such straw
 muri,snake
-muri,   to dodge
+Word,Definition
+muri, 1  to dodge
 muro,the posture of lying facedown
 muu,deaf and mute person
 muu,deaf and mute
 muuli,to peep into or through
 muuli,to make a short visit  typically used with nyɛ 
-muuu,   the characteristic sound made by a cow  onomatopoeia  
-muuu, cow
-N,I  st person singular weak form nominative 
+muuu, 1  the characteristic sound made by a cow  onomatopoeia   2  cow
+N,I  1st person singular weak form nominative   1  my  1st person singular possessive 
 na,that  3rd person demonstrative 
 na,will
 Naa,name traditionally given to a second male twin
-naa,   will shall  emphatic na  
-naa,   should have 
-naa,  would have
+naa, 1  will shall  emphatic na   2  should have  3  would have
 naa,not
-naabaa,a type of small black bird regarded a totem of a clan
+naabaa,a type of small black bird regarded a totem of a clan  Zagɛɛ 
 naabaaraa gane,bona fide property  status not changeable  that which naturally belongs to a specific set
 naabere,udder
 naabileŋmene,God
@@ -4082,33 +3847,51 @@ naabo,cow
 naada,the act of buying cattle
 naadaara,one who buys cattle
 naadaaraa,a cow that has been bought
+naadalane,n.
 naadalee,young bull
 naadaŋaa,corral for cattle
 naadavaraa,castrated bull
+naadɛre,n.
 naadɔgrɔ,a cow that has recently given birth
 naaduoraa,resting ground for cattle
 naafaa,that which is advantageous
 naaga,a type of guinea corn
 naagaaraa,feral cow
+naagale,n.
+naagane,n.
 naagaŋa,corral for cattle
 naakoɔraa,working bullock
 naakoɔrɔ,cattle seller
 naakyeemɛgbeŋkeroo,a type of wild small tree with edible fruit
+naakyeenɛ,n.
 naalee,calf
 naamaaroŋ,large umbrella
+naamanyeɛnɛ,adj.
+naameɛ,n.
 naameɛo,turtle
 naamoɔ,a type of grass
 naamu,head cloth
+naane,v.
+naane,adv.
+naanɛne,n.
 naanyaŋaa,cow that has had a calf
+Naaŋmene,n.
+naapɔge,n.
+naapɔge,n.
+naapɔle,n.
 naara,a variety of sorghum
+naare,adj.
+naare,v.
 naasaa,dragonfly
 naasaalaa,white person
 naasaal-kuuri,plough
 naasaalsensɛroo,biscuits
 naasaalsori,road
 naasaal-taŋaa,mango
+naasaal-teŋɛ,n.
 naasaraa,adult female cow that has not littered yet
 naasarelee,adult female cow that has not littered yet
+naaseere,n.
 naaweɛmɛ,strayed cow
 naaweɛzoore,a type of grass
 naayiri,palace
@@ -4155,14 +3938,12 @@ nannyige,thief
 nansoba,poor person
 nantɛŋ,very large gun
 nanyuuri,potato  sweet potato
-naŋ,since 
+naŋ,since   O naŋ gaa a kɔɔrɛɛ la.
 naŋa,scorpion
-naŋe,poverty 
-naŋe, scarcity  
+naŋe,poverty  scarcity   O toma lee la ka naŋ kpɛ o.
 naŋene,hippopotamus
 naŋgbagele,bony meat  bone left over after the flesh has been removed
-naŋgbeɛnɛ,bits of meat cut from from different parts of the animal 
-naŋgbeɛnɛ,  profit
+naŋgbeɛnɛ,bits of meat cut from from different parts of the animal  2  profit   Boŋ naŋgbeɛrɛ ka fo nyɛ a toma ŋa poɔ?
 naŋkoɔredie,store
 naŋkoɔrɔ,trader
 naŋkoɔse,butcher
@@ -4178,19 +3959,12 @@ natɛbaa,large boil or abscess
 nato,a pair of metal high sounding instruments
 nawale,ulcer
 nayagere,ulcer
-ne,and  
- Kõɔ ne vũu koŋ tõɔ laŋ kpɛ., Water and fire cannot coexist.
-neere,to dodge by squeezing through   
-A nannyige neere tu la a lɔɔre takoroo zo., The thief squeezed himself through the car window and escaped.
-neɛ,  to trample, 
-neɛ,to stamp on  
-neɛ, to cheat"
-neɛ,   to step on  
- N ba baŋ kyɛ neɛ o gbɛre kyɛ ka o suuri iri., I stepped on her foot unintentionally
+ne,and   Kõɔ ne vũu koŋ tõɔ laŋ kpɛ. Water and fire cannot coexist.
+neere,to dodge by squeezing through   A nannyige neere tu la a lɔɔre takoroo zo. The thief squeezed himself through the car window and escaped.
+neɛ," 1  to trample, to stamp on  2  to cheat"
+neɛ, 1  to step on   N ba baŋ kyɛ neɛ o gbɛre kyɛ ka o suuri iri. I stepped on her foot unintentionally
 neɛ,person
-neɛne,   to push through or under 
-Kɛkɛpele neɛne la a bie nubi-ẽɛ., A piece of stalk has lodged itself under the child’s fingernail.  
-neɛne, to refer to indirectly
+neɛne, 1  to push through or under   Kɛkɛpele neɛne la a bie nubi-ẽɛ. A piece of stalk has lodged itself under the child’s fingernail.  2  to refer to indirectly
 neɛre,grindstone
 neɛre,to hide under cover
 neɛrekuuri,small stone used in grinding on the main grindstone
@@ -4230,6 +4004,7 @@ nembeene,someone with supernatural powers
 nenfaa,bad person
 nenfole,albino
 nenlaane,worthless person
+Word,Definition
 nenseɛ,ghost
 nenseɛbaa,a fairly grown person in age  a fairly big person  size 
 nenselɛ,great
@@ -4275,8 +4050,7 @@ nɛmbɛlɛŋ,long and crooked
 nɛmbiri,boneless meat
 nɛmmaaroŋ,fresh meat
 nɛmpoɔnaa,rotten meat
-nɛne,meat  
-nɛne,flesh
+nɛne,meat  flesh
 nɛnefɛne,to try to get attention
 nɛnɛ,precisely
 nɛnzeɛ,lean meat
@@ -4296,16 +4070,14 @@ nimibiri,pupil  of eye
 nimibuli,eye with a cataract
 nimifaa,evil eye
 nimifaa,wrong side  of fabric 
-nimifuri,to be wide eyed 
-nimifuri, to show wit
+nimifuri,to be wide eyed  2  to show wit
 nimigane,eyelid
 nimigbaŋkɔɔloŋ,eyebrow
 nimigbɛlɛɛ,the state of being considerate
 nimigboŋkogiri,brow
 nimikaare,eyeball
 nimiko,act of doing wicked things
-nimikõɔ,watery eyes 
-nimikõɔ, tears
+nimikõɔ,watery eyes  2  tears
 nimikɔɔloŋ,eyelash
 nimikuoŋaa,wickedness
 nimikyaane,eye-glasses
@@ -4318,12 +4090,9 @@ nimipẽɛ̃,the act of showing oneself to be wiser than others
 nimipoŋi,puss-like fluid on the surface of the eyeball
 nimipɔge,the act of blindfolding or confusing others
 nimipuuri,puss-like fluid on the surface of the eyeball
-nimiri,eye  
-nimiri, stinginess 
-nimiri, avarice
+nimiri,eye  2  stinginess  avarice
 nimiri,success
-nimiri-soba,miser  
-nimiri-soba, one who covets
+nimiri-soba,miser  2  one who covets
 nimisogɔ,face
 nimisogɔ,in front of
 nimisoɔ,dizziness
@@ -4345,8 +4114,7 @@ noɔ,fowl
 noɔ,to grow fat or large
 noɔ,sweet
 noɔ-noɔre,the habit of always eating
-noɔre,mouth  
-noɔre,  beak
+noɔre,mouth  2  beak
 noɔre,edge
 noɔre,exact quantity
 noɔre,statement
@@ -4386,6 +4154,7 @@ nɔmaa,surprise
 nɔmelime,sweets
 nɔmelime,craving for sweet things
 nɔmm,at rest  without movement
+Word,Definition
 nɔmmo,love  strong affection or likeness for
 nɔmoɔnaa,lips decorated with red lipstick
 nɔmuri,a small
@@ -4495,12 +4264,9 @@ nyabiri,rib  a disease that causes a cramp in the chest
 nyage,to become very angry
 nyagele,to be entangled in spiky material  thorns 
 nyagele,to draw arms in a bid to fight  typically used with kpaŋkpama 
-nyagere,   bowel 
-nyagere, tree root
-nyagere,   bite suddenly and sharply  dog bite  
-nyagere,    get stimulated
-nyageroŋ,   quickly 
-nyageroŋ, intelligently
+nyagere, 1  bowel  2  tree root
+nyagere, 1  bite suddenly and sharply  dog bite   2  get stimulated
+nyageroŋ, 1  quickly  2  intelligently
 nyagesaga,jumbled
 nyakpuli,sternum
 nyale,suddenly
@@ -4522,15 +4288,14 @@ nyarewara,grainy
 nyaroo,small and lean
 nyawele,one that is the greatest
 nyeɛ,snot
-nyeɛne,   bulb
+nyeɛne, 1  bulb
 nyeɛre,to test
 nyeɛre,to pay for the cost of herbs after treatment
 nyegenyege,restlessness
 nyegenyege,restless
 nyegere,to be scarce
 nyegere,to massage with a hot
-nyegere,   to flash e.g. lightening  
-nyegere,  give way momentarily  limb as a result of sharp twist 
+nyegere, 1  to flash e.g. lightening  2  give way momentarily  limb as a result of sharp twist 
 nyegɛnyegɛ,very sharp and shiny e.g. blade
 nyelaa,not hidden
 nyelele,slightly
@@ -4540,12 +4305,13 @@ nyembini,matter  dirt  in between the teeth
 nyembulo,adult
 nyempara,unchiselled teeth
 nyempɛge dalee,tooth stick
-nyene,   tooth
+nyene, 1  tooth
 nyeŋgoŋe,the state of grimacing  typically used with vere 
 nyeŋkaane,molar
 nyeraa,ant
 nyeraa,not hidden  clearly visible
 nyere,to bare one’s teeth  to laugh  scornfully 
+Word,Definition
 nyerebaa,a type of ant with a painful sting
 nyeregaŋguu,a type of ant
 nyeregbere,mixed
@@ -4554,14 +4320,10 @@ nyerenyaga,uncovered
 nyeresaare,a type of small slim dark brown ant  usually in a swarm and on trees
 nyeresalensaare,a type of tiny ant that lives together in large numbers
 nyeresɔgelaa,a type of small black ant
-nyɛ,   to see 
-nyɛ,  to find  
-nyɛ,   to get
-nyɛ,   to defecate  
-nyɛ,  pass substance through the anus  lay eggs 
+nyɛ, 1  to see  2  to find  3  to get
+nyɛ, 1  to defecate  2  pass substance through the anus  lay eggs 
 nyɛ,to produce tubers or nuts e.g. yam
-nyɛ,   to drain a pond of its water  usually to enable people catch the fish in the pond  
-nyɛ,  to drill or scoop matter out to make a hole
+nyɛ, 1  to drain a pond of its water  usually to enable people catch the fish in the pond  2  to drill or scoop matter out to make a hole
 nyɛdanaao,a type of tiny brown bird that moves in large groups that lay eggs together
 nyɛgɛkɛ,warmish
 nyɛle,to melt
@@ -4598,10 +4360,8 @@ nyogere,pride
 nyoll,heavy
 nyoll,small and light
 nyonne,to dry up
-nyonne,   to sniff 
-nyonne,    to search  to delve into  
-nyonne,   to test  to examine
-nyonono,   sympathy
+nyonne, 1  to sniff  2  to search  to delve into  3  to test  to examine
+nyonono, 1  sympathy
 nyonsomm,biggish
 nyonyonne,nausea
 nyonyonne,dirt
@@ -4609,8 +4369,7 @@ nyoŋgoloŋ,mixed up e.g. heap of things
 nyoŋgoloŋ,thick and stiff e.g. paste
 nyoore,smoke
 nyoore,pride
-nyoore,   to make hard 
-nyoore,to dry up
+nyoore, 1  to make hard  2  to dry up
 nyoore,to test the capability of e.g. a tool or a person
 nyoɔ,to fire
 nyoɔle,to begin rising
@@ -4623,12 +4382,10 @@ nyore,to shrivel
 nyore,to take courage
 nyoremaŋ,bushy
 nyɔbaare,disease of the nose
-nyɔbogiri,   nostril 
-nyɔbogiri, nose
+nyɔbogiri, 1  nostril  2  nose
 nyɔfeerɛ,cold  illness 
 nyɔfuli,dried snot
-nyɔge,   to hold 
-nyɔge,  to catch
+nyɔge, 1  to hold  2  to catch
 nyɔge,to farm
 nyɔge noɔre,to be surprised
 nyɔge,to infect
@@ -4640,19 +4397,15 @@ nyɔre,to despise
 nyɔtage,sniveling
 nyɔvore,life
 nyu,to smell  scent 
-nyu,   to drink  
-nyu,  to suck  of a mosquito 
+nyu, 1  to drink  2  to suck  of a mosquito 
 nyu,to smoke  pipe 
 nyubuli,yam sprout
 nyudɛre,large yam tuber
 nyumoɔ,field prepared to make yam mounds
-nyunni,   to smell  
-nyunni, to sniff e.g. dog
-nyuo,   navel 
-nyuo,  short form of wɛnyuo  leopard 
+nyunni, 1  to smell  2  to sniff e.g. dog
+nyuo, 1  navel  2  short form of wɛnyuo  leopard 
 nyusege,yam barn
-nyuu,   neck 
-nyuu,  smell
+nyuu, 1  neck  2  smell
 nyuu,a sensation
 nyuu,stinky
 nyuuli,to empower supernaturally
@@ -4661,21 +4414,16 @@ nyuuri,envy
 nyuuri,yam
 nyuzɛle,umbilical cord
 ŋma,to conquer
-ŋmaa,to cut 
-ŋmaa,   to cross  river   
- A mane paalɛɛ la ka ba maŋ de gbori ŋmaa ne., The river is flooded and they are using a boat to cross it.  
- ŋmaa, to go across to meet   
- Polisiri ŋmaa la a sori nyɔgere a nannyigiri., The police crossed the road and arrested the thieves.
+ŋmaa,to cut   Nɛne la ka a pɔge da ŋmaara ka a soɔ ŋmaa o nubiri.
+ŋmaa, 1  to cross  river    A mane paalɛɛ la ka ba maŋ de gbori ŋmaa ne. The river is flooded and they are using a boat to cross it.  2  to go across to meet   Polisiri ŋmaa la a sori nyɔgere a nannyigiri. The police crossed the road and arrested the thieves.
 ŋmaa,to prevent
-ŋmaa,short   
-O serɛ la a dɔɔ ŋmaa na., That short man is her husband.
+ŋmaa,short   O serɛ la a dɔɔ ŋmaa na. That short man is her husband.
 ŋmaa bare,to exclude  to put aside
 ŋmaabini,a type of plant
 ŋmaadaa,mature big male monkey
 ŋmaadasaa,a huge monkey
 ŋmaakalaa,small but smart type of monkey
-ŋmaakyeraa,   a type of tree with medicinal properties 
-ŋmaakyeraa,   a type of small monkey
+ŋmaakyeraa, 1  a type of tree with medicinal properties  2  a type of small monkey
 ŋmaaŋa,monkey
 ŋmaapare,name of a popular market in Teza
 ŋmaaraa,an evil spirit with powers of witchcraft
@@ -4684,8 +4432,8 @@ O serɛ la a dɔɔ ŋmaa na., That short man is her husband.
 ŋmaataŋaa,a type of tree whose fruits are eaten by birds and animals
 ŋmaateɛ,a type of tree
 ŋmaazeɛ,a type of monkey
-ŋmaa zirii,to lie   
-O ŋmaa la zirii ka o baare la a toma., He lied that he had finished the work.
+ŋmaa zirii,to lie   O ŋmaa la zirii ka o baare la a toma. He lied that he had finished the work.
+Word,Definition
 ŋmalaŋmeɛ,a type of bird with thin long legs and a long beak
 ŋmamberɛ,a type of small weed with white flowers and medicinal properties
 ŋmammo,a type of cake made from millet flour
@@ -4704,10 +4452,10 @@ O ŋmaa la zirii ka o baare la a toma., He lied that he had finished the work.
 ŋmaŋgbɛre,vine of the calabash plant
 ŋmaŋkuŋkummu,calabash seed in a ball form
 ŋmaraa,moon
-ŋmare,   to break e.g. pot 
-ŋmare,  to crush
+ŋmare, 1  to break e.g. pot  2  to crush
 ŋmare,to change money into smaller units
 ŋmarebiri,star
+Word,Definition
 ŋmaroo,change  money 
 ŋmee,to crush grains out of fresh heads of millet  usually after roasting 
 ŋmeene,to become thin or small
@@ -4731,37 +4479,31 @@ O ŋmaa la zirii ka o baare la a toma., He lied that he had finished the work.
 ŋmentantuo,hot or bright afternoon
 ŋmentɔmpɔle,late morning
 ŋmentɔŋ,sunshine  daylight
-ŋmentɔŋgɔŋ,early afternoon  between  and 
-ŋmentɔŋgɔŋ, pm 
+ŋmentɔŋgɔŋ,early afternoon  between 1 and 2 pm 
 ŋmentɔŋkpeɛraa,sunset
 ŋmen-yelyelli,to divine  to prophesy
 ŋmen-yɛlɛ,work for God
 ŋmenzone,blasphemy
 ŋmeregɛ,totally
-ŋmɛ,   to beat
+ŋmɛ, 1  to beat
 ŋmɛgelɛŋ,flat e.g. run-over container
 ŋmɛgeloo,flattened out e.g. tin run over by a car
 ŋmɛgere,to press
 ŋmɛleŋmɛle,to writhe in pain
 ŋmɛmɛɛ,flat and twisted e.g. nose
-ŋmɛnne,   to squeeze with the fingers e.g. breastfeeding 
-ŋmɛnne,to press to feel  swollen leg 
+ŋmɛnne, 1  to squeeze with the fingers e.g. breastfeeding  2  to press to feel  swollen leg 
 ŋmɛŋgɛlɛŋ,flattened out of shape
 ŋmobofo,big and ruffled
 ŋmolle,to stuff into the mouth  food 
 ŋmolɔŋŋmooraa,a type of insect that feeds on yam leaves
-ŋmonne,   to make spotted 
-ŋmonne,  to beautify
-ŋmonɔŋmonɔ,   spotted  
-ŋmonɔŋmonɔ, beautiful
+ŋmonne, 1  to make spotted  2  to beautify
+ŋmonɔŋmonɔ, 1  spotted  2  beautiful
 ŋmoo,to become scorched  green vegetation 
-ŋmoone,   to mutter
-ŋmore,to crush 
-ŋmore, to rush  to move suddenly and fast
-o,he
+ŋmoone, 1  to mutter
+ŋmore,to crush  2  to rush  to move suddenly and fast
+o,s he
 ogi,to bring out of the mouth
-ogi,   to segregate  to discriminate 
-ogi,  to dislocate  joint 
+ogi, 1  to segregate  to discriminate  2  to dislocate  joint 
 ogili,not properly fitted or seated  lid
 oii,expression of despair
 oli-oli,to be restless
@@ -4771,8 +4513,7 @@ oŋgoloŋ,circular
 oo,yes  acceptance 
 ooi,yes  response to call 
 õo,yes  agreement 
-oone,   to clear one’s throat 
-oone, to push  giving birth 
+oone, 1  to clear one’s throat  2  to push  giving birth 
 oonɛɛ,oonema
 oore,to dash up against
 oorɛɛ,ooreba
@@ -4781,14 +4522,12 @@ oɔle,to happen gradually e.g. stomach ache
 oɔlɛɛ,oɔlba
 oɔne,to grip firmly with claws
 oɔnɛɛ,oɔnema
-ore,   to wash very dirty things e.g. clothes 
-ore,  to make one suffer severely e.g. beat
+ore, 1  to wash very dirty things e.g. clothes  2  to make one suffer severely e.g. beat
 ore,filled to the brim
 oree,round and open looking e.g. a hole
 orɔba,rubber
 ɔge,ground den
-ɔgere,   to struggle 
-ɔgere,  to vomit  to retch
+ɔgere, 1  to struggle  2  to vomit  to retch
 ɔgrɛɛ,ɔgreba
 ɔgere,to get choked e.g. during eating when a child is unable to swallow a morsel of food and strains to bring the food out
 ɔlaa,large black fish
@@ -4798,7 +4537,7 @@ orɔba,rubber
 ɔnne,to smoke
 ɔnnɛɛ,ɔnema
 ɔnsɔɔre,A small brown mouse that usually lives along river valleys.
-ɔŋe,  to draw something liquid e.g. water
+ɔŋe, 1  to draw something liquid e.g. water
 ɔŋɛɛ,ɔnema
 ɔŋe,to smell  bad odour 
 ɔŋɛɛ,ɔnema
@@ -4807,10 +4546,8 @@ orɔba,rubber
 ɔŋɔ,wild mouse
 ɔŋ-ɔɔbo,valuable
 ɔŋ-sɔɔre,a type of wild mouse that lives along river banks and has a dark brown colour
-ɔɔ,   to chew 
-ɔɔ,  to ache  to throb with pain
-ɔɔ-doŋɔ,   intestinal worm 
-ɔɔ-doŋɔ,   roundworm
+ɔɔ, 1  to chew  2  to ache  to throb with pain
+ɔɔ-doŋɔ, 1  intestinal worm  2  roundworm
 ɔɔkpoŋi,winter
 ɔɔkyi,goose bumps i.e. small bumps on skin caused by cold
 ɔ-ɔlle,moss  usually green matter found in unkempt wet places e.g. bath house 
@@ -4824,9 +4561,7 @@ orɔba,rubber
 ɔre,to prepare bean leaf broth for soup
 ɔre,to throw hard against e.g. ball against a player
 ɔre,impotent
-ɔre,   to begin to rot  
-ɔre,   to stink 
-ɔre,  to be useless  person 
+ɔre, 1  to begin to rot  2  to stink  3  to be useless  person 
 ɔregbɔrɔ,messy looking
 ɔresɔglaa,a type of climbing plant with edible fruit
 ɔrɔsɔ,paying dearly for being obstinate
@@ -4837,10 +4572,9 @@ paa,expression of fear and surprise
 pãa,then
 pãa,what else
 paalaa,new
-paalaa,   raised dais
+paalaa, 1  raised dais
 paalaa,space in between four mounds
-paale,   to fill
-paale,  to add
+paale, 1  to fill  2  to add
 paalonwuluugane,map
 paaloŋ,area of jurisdiction  country
 paaloŋ,first
@@ -4864,8 +4598,7 @@ page,to hasten
 pagrɛɛ,to compete
 pakɔɔloŋ,female pubic hair
 pakyoŋ,a large black ant with a painful sting
-palampiiri,   butterfly  
-palampiiri,  moth
+palampiiri, 1  butterfly  2  moth
 palle,to plait
 pamm,straight onto the target
 pampana,now
@@ -4873,11 +4606,8 @@ pampuntɛgɛ,the act of being inward looking  concerned with only immediate rela
 panana,lit up e.g. car headlight in the dark
 panapana,colourful
 pane,doorway cover made of straw
-paŋe,   to beat down wet rough surface to make it even  local way to plaster  e.g. floor 
-paŋe,   fig. walk without any footwear on
-paŋe,   to beat mercilessily  
-paŋe,  to gather plenty of leaves 
-paŋe,  to sew
+paŋe, 1  to beat down wet rough surface to make it even  local way to plaster  e.g. floor  2  fig. walk without any footwear on
+paŋe, 1  to beat mercilessily  2  to gather plenty of leaves  3  to sew  Akan 
 papeɛmɛ,waist string with cowries
 papoɔ,space in between mounds
 papoɔ,inner vagina
@@ -4889,10 +4619,8 @@ pare,buttocks
 pare,meaning
 pare,to understand
 pare,raised tomb
-pare,   to place on top  
-pare,   to overtake
-pare,   more than  
-pare,   over
+pare, 1  to place on top  2  to overtake
+pare, 1  more than  2  over
 pare-araa,the act of having time
 parebaaraa,last one
 parebiri,anus
@@ -4926,31 +4654,27 @@ pẽe,unrelenting
 peelaa,infant
 peele,to tear into shreds e.g. rag
 pẽepẽe,very sharp  taste
-peere,   to sweep
+peere, 1  to sweep
 peeteree,everything about something
 peɛ,roof
 peɛ,basket
-peɛ,   to drink  taking in large gulps  
-peɛ,  to take a wife or house maid from her parents
+peɛ, 1  to drink  taking in large gulps   2  to take a wife or house maid from her parents
 pẽɛ,completely e.g. finished
 pẽɛ,pull apart in a bid to open e.g. pulling the eyelid s  apart
-pẽɛ,   to decorate well 
-pẽɛ,  to dress gorgeously
+pẽɛ, 1  to decorate well  2  to dress gorgeously
 pẽɛ,to court  Southern Dagaare dialect 
 peɛle,to be near  to be close to
 peɛle-peɛle,having white spots
-peɛloŋ,   whiteness 
-peɛloŋ,  food
-peɛmɛ,   decorations 
-peɛmɛ, beautiful clothing
-peɛmo,   courtship  
-peɛmo,  sexual intercourse
+peɛloŋ, 1  whiteness  2  food
+peɛmɛ, 1  decorations  2  beautiful clothing
+peɛmo, 1  courtship  2  sexual intercourse
 pẽɛo,a type of wild cat  dark spotted 
 peɛre,to investigate
 peɛre,to not be fussy about choices  typically used with negative marker ba 
 peɛre,to line up  to place side by side
 peɛre,to tap  to call attention 
 peɛrɛ,a type of small
+Word,Definition
 pa,to set up the beginning of something e.g. weaving
 pa,an expression of surprise
 pa,to be full
@@ -4958,10 +4682,9 @@ paa,expression of fear and surprise
 pãa,then
 pãa,what else   Libie kyebe N pãa la e wolɔ? There is no money
 paalaa,new
-paalaa,   raised dais
+paalaa, 1  raised dais
 paalaa,space in between four mounds
-paale,   to fill  
-paale,   to add
+paale, 1  to fill  2  to add
 paalonwuluugane,map
 paaloŋ,area of jurisdiction  country
 paaloŋ,first
@@ -4975,13 +4698,12 @@ paare,to scrape e.g. roasted yam
 paare,to weed e.g. grass
 paare,to pass  a test 
 paasepɔɔto,passport
-peraa,   deliberateness  
-peraa, obstinacy
+peraa, 1  deliberateness  2  obstinacy
 peraa,hyperbole  literature 
 peraa,castanet  a pair of metal rings worn on the fingers and clicked together rhythmically
 pere,push away  usually a small object with the foot
 pere,a loop used in making the rim of a basket
-pere,   remove from  shell  groundnuts 
+pere, 1  remove from  shell  groundnuts 
 pere,push away  small object 
 pere,sheep
 perebare,outer toe of a fowl
@@ -5014,8 +4736,7 @@ pɛkpoŋ,large basket
 pɛlaa,a type of tree with medicinal properties
 pɛle,to be white
 pɛle,to open up  be happy
-pɛle,to peel  yam  
-pɛle, to clear grass by weeding with a hoe
+pɛle,to peel  yam   2  to clear grass by weeding with a hoe
 pɛmpɛlɛŋ,flat metal  cover of a tin 
 pɛmpɛnɛɛ,wild gum  rubber
 pɛmpɛre,oblique position  bending very low 
@@ -5028,10 +4749,8 @@ pɛnne,cloth
 pɛnnoŋ,air
 pɛnnu,hand measure  about 9 inches  of woven strip of cloth
 pɛnzage,rag
-pɛŋe,to groan
-pɛŋe, to grunt  from effort 
-pɛŋe,to borrow 
-pɛŋe, to lend
+pɛŋe,to groan  2  to grunt  from effort 
+pɛŋe,to borrow  2  to lend
 pɛŋe,to tap on water to clear the top of unwanted material
 pɛŋkɔɔloŋ,pubic hair
 pɛpɛlaa,a type of small
@@ -5055,12 +4774,10 @@ pie ane ayoɔbo,sixteen
 pie ane ayɔpõi,seventeen
 pie ane yeni,eleven
 pie ne awae,nineteen
-pieri,   to cause the skin to peel e.g. as a result of scrapes on rough surfaces  
-pieri, to cause to be bare  bush 
+pieri, 1  to cause the skin to peel e.g. as a result of scrapes on rough surfaces  2  to cause to be bare  bush 
 pieto,loincloth
 pigepige,moving around craftily
-pigi,   to obstruct  view   
-pigi,  to shield
+pigi, 1  to obstruct  view   2  to shield
 pigi,to make a ball e.g. from mud
 pigiri,to look out for
 pĩi,arrow
@@ -5086,37 +4803,27 @@ pili,a type of mat made of tiny straw and thread used to sleep on
 pilintoɔ,bottle
 pilipili,to cover up or confuse by clever actions
 pilli,to roll up  mat 
-pilli,to cover  with a cloth  
-pilli,  cover the top of a building
+pilli,to cover  with a cloth   2  cover the top of a building
 pilli,to roll the tip of a feather in the ear to scratch it
 pilli pɔge,to overwhelm with a swarm  bee attack 
-pimbiri,   nail 
-pimbiri,  arrowhead  
-pimbiri,  syringe
+pimbiri, 1  nail  2  arrowhead  3  syringe
 pimbitaaraa,screw
 pimpiŋ,far away
 pimpiŋ,to attempt to confuse
-pinni,   to tap on to empty e.g. pocket  
-pinni, to shake e.g. to remove unwanted bodies  bugs from a mat   
-pinni,  to perform the final threshing to remove bits of grain
+pinni, 1  to tap on to empty e.g. pocket  2  to shake e.g. to remove unwanted bodies  bugs from a mat   3  to perform the final threshing to remove bits of grain
 pinni,to remind
 piŋgaraa,pickaxe
-piŋi,   to shake to remove e.g. dust from cloth 
-piŋi, to beat mercilessly  figurative 
+piŋi, 1  to shake to remove e.g. dust from cloth  2  to beat mercilessly  figurative 
 piŋi,to hide or take cover behind an object
 pipiiri,a type of tiny black flying insect that moves in groups
-pipiree,   chaff 
-pipiree,   residue of the matter left after chewing and extracting the liquid from some nuts like coconut
+pipiree, 1  chaff  2  residue of the matter left after chewing and extracting the liquid from some nuts like coconut
 piraa,button
 pire,new land cleared for farming
 pirempireŋ,full  tyre
 pirepire,the state of complete emptiness  the state of having nothing
-piri,   to compete to win e.g. vacant seat 
-piri,  to speak at the same time  two or more people 
+piri, 1  to compete to win e.g. vacant seat  2  to speak at the same time  two or more people 
 piri,to lance
-piri,   to button up e.g. shirt  
-piri, to strap on e.g. wristwatch  
-piri, to put a noose on or off e.g. neck or leg of an animal
+piri, 1  to button up e.g. shirt  2  to strap on e.g. wristwatch  3  to put a noose on or off e.g. neck or leg of an animal
 piriyoro,completely scattered in different directions e.g. members of a search party
 po,to pull a grass stalk off the base
 po,to dig for termites  to feed young chicks 
@@ -5144,21 +4851,17 @@ poli,smear plenty of oil producing a shining effect
 poli,flaring up abruptly  fire 
 polige,the state of not being open-minded
 poll,small and sharp
-polle,   to sharpen  a point  
-polle, to take an oath  
-polle, to make a promise
+polle, 1  to sharpen  a point   2  to take an oath  3  to make a promise
 pololo,pointed and sharp
 pomm,bloated like a balloon
 pompoluoree,a type of wild tree with edible fruit
 pompoŋɔ,a type of poisonous green-trunked tree with white nectar
 ponaŋa,severe stomachache
-ponne,   to drop in bits e.g. rain 
-ponne,   to test tightness e.g. string of bow
+ponne, 1  to drop in bits e.g. rain  2  to test tightness e.g. string of bow
 ponne,to covet  to make advances to mate with e.g. animals
 ponne,not up to standard
 poŋi,pollen
-poŋi,   to shave  hair  
-poŋi,  to remove corn from the cob
+poŋi, 1  to shave  hair   2  to remove corn from the cob
 poŋi,to share
 poo,sound made when one wades into water  onomatopoeia 
 po-o,ocean
@@ -5173,25 +4876,21 @@ poɔ,part  of a group
 poɔ,pregnancy
 poɔ,to beat down on by rain
 poɔ,to add to  to include
-põɔ,   to interrupt
-põɔ,  to perform a task earlier than expected
+põɔ, 1  to interrupt  2  to perform a task earlier than expected
 põɔ,to rot
 põɔ,to play a game of hide and seek
-poɔle,   to cause wetness of e.g. floor 
-poɔle,  to soak herbs  preparing medicine 
+poɔle, 1  to cause wetness of e.g. floor  2  to soak herbs  preparing medicine 
 poɔle,to make the end of something pointed
 poɔle,pointed end
 poɔnaa,hide and seek  children’s game 
-poɔre,   to rub to clear e.g. hand over face just from sleep 
-poɔre,   to clutch with both hands and feet e.g. in climbing a tree or wall
+poɔre, 1  to rub to clear e.g. hand over face just from sleep  2  to clutch with both hands and feet e.g. in climbing a tree or wall
 poɔroŋ,rot
 popaale,disease that causes swollen feet and a distended stomach
 popeɛloŋ,happiness
 popelaa,stomachache
-popelaa,   prostrate
-popelaa,  open minded
+popelaa, 1  prostrate  2  open minded
 popɛge,outer shell
-popɛle,   happiness
+popɛle, 1  happiness
 popo,motorcycle
 pore,tiny
 pore,to name
@@ -5256,6 +4955,7 @@ pɔgefaa-ŋmenaa,early evening  4 pm
 pɔgegori,bride price
 pɔgeguri,rape
 pɔgegbeɛloo,one who leads the bride to the bridegroom’s house
+Word,Definition
 pɔge-iraa,a woman who has eloped with her fiance
 pɔgekoɔre,unmarried woman  widower
 pɔgekɔŋ,unavailability of marriageable women
@@ -5349,11 +5049,10 @@ puori,behind  backward  direction
 puoriŋ,after
 puoruu,prayer
 puree,paternal aunt
-puri,   to burst
+puri, 1  to burst
 puro,a type of tree that has sour sap which is used in preparing porridge
 puro,a type of small tree squirrel
-puu,   to praise 
-puu, to congratulate
+puu, 1  to praise  2  to congratulate
 puulee,lady  typically used with bi- 
 puuli,a funeral rhythm  a type of musical performance at a funeral rites session
 puuri,flowers
@@ -5365,7 +5064,7 @@ saa,even if  short form of saareŋ
 sãa,blacksmith’s shop
 sãa,to mash
 sãa,to appear
-sãa,   to spoil
+sãa, 1  to spoil
 sãabile,uncle  father’s younger brother 
 saabo,flour paste  staple food of the Dagaare-speaking people 
 saabuulaa,porridge set for preparing saabo
@@ -5387,13 +5086,11 @@ sãakontulimotulimo,great-great-grandfather
 saakõɔ,water in mashed porridge
 saakɔntuo,water from the first rain of the onset of the rainy season
 saala,charcoal
-saalaa,   smooth  
-saalaa,  slippery
+saalaa, 1  smooth  2  slippery
 saalaa,object used for sharpening implements
 saalaa,a type of tree with hard wood
 saalaa,bowl of T.Z.
-saale,   to sharpen e.g. knife  
-saale, to make smooth
+saale, 1  to sharpen e.g. knife  2  to make smooth
 saale,to be sufficient
 saalesɔglaa,a type of tree with hard wood and medicinal properties
 saalommaane,okra
@@ -5505,8 +5202,7 @@ sanaŋe,a type of large
 sandaana,creditor
 sandire,debtor
 sane,debt
-sangyẽaa,   a type of long water beetle 
-sangyẽaa,  crab
+sangyẽaa, 1  a type of long water beetle  2  crab
 saniŋe,West
 sanlɛre,straw put up together to form a mat on which harvested ears of guinea corn is kept to dry
 sanna,to caution
@@ -5525,8 +5221,7 @@ saŋkpalema,a kind of large antelope
 saŋkpana,scabies
 saŋmene,god of rain
 sapare,East
-sapelaa,   rain from cumulus clouds 
-sapelaa,  a type of rain god  white 
+sapelaa, 1  rain from cumulus clouds  2  a type of rain god  white 
 sapigi,large hat
 sapĩi,bolt of lightning
 sapooraa,rain shower
@@ -5536,13 +5231,12 @@ sare,to slip
 sare,water trough  container from which animals drink 
 sareka,a ritual in which one provides for the needy for atonement
 sarre,to develop into a young woman
-saseɛ,   air
+saseɛ, 1  air
 sase-ɔɔre,harmattan
 sasepilimbaŋe,whirlwind
 sasere,grasscutter
 sasigoo,hiccough
-sasɔgelaa,   rain from black clouds 
-sasɔgelaa,   a type of fetish or deity connected with rain  black 
+sasɔgelaa, 1  rain from black clouds  2  a type of fetish or deity connected with rain  black 
 sasusulee,a type of tree
 satannaa,to thunder
 savaale,rainstorm  at night 
@@ -5559,21 +5253,18 @@ sazupĩi,danger lurking above
 se,to skin  slaughtered animal 
 sebaa,a type of wild animal
 sebiri,bee
-sebo,   to affect 
-sebo,  to refuse to give
+sebo, 1  to affect  2  to refuse to give
 sebogi,beehive
 sedanegere,brown
 sedoge,pot container used to trap for bees
 see,unless e.g. having no option
-seebo,   honey 
-seebo,  beehive
+seebo, 1  honey  2  beehive
 seene,to touch
 seeraa,a type of tree with medicinal properties
 seɛ,waist
-seɛ,   to wear  on the waist   
-seɛ,  to dance  3  to be better than
+seɛ, 1  to wear  on the waist   2  to dance  3  to be better than
 seɛ,soul
-seɛ,   joke
+seɛ, 1  joke
 seɛ,by the side  wall 
 sẽɛ,rainy season
 seɛbaa,considerably big
@@ -5581,21 +5272,18 @@ seɛbaa,twine from dawdaw fruit
 seɛgoɔ,a type of tree with medicinal properties
 seɛ kpelle,to get someone in trouble
 sẽɛkpɛpaalaa,early farming season
-seɛlaa,   clay eaten by cattle 
-seɛlaa,  pit where cattle eat this clay
+seɛlaa, 1  clay eaten by cattle  2  pit where cattle eat this clay
 seɛlee,mystery
 seɛlee,mysterious
 seɛne,porcupine
-seɛne,   to grab firmly with fingers around the object e.g. neck 
-seɛne,  to cram e.g. a bag with clothes
+seɛne, 1  to grab firmly with fingers around the object e.g. neck  2  to cram e.g. a bag with clothes
 seɛnoɔre,the beginning of the farming season
 sefaa,demon
 segammo,honeycomb
 segampelaa,white honeycomb  usually contains the pure honey 
 seganfuu,honeycomb without honey
 sege,farm hut  camp
-sege,   to resemble  
-sege,  to name a child after someone  usually an anscestor 
+sege, 1  to resemble   2  to name a child after someone  usually an anscestor 
 segeraa,ancestral name given to a baby
 segesege,to attempt to move but being constrained by one thing or the other
 segilekele,standing upright
@@ -5623,8 +5311,7 @@ sensɛlaabogiri,frying earthenware with hollow depressions
 sensɛre,bean cake
 sensogelensogɔ,middle
 sensogɔ,middle
-sensogɔ,home drain e.g. one leading out of the bathroom 
-sensogɔ,  a track fixed to drain rainwater from the top of a roof
+sensogɔ,home drain e.g. one leading out of the bathroom  2  a track fixed to drain rainwater from the top of a roof
 sensɔge,rattle used by babysitters to accompany the singing of a lullaby
 sensɔɔre,tigernut
 sensɔraa,kitchen sponge
@@ -5634,8 +5321,7 @@ senuulee,honey bird
 senyoɔle,a person or any creature that is fond of sweet things
 seŋe,to suffice
 seŋe,like
-seŋe,to wake up  someone  
-seŋe, to revive
+seŋe,to wake up  someone   2  to revive
 seŋɛ,large pot used to store local beer during preparation or to store water
 seŋgelɛnte,singlet
 seŋkãa,groundnut
@@ -5669,8 +5355,7 @@ sɛmare,to sue
 sɛmpili,a type of long mat
 sɛndɔɔ,the boyfriend of one’s wife
 sɛndɔɔ-dogi-za,small lumps of earth on top of a wall for decoration
-sɛne,   lover  of another sex  
-sɛne, fiancé
+sɛne, 1  lover  of another sex   2  fiancé
 sɛnlee,small mat
 sɛnlɛre,a type mat made by putting straw together on which harvested guinea corn is kept to dry
 sɛnsɛmbie,bastard
@@ -5689,17 +5374,16 @@ sɛredire,judge
 sɛremaane,pepper
 sɛrɛɛ,judgement
 sieree,benefit
-sigi,   to go down
-sigili,   to become calm
-sigiri,   to lower
+sigi, 1  to go down
+sigili, 1  to become calm
+sigiri, 1  to lower
 sikiri,sugar
 sile,shilling
-simmie,   bambara beans 
-simmie,    groundnuts  Northern Dagaare dialect 
+simmie, 1  bambara beans  2  groundnuts  Northern Dagaare dialect 
 simmiri,thread
 sinkyigiri,bunch
 sinsuoluŋ,ground bean
-siŋgbule,bambara beans
+siŋgbule,bambara beans  a type of round beans that bear nuts in the ground like groundnuts   Northern Dagaare dialect 
 sipirii,aspirin
 siremm,serene
 sisi,to cheat
@@ -5708,10 +5392,9 @@ so,to bathe
 so,to own
 so,as a result
 sobile,path
-sobiri,   road
-sobɔ,   owner 
-sobɔ,  the one
-so-eŋe,   to initiate
+sobiri, 1  road
+sobɔ, 1  owner  2  the one
+so-eŋe, 1  to initiate
 so-eŋe,metaphor  literature 
 sofoɔlaa,street
 sogelɔŋ,heavy and dull
@@ -5741,8 +5424,7 @@ soŋe,to help
 soo,pure
 sõo,confused
 soore,to question
-soore,to hiss to drive fowls away 
-soore, to hiss in pain e.g. after eating very spicy food
+soore,to hiss to drive fowls away  2  to hiss in pain e.g. after eating very spicy food
 soori,locusts
 soɔ,knife
 soɔ,to blacken
@@ -5766,12 +5448,10 @@ sɔ,to add vegetables to groundnut sauce
 sɔbiri,knife blade
 sɔge,to shell nuts
 sɔge,to rinse
-sɔge,bushy 
-sɔge, littered
+sɔge,bushy  2  littered   A dendɔre sɔgɛɛ la
 sɔge,to respond
 sɔge,to be bushy
-sɔgelaa,  black  
-sɔgelaa, dark  colour 
+sɔgelaa, 1  black  2  dark  colour 
 sɔgelaa,neck of a pot
 sɔgele,to hide
 sɔgbale,blunt knife
@@ -5785,37 +5465,28 @@ sɔɔ,in a little while
 sɔɔ,to blacken
 sɔɔ,to blossom e.g. vegetation
 sɔɔre,dye
-sɔɔre,   liver 
-sɔɔre,  a type of dark brown bush mouse that lives along river banks
-sɔre,   to beg  
-sɔre, to ask
+sɔɔre, 1  liver  2  a type of dark brown bush mouse that lives along river banks
+sɔre, 1  to beg  2  to ask
 sɔre,to cook soup made with groundnuts and vegetables
-sɔre,   to count 
-sɔre,  to read
+sɔre, 1  to count  2  to read
 sɔresɔreŋmanlee,a beggar’s calabash
 sɔresɔrɔ,beggar
 sɔresɔrɔ,beggar
 sɔteɛ,scabbard for a knife
 sɔvũu,light associated with witchcraft
-su,   to put on a top  shirt  
-su,    to put inside  a hole  
-su,  to spoon feed e.g. baby
+su, 1  to put on a top  shirt   2  to put inside  a hole   3  to spoon feed e.g. baby
 subaaloŋ,tenderheartedness
 sudire,one who forgives
 sugaraate,cigarette
-sugi,   to dislocate e.g. joint 
-sugi,  to dislodge e.g. a pot from the top of another
+sugi, 1  to dislocate e.g. joint  2  to dislodge e.g. a pot from the top of another
 sugi,to ladel soup from a pot
-sugili,   to come next to e.g. in a line 
-sugili, to place one on top of the other e.g. pots
+sugili, 1  to come next to e.g. in a line  2  to place one on top of the other e.g. pots
 Sugilo,name traditionally given to a child immediately after twins
 sugo,herd  group of many e.g. troop of animals
 sugo,a type of tiny white ant that destroys yams
 sukaale,a type of large dress with wide sleeves that are thrown over the shoulder
-sukyiri,   heart  
-sukyiri, courage
-sukyiribaaloŋ,   kind heart 
-sukyiribaaloŋ, heart disease
+sukyiri, 1  heart  2  courage
+sukyiribaaloŋ, 1  kind heart  2  heart disease
 sukyirifõɔ̃õ,lightheartedness
 sukyiriliŋe,end of the ribcage
 sukyiritage,bravery
@@ -5825,10 +5496,7 @@ sumaaroŋ,coolheaded
 sumiime,heartburn
 sumosumo,a type of fried food made from the flour of yam
 sundaa,a stick to which birdlime is applied to trap birds
-sunni,   glue
-sunni,  gum
-sunni, sticky substance  
-sunni,  a plant that produces gum
+sunni," 1  glue, gum, sticky substance  2  a plant that produces gum  3  birdlime"
 sunni,blue powder used in dyeing clothes during washing
 sunsugiri,white growth within a sore
 suori,to fall off in great numbers  leaves 
@@ -5836,8 +5504,7 @@ supaana,spanner
 suree,ladle
 suromm,quiet
 susu,a cycle in which contributions of members are given to others
-susu,   to measure  
-susu,  to be careful
+susu, 1  to measure  2  to be careful
 susu,fast and without stopping e.g. eating
 susu,utterance to urge a dog on to pursue  animal
 su-su-su,an utterance to urge a dog on to catch game
@@ -5847,9 +5514,8 @@ suuri,anger
 suuri,to coax
 suuri-di-teroo,forgiveness
 ta,not  negative marker 
-ta,   to reach
-taa,   to have  
-taa, to keep
+ta, 1  to reach
+taa, 1  to have  2  to keep
 taa,each other
 tãa,to serve very little e.g. soup
 tãa,to tap on the head with a finger
@@ -5862,25 +5528,19 @@ taantumma,a type of caterpillar in hibernation
 taantunnuu,shea tree caterpillar
 taaŋkaraa,unripe shea fruit
 taaŋkpara,shea fruit with two nuts
-taare,   to press hard e.g. plaster 
-taare,  to crush e.g. an ant
-taare,   to tighten 
-taare,  to screw
+taare, 1  to press hard e.g. plaster  2  to crush e.g. an ant
+taare, 1  to tighten  2  to screw
 tãatẽe,a type of small bird
-taayɛ,   tyre  rubber 
-taayɛ,  catapult
+taayɛ, 1  tyre  rubber   2  catapult
 tabole,table
-tage,   to pull
+tage, 1  to pull
 tage,thick
 tagekori,a type of thorn tree with sharp
 tagekyoore,measles
-tagetaa,   dispute 
-tagetaa,  conflict  literature 
+tagetaa, 1  dispute  2  conflict  literature 
 tagetage,ability
-tagevama,   smallpox 
-tagevama,  chicken pox
-tahɛlɛ,   extreme suffering 
-tahɛlɛ,   carefree speech
+tagevama, 1  smallpox  2  chicken pox
+tahɛlɛ, 1  extreme suffering  2  carefree speech
 takaare,vain
 takaraa,small lizard
 takoŋi,ban on performance of funeral rites
@@ -5888,8 +5548,7 @@ takoriko,bridge
 takoroo,window
 takɔdaa,Sabbath
 takɔraa,Sabbath
-takɔraa,   fin  fish   
-takɔraa,   a hook or spike on an object e.g. arrow
+takɔraa, 1  fin  fish   2  a hook or spike on an object e.g. arrow
 takpala,great suffering
 takpalan,area between the throat and the chin
 takpaleɛne,area between the throat and chin
@@ -5905,8 +5564,7 @@ tale,flat open e.g. palm of the hand
 taleri,small bush lizard
 talle,to make long
 taltal,to move with great pain
-tam,   to be numb 
-tam,   to be shocked  not able to react
+tam, 1  to be numb  2  to be shocked  not able to react
 tamaa,hope
 tamanyini,gum
 tamaraa,small quiver
@@ -5934,8 +5592,7 @@ tanfoɔlaa,valley between hills
 tangyugi,in the habit of being promiscuous e.g. male goat
 tangyuu,in the habit of being promiscuous e.g. male goat
 tanlori,miniature bow
-tanne,   to thunder 
-tanne,  to shout at
+tanne, 1  to thunder  2  to shout at
 tannetaa,quarrel
 tannoɔ,a small
 tantammonaa,red weaver bird
@@ -5943,8 +5600,7 @@ tantaŋ,immediately
 tanzuŋ,carrying pad
 tanyini,gum
 taŋa,mountain
-taŋaa,   shea tree 
-taŋaa,   shea fruit
+taŋaa, 1  shea tree  2  shea fruit
 taŋaaweɛlɛ,mistletoe of shea tree
 taŋe,to keep silent
 taŋgara,telegraph
@@ -5958,8 +5614,7 @@ taporo,brain  matter
 tapɔgefãa,finish very quickly
 taraa,flat and thick
 taramaŋ,blindingly
-tare,   to set sitting right on top of something e.g. pot on fire 
-tare,   to face directly e.g. problem
+tare, 1  to set sitting right on top of something e.g. pot on fire  2  to face directly e.g. problem
 taremana,completely blind
 tasere,a pad put on the head to carry load
 tasɔle,a type of lizard with smooth pink skin
@@ -5971,12 +5626,10 @@ taworo,towel
 tayeŋine,the state of trembling e.g. from severe hunger
 te,we  1st person plural weak form  us  1st person plural weak form 
 te,really
-tẽe,   medicine   
-O beɛrɛ la kyɛ ba sage na nyu tẽe., She is sick but refuses to take medicine.  
-tẽe,   solution  
+tẽe, 1  medicine   O beɛrɛ la kyɛ ba sage na nyu tẽe. She is sick but refuses to take medicine.  2  solution   A pɔge taa la a bie ŋa tẽe
 teebo,fetish
-tẽeda,the act of buying medicine   
-tẽe-die,   clinic
+tẽeda,the act of buying medicine   A dɔɔ ŋa ba nɔŋe asibiti gaabo
+tẽe-die, 1  clinic
 tẽe-doge,medicine pot
 tẽe-erɛ,medicine man
 tẽekõɔ,syrup  medicine 
@@ -5985,31 +5638,22 @@ teelɛ,sewing machine
 teene,improve upon
 teene,delay
 teene,to be the spokesman for a suitor in courtship
-teere,   to rub against  
-teere, to iron clothes
+teere, 1  to rub against  2  to iron clothes
 teɛ,to support
-teɛ,   to shoot with a bow 
-teɛ,  to gamble
+teɛ, 1  to shoot with a bow  2  to gamble
 teɛ,scabbard
-teɛ,   to kick 
-teɛ,  to unset
+teɛ, 1  to kick  2  to unset
 teɛ,tree
 teɛ,a skin disease that causes a rash  usually on the legs 
-tẽɛ,   to stretch out e.g. legs  
- A baala zeŋe dɛlle la a gado kyɛ tẽɛ o gbɛɛ., The patient sat leaning against the bed with his legs stretched out.  
- tẽɛ, to point to   
- A pɔgelee da tõɔ tẽɛ wuli la a nannyige., The girl was able to point to the thief.  
- tẽɛ, to hold out to give   
- Ba de la a bondirii tẽɛ a pɔge ka o zagere., They held out the food to the woman
+tẽɛ, 1  to stretch out e.g. legs   A baala zeŋe dɛlle la a gado kyɛ tẽɛ o gbɛɛ. The patient sat leaning against the bed with his legs stretched out.  2  to point to   A pɔgelee da tõɔ tẽɛ wuli la a nannyige. The girl was able to point to the thief.  3  to hold out to give   Ba de la a bondirii tẽɛ a pɔge ka o zagere. They held out the food to the woman
 tẽɛkɔɔloŋ,beard
 teɛne,chin
 teɛne,to stuff e.g. pillow
-teɛre,   to think  
-teɛre,  to remind
+teɛre, 1  to think  2  to remind
 teɛre,to feel for texture  smoothness of flour
 tege,to be satisfied
 tegele,to shorten
-tegelɛŋ,   little
+tegelɛŋ, 1  little
 tegeroŋ,heavy  weight 
 tegeroŋ,a heavy thing
 tegyeerɛ,woodpecker
@@ -6026,8 +5670,7 @@ tembaa,a type of black ant with a painful sting
 tembeene,late night
 tembie,citizen
 tembimeŋɛ,patriot
-temm,alone 
-temm, lonely
+temm,alone  2  adj. lonely
 tempoɔsori,street
 tendaa,country-wide
 tensaana,alien land
@@ -6037,24 +5680,19 @@ tensɛre,tradition
 tensoba,landowner
 tensogezɔnne,night blindness
 tensogɔ,night
-tensunni,   muddy ground 
-tensunni, fertile land
-tentoloŋ,  hot ground
-tentoloŋ,   hot season
+tensunni, 1  muddy ground  2  fertile land
+tentoloŋ, 1  hot ground  2  hot season
 tentɔle,underpants
 tentɔlvaa,triangular underwear
 tentɔɔre,distant country
-tenvelaa,   good country
-teŋa,   ground  
-teŋa,  town
+tenvelaa, 1  good country
+teŋa, 1  ground  2  town
 teŋe,to rub on
 teŋɛ,down
-teŋɛ,   ground  
-teŋɛ,  town
+teŋɛ, 1  ground  2  town
 teŋɛsoga,floor
 teŋɛzu,world
-teŋgane,   top layer of soil  
-teŋgane,  god of the land
+teŋgane, 1  top layer of soil  2  god of the land
 teŋganezu waloŋ zannoo,geography
 teŋgbigiri,earthquake
 teŋkõɔ,tradition
@@ -6063,6 +5701,7 @@ teraale,perfume
 tere,only
 tere,spoon
 tere,"to give, to send"
+Word,Definition
 tere,only
 tere,to leave a message
 tere sori,permit
@@ -6076,8 +5715,7 @@ tesunni,sap
 tetebaa,stinger  the tip of the tail of a bee usually used to sting
 tetere,small in quantity
 tevaa,green
-tewɔne,   berry 
-tewɔne, fruit of a tree
+tewɔne, 1  berry  2  fruit of a tree
 tewɔŋkõɔ,juice
 tɛ,to spread in an orderly manner
 tɛbaa,snare
@@ -6085,22 +5723,20 @@ tɛɛse,test
 tɛɛtɛɛ,different
 tɛge,to exchange
 tɛge,meaning
-tɛgele,to place a container with the bottom on the ground 
-tɛgele,  to collect in a small pool e.g. water
+tɛgele,to place a container with the bottom on the ground  2  to collect in a small pool e.g. water
 tɛgere,to apply the sap of a leaf to the body  local method of tattooing 
 tɛgɛ,meaning
 tɛgɛtɛgɛ,little e.g. liquid
+Word,Definition
 tɛlɛntɛlɛŋ,sprawled out
 tɛll,long
-tɛmbiri,   white ants  termites  
-tɛmbiri,   the habitat of these termites
+tɛmbiri, 1  white ants  termites   2  the habitat of these termites
 tɛmbogi,ditch where mortar is prepared
 tɛmburo,dry soil
 tɛmpelaa,white soil  used to plaster walls 
-tɛne,   soil
+tɛne, 1  soil
 tɛnnɛ,a type of grass usually found in front of houses
-tɛŋ,   to sweeten 
-tɛŋ, to ferment
+tɛŋ, 1  to sweeten  2  to ferment
 tɛŋkubo,gravel
 tɛre,to strain one’s legs
 tɛretɛre,to move in protest e.g. pampered child
@@ -6112,9 +5748,7 @@ tɛrre,to push a container away along the ground floor usually in anger
 tɛtɛgere,muddy thing
 tɛtɛrewɛrɛ,daftly
 ti,to vomit
-ti,   to put hand on e.g. wall 
-ti,   to support by the use of a walking stick 
-ti,  to put up sticks with their tops meeting  making a farm hut 
+ti, 1  to put hand on e.g. wall  2  to support by the use of a walking stick  3  to put up sticks with their tops meeting  making a farm hut 
 tigi,to gather e.g. crowd
 tigiki,dark and deep set  eyes 
 tigiri,feast
@@ -6126,11 +5760,9 @@ tiili,to place against an upright object e.g. a plank against a tree wall
 tiiri,vomit
 tiiri,to come very close to
 tiiri,to be fed up with
-tiiruŋ,   a type of plant with sour sap used for cooking  
-tiiruŋ,  a type of medicinal herbal concoction
+tiiruŋ, 1  a type of plant with sour sap used for cooking  2  a type of medicinal herbal concoction
 tiiruŋ,sour  taste 
-tilento,   hornbill  
-tilento,  pelican
+tilento, 1  hornbill  2  pelican
 tiŋi,to make firm  object fixed in the ground 
 tiŋimeŋ,dark
 tiretire,tasteless
@@ -6139,12 +5771,11 @@ to,really
 tobaato,fox
 tobie sawɔlɔ,fried food made from boabab seed
 tobiri,boabab seed
-togi,   take down e.g. from head
+togi, 1  take down e.g. from head
 togifa,sixpence
-togilogo,   small  space  
-togilogo,   small and shallow  hole 
+togilogo, 1  small  space   2  small and shallow  hole 
 togilogo,deep
-togiroo,raised wooded ground
+togiroo,raised wooded ground  Southern Dagaare dialect 
 togitogi,never
 togoko,refusing to listen
 tokele,hard dawdaw spice seed  not processable 
@@ -6159,8 +5790,7 @@ toll,large  heap
 toll,small  heap 
 tolomboll,lonelylooking
 toloŋ,heat
-toloŋ,   hot  
-toloŋ,  fast
+toloŋ, 1  hot  2  fast
 tom,to become sweet
 tomomo,very sweet
 tone,work
@@ -6168,18 +5798,15 @@ tonemaa,at once
 tonni,to move blindly  groping
 tonni,to drip
 tontombone,tool
-tontonɔ,   worker  
-tontonɔ, industrious person
-tontoŋ,   very sour 
-tontoŋ,    very painful
-toŋe,   to work 
-toŋe, to send  someone to do something 
+tontonɔ, 1  worker  2  industrious person
+tontoŋ, 1  very sour  2  very painful
+toŋe, 1  to work  2  to send  someone to do something 
 toŋkpeɛne,miracles
 too,okay
 toobini,earwax  ear shit 
 toogee,a state indicating an incorrect utterance which is therefore withdrawn
 too-gbuli,unpierced ear
-toogbulo,   hardness of hearing
+toogbulo, 1  hardness of hearing
 toogyɛle,earlobe
 tookuriseɛ,the base of the ear  back 
 tookpane,earring
@@ -6189,20 +5816,18 @@ toolii,joke
 toopãapere,eardrum
 toopurimo,draining ear
 toore,to spit
-toore,   to push into e.g. foot into socks 
-toore,   to push along a surface
+toore, 1  to push into e.g. foot into socks  2  to push along a surface
 toori,ear
 toori,naughty e.g. child
 toori,musically exceptional
 toovaa,ear flap  the visible part of the ear  pinna 
-toovoɔre,   ear canal  
-toovoɔre, ear piercing
-tõɔ,   to subdue
+toovoɔre, 1  ear canal  2  ear piercing
+tõɔ, 1  to subdue
 toɔle,to send a message
 toɔlɔ,message
 toɔne,to tear off in strips  fibre from the stalk 
-toɔraa,   self  
-toɔraa,  portion
+toɔraa, 1  self  2  portion
+Word,Definition
 toɔre,mortar
 toɔre,one’s share of something
 toɔre,to be careless  to not pay enough attention
@@ -6212,8 +5837,7 @@ tore,to sprout
 tore,to close one’s mouth tightly  usually in anger 
 torebogi,frontier
 tori,continuously  doing one thing 
-tori,   to be straight 
-tori, to be right
+tori, 1  to be straight  2  to be right
 tori,to speak with anger
 tori-buuluŋ,porridge made from corn and boabab flour
 toriko,cart
@@ -6221,18 +5845,12 @@ toriko,large metal snare for trapping large animals
 torizeɛ,red beret
 to-uri,tiny spikes covering the fruit of boabab
 tozɔŋe,boabab fruit powder
-tɔ,   colleague
-tɔ,   to pound 
-tɔ,  to touch 
-tɔ,  to head-butt  
-tɔ,  to get to the end of 
-tɔ,   to beat about the bush 
-tɔ,  to be ignorant
+tɔ, 1  colleague
+tɔ, 1  to pound  2  to touch  3  to head-butt  4  to get to the end of  5  to beat about the bush  6  to be ignorant
 tɔba,tobacco
 tɔbaa,a type of sharp axe used for carving
 tɔbɔ,tobacco
-tɔge,   an earthenware container with a hole in the bottom for sieving 
-tɔge,   fish trap
+tɔge, 1  an earthenware container with a hole in the bottom for sieving  2  fish trap
 tɔge,to stop
 tɔgele,to imitate
 tɔgele,to collect from above e.g. rain water
@@ -6245,9 +5863,7 @@ tɔnne,to sell  usually at a low price
 tɔnɔ,profit
 tɔntɔbaa,at once
 tɔŋe,to respond to
-tɔŋe,   to be in a queue 
-tɔŋe,   to light a fire 
-tɔŋe,   to fetch fire
+tɔŋe, 1  to be in a queue  2  to light a fire  3  to fetch fire
 tɔŋe,to light a fire from another fire
 tɔŋemɔ,colleague
 tɔɔ,all right
@@ -6261,93 +5877,72 @@ tɔɔwuoraa,a shell used in gathering and collecting powdered tobacco  snuff
 tɔɔzɔŋe,powdered tobacco  snuff
 tɔre,self  reflexive 
 tɔre,to share in pieces
-tɔre,   to break easily e.g. weak twine 
-tɔre, to cut a small piece  3  to die  ailing child 
+tɔre, 1  to break easily e.g. weak twine  2  to cut a small piece  3  to die  ailing child 
 tɔre,valuable
-tɔ teere,   without any hope hit the rocks  
-tɔ teere,  to worsen
+tɔ teere, 1  without any hope hit the rocks  2  to worsen
 tu,to follow a route
 tu,to recount
 tu,to bring back an attempted  female  divorcee
-tu,   to dig  
-tu, to uproot
+tu, 1  to dig  2  to uproot
 tu ba,to take off quickly e.g. in running
 tuli,to make a mistake
-tulli,   to change  state 
+tulli, 1  to change  state 
 tulundaa,pestle
 tumakuli,burri  a type of small plant with thorny fruits
-tumo,one born with the feet coming first instead of the head 
-tumo, glutton
+tumo,one born with the feet coming first instead of the head  2  glutton
 tumpaane,large talking drum  a drum that gives messages
 tumpaane,slabs of bean flour boiled in leaves
 tu noɔre,to narrate
 tuntundaana,mosquito net
 tunturi,a type of very large hog with powerful claws and tail for digging
+Word,Definition
 tuŋi,to thread  beads 
-tuŋi,   to dip e.g. hand in pocket 
-tuŋi, to insert a finger into the vagina  defile
-tuŋi,   to stumble about to fall
+tuŋi, 1  to dip e.g. hand in pocket  2  to insert a finger into the vagina  defile
+tuŋi, 1  to stumble about to fall
 tuŋi,to overgrow e.g. hair
-tuo,   to carry e.g. on head  
-tuo,   to swell e.g. blister
-tuo,   baobab tree  
-tuo,  baobab fruit
-tuo,   suffering 
-tuo,  difficulty
-tuo,   bitter e.g. quinine  
-tuo,  hot e.g. pepper
-tuobu,   load  
-tuobu, burden  
-tuobu, weight  
-tuobu,  luggage
-tuori,   to meet face to face  
-tuori,  to welcome
+tuo, 1  to carry e.g. on head  2  to swell e.g. blister
+tuo, 1  baobab tree  2  baobab fruit
+tuo, 1  suffering  2  difficulty
+tuo, 1  bitter e.g. quinine  2  hot e.g. pepper
+tuobu, 1  load  2  burden  3  weight  4  luggage
+tuori, 1  to meet face to face  2  to welcome
 tuosoba,person who does not want to make offers to any other person
 turi,thousand
-turi,   to give from above or below 
-turi, to offer one’s hand
+turi, 1  to give from above or below  2  to offer one’s hand
 tu sori,to be right
 tutɔ,companion
-tuu,   thicket
+tuu, 1  thicket
 tuu,eagle
-tuuli,   to trace e.g. line 
-tuuli,   to use a finger to apply e.g. ointment  3  to go about
-tuuli,   to give to drink e.g. a child 
-tuuli,  not deeply immersed  arrow hitting game 
+tuuli, 1  to trace e.g. line  2  to use a finger to apply e.g. ointment  3  to go about
+tuuli, 1  to give to drink e.g. a child  2  not deeply immersed  arrow hitting game 
 tuuree,Europe or America
 tuuri,to pick out
 TZ,see saabo
+Word,Definition
 ugi,to expand e.g. cooked rice
 ulee,tree branch
 uli,fog
-uli,   to be dusty  
-uli,  to become moldy e.g. food
-unni,   unburying something buried  
-unni,   to bring back past memories
+uli, 1  to be dusty  2  to become moldy e.g. food
+unni, 1  unburying something buried  2  to bring back past memories
 unni,to remind
 uoni,dry season
 uori,to warm oneself  by fire
 uori,to mourn
 uori,to peer  shading one’s face with the hand 
-uori,   to bellow  bull  
-uori,   to groan  a sound uttered in pain or grief
-uri,   itchy stuff 
-uri,  chaff
-uri,   to take unaware  
-uri,  to be shocked
+uori, 1  to bellow  bull   2  to groan  a sound uttered in pain or grief
+uri, 1  itchy stuff  2  chaff
+uri, 1  to take unaware  2  to be shocked
 uri,to make burn e.g. fire
 uri,hair-like projections on the straw of the grass family and other plants that cause itchiness of the skin
 uri,to scrub a very dirty object e.g. cooking pot
 ũu,to close tightly  fist
 ũu,to bury
-uuni,   to crouch
+uuni, 1  to crouch
 uuni,to form pus e.g. a swelling
 uuri,to hoot
-uuri,   to smoke out 
-uuri,   to warm a place with smoke
+uuri, 1  to smoke out  2  to warm a place with smoke
 uuruŋ,dust
-va,   to whip  
-va,   to thresh  millet 
+va, 1  to whip  2  to thresh  millet 
 va,snatch  to run directly and suddenly at someone seizing him
 va,to graze a target  miss narrowly
 va,to rush
@@ -6359,7 +5954,7 @@ vaagaviige,I command you  to die
 vaale,to gather e.g. rubbish
 vaalee,speck
 vaali,quickly
-vaane,   to shrink
+vaane, 1  to shrink
 vaane,shrunken
 vãao,courageously
 vaare,to wrap oneself
@@ -6371,12 +5966,12 @@ vage,sounding like a bird pecking at a soft object  onomatopoeia
 vage,sound of pecking
 vakogilo,dried leaves  that once were worn by women 
 vakuoŋaa,dry leaf
+Word,Definition
 vakuoŋaa,bad luck
 valenvõɔ,mason wasp
 valere,to intertwine e.g. weaving
 valimmu,a type of small tree with soft large leaves which women used to wear to cover parts of their private parts
-valinvaa,   leaf of the palm tree  
-valinvaa,  the leaf of the valimmu tree
+valinvaa, 1  leaf of the palm tree  2  the leaf of the valimmu tree
 valinvuuluŋ,soot
 valogema,green
 vama,effortlessly
@@ -6393,7 +5988,7 @@ vare,to jump
 vare,to castrate
 varekpara,long and loose e.g. twine
 varekpenɛ,thick paste from beans
-varema,   tough e.g. meat
+varema, 1  tough e.g. meat
 varevare,to heckle
 varevare,to pull along
 varoo,tough e.g. meat
@@ -6408,19 +6003,18 @@ veɛrɛɛ,to push aside growth e.g. in searching for something in an overgrown b
 veɛre,to fly low and slowly
 veɛre,to evade e.g. a verbal attack
 veɛrenyɔge,rodent
-velaa,   good
+velaa, 1  good
 vell,full to the brim
-velle,to hold the legs tightly in such a way as to make the person lose balance 
+velle,to hold the legs tightly in such a way as to make the person lose balance   A pɔge velle la a dɔɔ gbɛɛ ka o le.
 velɔɔ,turning instantly
 venenne,elastic
 venne,to throw off  wrestling 
 venoo,wine
 venɔɔ,thick and sticky e.g. grease
 venveŋ,climax
-venveŋ,at the maximum   
+venveŋ,at the maximum   A daa naŋ da w ate kpɛ venveŋ saŋa la ka ba da moɔle a zuyɔɔ yɛlɛ.
 vere,to shoot with a catapult
-vere,   to sprain	
-vere, to dislocate  joint 
+vere, 1  to sprain	 2  to dislocate  joint 
 vere,to make an effort
 vere,to fence e.g. garden
 verevere,to pull very hard on e.g. tug of war
@@ -6430,12 +6024,9 @@ vɛ̃ɛ,less sunny
 vɛle,to become clear e.g. day
 vɛlevɛle,very long and and wavy
 vɛmm,smoothly
-vɛnɛvɛnɛ,   sticky e.g. honey 
-vɛnɛvɛnɛ,   oily
+vɛnɛvɛnɛ, 1  sticky e.g. honey  2  oily
 vɛnlɛmm,slim and beautiful
-vɛŋe,   to leave
-vɛŋe, to let go 
-vɛŋe,  to stop
+vɛŋe, 1  to leave	 2  to let go  3  to stop
 vɛre,to prepare mortar
 vɛre,to scatter thick liquid e.g. mortar
 vɛre,stony farmland
@@ -6443,10 +6034,11 @@ vɛrɛɛ,lying low e.g. dew-laden grass
 vɛvɛ,glidingly e.g. a bird
 vi,shame
 vigi,owl
+Word,Definition
 vigi,to throw out in a whole  solid waste 
-viiri,   to turn around
+viiri, 1  to turn around
 vilenkyimm,twisted
-vilenva,going out of sight  
+vilenva,going out of sight   A karema yeli ka o erɛ vilenva ka a karembiiri yaarɛɛ.
 vilenvileŋ,round
 vili,to entwine
 vilime,circular
@@ -6455,8 +6047,7 @@ viretaŋgbelli,your limit
 vitaŋkpulee,a type of small owl
 vo,to make less crowded
 vogɛɛ,voluminous e.g. pair of trousers
-vokyɔ,   a type of tree with long fruit 
-vokyɔ,  the fruit of this tree  used in kneading 
+vokyɔ, 1  a type of tree with long fruit  2  the fruit of this tree  used in kneading 
 volavola,slimly
 volɔvolɔ,slimly
 vonne,to throw far away
@@ -6465,16 +6056,15 @@ võo,to mix
 voone,to sound
 vooraa,a type of lumpy paste made from bean flour
 voore,echo
-voore,   to breathe
+voore, 1  to breathe
 Vooronsoŋ,Holy Spirit
-vooroŋ,   life  
-vooroŋ,   breathed air
+vooroŋ, 1  life  2  breathed air
 voowoɔ,womb
 voɔ,to pull out
 voɔbale,arrow with many hooks
 voɔloŋ,slimy sap  from a type of tree  used to settle sediments in liquids
 voɔloŋ,slimy
-voɔre,   opening
+voɔre, 1  opening
 voɔre,to be worn out
 voɔre,to get scorched e.g. plants during drought
 voɔre,to smear
@@ -6489,29 +6079,25 @@ vorovoro,watery
 vɔ,to perform a type of ritual for a dead male
 vɔga,track
 vɔgaa,silk cotton tree
-vɔge,   to take off  
-vɔge,  to uncover
+vɔge, 1  to take off  2  to uncover
 vɔgɔ,track
 vɔlaa,great desire for
 vɔle,great desire for meat  carnivorousness
 vɔle,to swallow
-vu,   to crawl e.g. child 
-vu,   to drag along the ground
+vu, 1  to crawl e.g. child  2  to drag along the ground
 vubiri,mound for yam plant
 vuduori,the act of making yam mounds
 vuduoro,one who makes yam mounds
 vulaŋkaŋkpogili,final thing
 vuloŋkpogili,beetle
 vunni,to throw far away
-vuo,   space
+vuo, 1  space
 vuo,hollow
-vuoli,   to bark  dog  
-vuoli, to hoot  to put to shame 
+vuoli, 1  to bark  dog   2  to hoot  to put to shame 
 vutaŋkpulee,gate pillar
 vuu,to drag   Ba vuu la a kamaana boɔraa boŋyeni na.
 vũu,fire
-vũudindigili,   electricity 
-vũudindigili, electric light
+vũudindigili, 1  electricity  2  electric light
 vũudiraa,flame
 vũudirri,a stream of burning
 vũugyɛle,lightbulb
@@ -6529,25 +6115,23 @@ vũuvaale,a type of bird which hovers around bushes that are being burnt to catc
 vũuyɛlɛ,lightbulb
 vũuzeɛle,flying burnt particles from a fire e.g. grass
 vũuzele,flame
+Word,Definition
 Wa,name of the regional headquarters of the Upper West Region
 wa,to come
 wa,by the time  before the end of a given time   Te na wa tara ka zivɛlmɛ la. By the time we arrive
 waa,yam
-waa,   to be  
- A tomɔ waa la yaga., The work is plenty.  
- waa,  to resemble
+waa, 1  to be   A tomɔ waa la yaga. The work is plenty.  2  to resemble
 waabo,snake
 waale,to whisper
 waale,to parboil
 waale,to bruise slightly
 waaleŋ,a type of gunpowder  imported 
 waaleŋ,like a native of Wa
-waaloŋ,   nature
+waaloŋ, 1  nature
 Waaloo,native of Wa
-waane,   to dress tightly  pull trousers to navel level 
-waane,  to propel
+waane, 1  to dress tightly  pull trousers to navel level   2  to propel
 waare,be touched by  liquid
-waare,   to burn the cover  when you attempt to burn green grass
+waare, 1  to burn the cover  when you attempt to burn green grass
 waaroŋ,organised group hunting
 wadɛre,large yam tuber
 wae,nine
@@ -6558,19 +6142,18 @@ wagyɛ,blanket
 walaa,antelope
 walanse,radio
 wale,sweat
+Word,Definition
 walpelaa,a type of antelope
 walpieli,A type of big antelope
 walpieluu,A type of big antelope
 walsugo,group of deer
 walsunni,perspiration
-walwoɔ,   newcomer
-wanwɛ,to be gone forever  
-wanwɛ,to fail to return as expected   
-Ba toŋ la a bie ka o deɛ gaa te wanwɛ., When they sent the child
+walwoɔ, 1  newcomer
+wanwɛ,to be gone forever  to fail to return as expected   Ba toŋ la a bie ka o deɛ gaa te wanwɛ. When they sent the child
 waŋene,great one
 waŋmane,a hundred yams
 ware,coins  money
-ware,all gone  people on a journey
+ware,all gone  people on a journey    A teŋɛ dɔbɔ zaaŋ e weɛ
 warebiri,coins  money
 warema,brick
 wasaaloŋ,water yam
@@ -6579,17 +6162,14 @@ wasɔŋɔ,a basket of yam
 wasugo,see sugo  termites 
 waweɛlɛ,seed yam
 wazɪɛ,a type of brown snake
+Word,Definition
 we,expression of despair
 webe,exclamation of exhaustion
 wẽderɛ,leader
 weene,to begin to boil
-weɛ,   farm 
-weɛ,    wilderness
-weɛ,   to make a furrow trench e.g. for water to pass  
-weɛ,   cut open  usually part of the body in a bid to remove a foreign body or pus  
-weɛ,  to push growth aside e.g. in a search for something in a thick growth
-weɛ,to save   
-A kpogili la weɛ o ka lɛ naane o zu da na ŋmare la., He would have broken his head but he was saved by the crash helmet.
+weɛ, 1  farm  2  wilderness
+weɛ, 1  to make a furrow trench e.g. for water to pass  2  cut open  usually part of the body in a bid to remove a foreign body or pus  3  to push growth aside e.g. in a search for something in a thick growth
+weɛ,to save   A kpogili la weɛ o ka lɛ naane o zu da na ŋmare la. He would have broken his head but he was saved by the crash helmet.
 weɛ,not related to
 wẽɛ,in front
 wẽɛ,to be wild
@@ -6597,20 +6177,21 @@ weɛle,to branch out in lobes  yam seed
 weɛle,to miss out
 weɛle,twins
 weɛlɛ,mistletoe  a parasitic plant whose fruit is used to produce gum 
-weɛlɛ,   in vain
+weɛlɛ, 1  in vain
 weɛmɛ,wild
 weɛre,to search through e.g. brush
 wegere,to squeeze through e.g. through a thick crowd
 welaa,harbouring evil intentions
 wele,to rummage
 wele,to dismantle
+Word,Definition
 wele,to reduce in size e.g. obesity
 wele,a type of ornament for the arm
 welɛnwelɛŋ,vigorous
 welɛwelɛ,intermittent spackle
 weli,snail
 weliweli,clearly visible
-welle,   to scrutinize
+welle, 1  to scrutinize
 welli,to make very clear
 wenne,to go into the interior e.g. of bush or a crowd
 were-bare,to ignore
@@ -6618,37 +6199,32 @@ werekao,wound
 werewere,smartly
 werɛ,small species
 werɛ,mountain
-werɛ,in vain
+werɛ,in vain   O baloo na zaa kyɛ werɛ la
 werɛwerɛ,tiny things
 werɛwerɛ,coarse  flour 
 weri,valuable
 weroo,small in stature
-wɛ,   then  of cause    
-wɛ,   to go bad  
-wɛ,not strong or courageous  
+wɛ, 1  then  of cause    Ba nyɛ la a bonzuuri o dieŋ
+wɛ, 1  to go bad   Sugo kpɛ la a dɔɔ wasege
+wɛ,not strong or courageous   Nyɛ dɔɔ naŋ wɛ
 wɛbaa,fox
 wɛdoŋɔ,a nondomesticated animal
-wɛge,   to hatch  
-wɛge,  to multiply
+wɛge, 1  to hatch  2  to multiply
 wɛge,to remove with a pointed implement e.g. corn from the cob
 wɛgere,to force out
-wɛle,   to split or break into two
-wɛle,   to separate
+wɛle, 1  to split or break into two  2  to separate
 wɛnyuo,leopard
-wɛre,   to cut open  
-wɛre,   to operate  
-wɛre,  to split
+wɛre, 1  to cut open  2  to operate  3  to split
 wi,to carve  to engrave
 wĩeu,fast
 wigiri,to toss to turn over  grain in a basket 
 wiiruŋ,design
-willi,   to overturn to capsize 
+willi, 1  to overturn to capsize   A saseɛ da waa la kpeɛŋaa
 wire,gone far
 wiri,to turn inside out e.g. pocket
 wiri-buuli,bangles for a horse
 wiridaa,male horse
-wiriduoruŋ,   jaundice 
-wiriduoruŋ,  yellow fever
+wiriduoruŋ, 1  jaundice  2  yellow fever
 wiri-eɛraa,metal spur worn on the heel for prodding the horse
 wirigoɔ,a type of thorny plant
 wirikogi,horse saddle
@@ -6662,6 +6238,7 @@ wirizoore,a type of sickness
 wirizɔɔnɔ,horse rider
 wofẽɛ,a bag made from animal skin without hair
 wofeɛmaa,a bag made from animal skin without hair
+Word,Definition
 wofuoraa,a bag made from animal skin without hair
 Wogi,a town in the Upper West Region of Ghana
 wogi,long
@@ -6670,75 +6247,60 @@ wogiri,to steal cunningly
 wogiroŋ,large
 wogoko,intense  painful bite 
 wokpale,a traditional bag made from an animal skin whose hair has been removed
-wola,   how  interrogative pronoun    
-Wola ka te na e maale a pɔgebilii bayi bama yelbawontaa ŋa?, How are we going to settle the misunderstanding between the two girls?  
-wola,  why  
-Wola la ka fo la zeŋe zomm lɛ?, Why are you sitting so quietly? 
-wola,  what 
-O yeli ka wola?, What did she say?
+wola, 1  how  interrogative pronoun    Wola ka te na e maale a pɔgebilii bayi bama yelbawontaa ŋa? How are we going to settle the misunderstanding between the two girls?  2  why  interrogative pronoun    Wola la ka fo la zeŋe zomm lɛ? Why are you sitting so quietly?  3  what  interrogative pronoun    O yeli ka wola? What did s he say?
 wolaa,dangerous
 woli,leather rope worn on the waist
 wolle,to rattle
 wolle,to be mischievous -
 wolomboll,in disarray or confusion e.g. mob
 wolonwoloŋ,haphazard
-woloŋ,   disease  
-woloŋ, problem
+woloŋ, 1  disease  2  problem
 wolowolo,restive
 wolɔ,to deceive
 wonaa,that which pesters
 wontaa,understanding between people
-woŋi,   to hear 
-woŋi,   to refuse to listen or internalize what has been said  idiomatic usage 
-woŋi,"to become deaf, 
-woŋi,to suffer from deafness, 
-woŋi,to be deaf"
-woŋi,"to feel pain, 
-woŋi,to suffer"
+woŋi, 1  to hear  2  to refuse to listen or internalize what has been said  idiomatic usage 
+woŋi,"to become deaf, to suffer from deafness, to be deaf"
+woŋi,"to feel pain, to suffer"
+Word,Definition
 woŋi, of taste  to be of the correct quantity   Zenɛ
 woŋo,deaf person
 woo,water iguana
 woo,a cry of pity
 woore,suffering
 woɔ,bag
-woɔ,   to remove from the top of e.g. basket of grain 
+woɔ, 1  to remove from the top of e.g. basket of grain   A seŋkãã paale la a pelee zuo
 woɔle,to remove top matter  to skim e.g. yeast from pito
 wore,too much  excessive
 woroto,crashingly
 worɔworɔ,full of lumps
-woyaara,part of an animal-skin bag 
+woyaara,part of an animal-skin bag    woyaarɛɛ
 wɔge,to treat fresh skin in preparation for making a bag
 wɔge,to cause to suffer
 wɔgele,to physically suffer
 wɔgele,to be burnt by touching a hot object
 wɔgele,to treat beans  by soaking and drying 
 wɔgere,to shake e.g. objects in a tin
-wɔne,   small swelling  
-wɔne,  pimple
+wɔne, 1  small swelling  2  pimple
 wɔne,fruit
-wɔŋe,   to bear fruit 
-wɔŋe, to develop rashes
-wɔŋkampɔre,   a yamlike plant that bears fruit which is boiled and eaten 
-wɔŋkampɔre, the fruit of this plant
+wɔŋe, 1  to bear fruit  2  to develop rashes
+wɔŋkampɔre, 1  a yamlike plant that bears fruit which is boiled and eaten  2  the fruit of this plant
 wɔɔ,lame person
 wɔɔ,to provide  food for the kitchen 
-wɔɔ,   to pluck all the fruits from a tree 
-wɔɔ,  to destroy
+wɔɔ, 1  to pluck all the fruits from a tree  2  to destroy
 wɔɔ,to whip mercilessly  figurative 
 wɔɔ,to be lame
 wɔɔ,elephant
-wɔɔgbɛre,   elephantiasis
-wɔɔgbɛre, leg of an elephant  
-wɔɔgbɛre, difficult task  figurative 
+wɔɔgbɛre, 1  elephantiasis
+wɔɔgbɛre, 2  leg of an elephant  2  difficult task  figurative 
 wɔɔkye,watch
 wɔɔnu,trunk of an elephant
 wɔɔnyene,tusk of an elephant
-wɔɔreŋ,   lameness 
-wɔɔreŋ,   the act of limping
-wuli,   to show
+wɔɔreŋ, 1  lameness  2  the act of limping
+wuli, 1  to show
 wuliwuli,to rub over gently but fast
 wuliwullo,teacher  one who directs
-wuluu,   teaching
+wuluu, 1  teaching
 wuluu bonteɛre,teaching or learning materials
 wuluu yelsɛgreminni,lesson notes
 wuo,to gather
@@ -6748,10 +6310,9 @@ wuo,to be lame
 wuo,elephant
 wurimo,small
 wurowuro,not well cooked  underdone  round beans 
-wuu,   continuously  
-wuu,  having many instances
-wuuri,   to hoot  with laughter  
-wuuri,  to shout in excitement
+wuu, 1  continuously  2  having many instances
+wuuri, 1  to hoot  with laughter   2  to shout in excitement
+Word,Definition
 ya,to be mad
 ya,tomb
 ya,to take revenge
@@ -6763,67 +6324,55 @@ ya,a strap  usually fixed to something for carrying e.g. a bag
 yaale,to nurse  a baby 
 yaale,to swing a container in circles
 yaale,to get to hopelessness
-yaane,   greetings  
-yaane,  thanks
+yaane, 1  greeting s   2  thanks
 yaane,exhaustion
 yaantulimo,great-grandchild
 yaara,easily
-yaare,   to spill
+yaare, 1  to spill
 yaaroŋ,salt
 yãayiri,grandparent’s house
 yabapa,resoundingly e.g. noise of a large crowd
 Yaga,name of a town in the Dagaaba land
 yaga,"many, much, plenty"
-yage,   to dredge to enlarge or deepen  
-yage,   to increase in size e.g. a sore
-yage,  to take off e.g. a shirt 
-yage,  to take down from a hanging position e.g. a bag from a hook
+yage, 1  to dredge to enlarge or deepen  2  to increase in size e.g. a sore
+yage, 1  to take off e.g. a shirt  2  to take down from a hanging position e.g. a bag from a hook
 yage,to show signs of butter forming e.g. in the last stage in the preparation of shea butter
 yage,to remove objects from a container e.g. bag
 yage,to open one’s eyes widely  in a concentrated look 
 yagekɔɔlare,jawbone
 yagekɔɔre,cheek
-yagelaa,   a rope holder hung from the ceiling to hold objects  
-yagelaa,  a basket with calabashes that is hung on a yagelaa
+yagelaa, 1  a rope holder hung from the ceiling to hold objects  2  a basket with calabashes that is hung on a yagelaa
 yagele,to hang  up 
 yageraa,clay
 yagere,to separate stones from grain
 yagere,modelling clay
 yakpolo,graveyard
-yammo,   bile  
-yammo,  gallbladder
+yammo, 1  bile  2  gallbladder
 yan-yaa,insane person
 yanyaare,madness
 yaŋaa,grandchild
 yeebaa,a twin
-yeele,   to make neat  
-yeele,  to use water to extract or separate wanted things from unwanted ones
+yeele, 1  to make neat  2  to use water to extract or separate wanted things from unwanted ones
 yeele,extremely clean or beautiful
 yeere,twins  see yeebaa 
-yeɛle,   to winnow
+yeɛle, 1  to winnow
 yeɛre,to want attention
 yeɛre,underside of the jaw
 yelbaaloŋ,an issue under control
-yelbaboɔraa,   something that is sought
+yelbaboɔraa, 1  something that is sought
 yelbalaa,a particular issue
 yelbalee,a particular issue
 yelbanna,one who knows
 yelbaŋ,the act of knowing
 yelbaŋena,one who knows
 yelbeɛ,mysterious
-yelbieri,   evil thing 
-yelbieri,   sin
-yelbiri,   word  
-yelbiri,  something that is alluded to
+yelbieri, 1  evil thing  2  sin
+yelbiri, 1  word  2  something that is alluded to
 yelbitɔnnaa,conjunction
-yelboɔraa,   something that is wanted 
-yelboɔraa,   that which one likes 
-yelboɔraa, objective
+yelboɔraa, 1  something that is wanted  2  that which one likes  3  objective
 yelbuli,main point
 yeldaa,simple sentence
-yeldaaraa,   that which one likes
-yeldaaraa,  objective  
-yeldaaraa,  something negative that affects one but caused by one’s self
+yeldaaraa, 1  that which one likes  2  objective  3  something negative that affects one but caused by one’s self
 yeldeebo,acceptance
 yeldɛgere,unpleasant or dirty talk
 yel-eebo,behaviour
@@ -6837,37 +6386,30 @@ yelfogilo,useless talk
 yelfoli,obscene talk
 yelfuoni,imagery  literature 
 yelgalema,strange thing
-yelgbɔge,   incomplete talk  
-yelgbɔge,  grammatical clause
-yeli,  something of concern 
-yeli,  matter
+yelgbɔge, 1  incomplete talk  2  grammatical clause
+yeli, 1  something of concern  2  matter
 yeli,sentence
-yeli,   to speak
-yelkaama,   beautiful talk  
-yelkaama,   literature
+yeli, 1  to speak
+yelkaama, 1  beautiful talk  2  literature
 yelkãasɛgere,written literature
 yelkãayelli,oral literature
 yelkabeɛ,strange thing
 yelkpeɛŋaa,difficult thing
-yel-lige,   that which is unclear 
-yel-lige, mysterious thing
+yel-lige, 1  that which is unclear  2  mysterious thing
 yel-lige,hidden
 yelmaalaa,rite
 yelmaalaa,something that needs to be rectified
 yelmaaroŋ,peaceful talk
-yelmannaa,   comparison 
-yelmannaa, narrative
+yelmannaa, 1  comparison  2  narrative
 yelmanne,the act of narrating
 yelmeŋɛ,truth
 yelnimiri,main idea
-yelnoɔ,   interesting thing 
-yelnoɔ,  good news
+yelnoɔ, 1  interesting thing  2  good news
 yelnɔnaa,something that is liked
 yelpaala,new thing
 yelpɛgere,sayings that have no value
 yelsaana,strange or new thing
-yelsaana,   destroyer 
-yelsaana,   one who meddles in issues
+yelsaana, 1  destroyer  2  one who meddles in issues
 yelsaanaa,something that has gone wrong
 yelsoŋ,good deed
 yelsɔgelaa,mysterious thing
@@ -6882,9 +6424,8 @@ yeltuuraa,rite
 yeluu,saying
 yelwiiraa,poem
 yelwiiri,poetry
-yelwonaa,   that which is a challenge  problem  
-yelwonaa, something that is heard
-yelwono,   listener
+yelwonaa, 1  that which is a challenge  problem  2  something that is heard
+yelwono, 1  listener
 yelwontaa,compromise
 yelyelbaraa,statement  grammar 
 yelyeluu,issues that cause anger
@@ -6899,10 +6440,8 @@ yeŋe,outside
 yɛ,you  second person plural weak form 
 yɛ,to become exhausted
 yɛle,cockroach
-yɛle,   to multiply e.g. animals reproducing  
-yɛle,  to enlarge
-yɛlɛ,   an issue  
-yɛlɛ,   discussion
+yɛle, 1  to multiply e.g. animals reproducing  2  to enlarge
+yɛlɛ, 1  an issue  2  discussion
 yɛmbaŋ,cleverness
 yɛmbaŋena,one who has good sense
 yɛmbile,small intelligence
@@ -6916,14 +6455,13 @@ yɛnyɛŋ,near
 yeŋ,kindly e.g. in an appeal
 yeŋe,intelligent
 yeŋe,intelligence
-yɛre,   to wear
+yɛre, 1  to wear
 yɛre,to trade
-yɛre,   to spread out e.g. to dry  
-yɛre,  to hunt in a group
+yɛre, 1  to spread out e.g. to dry  2  to hunt in a group
 yɛre,wild  used with crops e.g. groundnuts
 yɛreyɛrɛ,trader
 yɛroŋ,trade
-yi,   to go out
+yi, 1  to go out
 yi,to be clean
 yi,to resemble
 yi,of land  become infertile
@@ -6933,6 +6471,7 @@ yidaana,house owner
 yidaandɔɔ,male head of a family  master of of compound
 yideme,family group  family members
 yĩe,to faint
+Word,Definition
 yieli,to sing
 yieluŋ,song  music
 yieme,slave
@@ -6940,9 +6479,8 @@ yieri,to extend
 yĩeu,spectacle
 yigileŋ,perched in a lonely manner
 yi kyeɛ,uninteresting
-yinni,   to forget 
-yinni,  collect farm yield left behind after the main harvest
-yiri,   house
+yinni, 1  to forget  2  collect farm yield left behind after the main harvest
+yiri, 1  house
 yivilime,round compound
 yobie,ill luck
 yofaa,a name that stigmatizes
@@ -6957,15 +6495,11 @@ yololo,very cold
 yoluŋ,cone-shaped cage
 yoluŋ,emptiness e.g. wearing a blouse or shirt without a singlet or a vest under it
 yombo,black hair dye
-yontaa,   wife in a polygamous marriage 
-yontaa,  relationship between wives in a polygamous marriage  
-yontaa,  enemy  figurative 
-yoŋ,  alone  
-yoŋ,   only
-yoo,   okay 
-yoo,  be informed
+yontaa, 1  wife in a polygamous marriage  2  relationship between wives in a polygamous marriage  3  enemy  figurative 
+yoŋ, 1  alone  2  only
+yoo, 1  okay  2  be informed
 yoɔ,to stop raining
-yoɔbo,   the act of roaming
+yoɔbo, 1  the act of roaming
 yoɔbo,the stoppage of rain
 yoɔbo,short form of six
 yoɔle,to escape slowly e.g. from a punctured tyre
@@ -6974,8 +6508,7 @@ yoɔne,a type of small
 Yoɔraa,a traditional name given to a child believed to be reincarnated
 yoɔraa,tourist
 yoɔre,penis
-yoɔre,   to cause to be exhausted or emotionless  
-yoɔre, to bother
+yoɔre, 1  to cause to be exhausted or emotionless  2  to bother
 yopõi,short form of ayoɔpõi  seven 
 yopɔgeraa,fishing pot
 yopɔgeraa,lid
@@ -6995,9 +6528,8 @@ yɔgere,to be loose
 yɔgevaa,pumpkin leaf
 yɔgevaare,leaves of pumpkin  used as vegetable 
 yɔgevaare-waabo,green mamba
-yɔgoo,   pumpkin 
-yɔgoo, the plant which bears the fruit
-yɔgoo,   a type of large
+yɔgoo, 1  pumpkin  2  the plant which bears the fruit
+yɔgoo, 1  a type of large
 yɔkɔɔloŋ,pubic hair of a male
 yɔle,to slip off as a result of being loose e.g. shorts
 yɔlpelaa,a type of tree with edible fruits
@@ -7013,9 +6545,7 @@ yɔɔpɔge,sister  used by males to address female siblings
 yɔɔpuulee,female sibling  usually less older  see kpɪɛ́ mɛ́	́
 yɔɔre,payment
 yɔre,to fall apart
-yɔre,   to become intense e.g. rainfall 
-yɔre,  to become widespread  disease   
-yɔre,  that which is plenty
+yɔre, 1  to become intense e.g. rainfall  2  to become widespread  disease   3  that which is plenty
 Yɔrebaa,Yoruba  an ethnic group found in Nigeria 
 yɔrebɔnɔ,loosely
 yɔrɔyɔrɔ,not firm
@@ -7030,24 +6560,21 @@ yuoni,the crop of a bird
 yuoni ŋa,this year
 yuoni-yuoni,annually
 yuori,jar
-yuori,   name 
-yuori, reputation 
-yuori,  namesake
+yuori, 1  name  2  reputation  3  namesake
 yuuli,to spread small amount on top of e.g. dry cement
+Word,Definition
 za,to throw
 za,to palpitate  of heart 
 zaa,all
 zãa,yesterday  short form of zaameŋ
 zãa,hazy
-zaale,   to move water around in a container by swinging the container around 
-zaale,   to commit suicide by hanging oneself
+zaale, 1  to move water around in a container by swinging the container around  2  to commit suicide by hanging oneself
 zaameŋ,yesterday
 zaayee,surprisingly
 zabage,foe
 zaboraa,person under review
 zabɔge,foe
-zaga,   animal or poultry pen  
-zaga,    mortuary
+zaga, 1  animal or poultry pen  2  mortuary
 zage,head cold
 zage,to be worn out
 zage,enclosure for animals
@@ -7058,16 +6585,14 @@ zagepɛmpɛlɛŋ,spleen
 zagere,to refuse
 zagezage,to harass
 zalball,airborne
-zalle,   to swing  
-zalle,   to commit suicide by hanging oneself
+zalle, 1  to swing  2  to commit suicide by hanging oneself
 zamaa,confused
 zamasoba,one that is homeless
 zambaa,a type of small striped bush mouse
 zambadaa,stilt
 zambateraa,a type of striped mouse
 zambayɛlɛ,lying in a manner with face up
-zambɛre,   a blacksmith’s shop  
-zambɛre,  god of the forge
+zambɛre, 1  a blacksmith’s shop  2  god of the forge
 Zambɔ,name of a village near Lawra in the Upper West Region of Ghana
 zamm,huge but light
 zammo,onion
@@ -7091,8 +6616,7 @@ zanzantokele,a type of bat
 zanzanzeɛ,a type of reddish-brown bat
 zanzaŋ,intensely e.g. heat
 zanzaŋaa,bat
-zanzaŋaa,a type of shellfish similar to a clam  
-zanzaŋaa, the shell of this shelfish
+zanzaŋaa,a type of shellfish similar to a clam  2  the shell of this shelfish
 zanzaŋkpara,the act of jumping up and down in hysteria
 zanzunmuli,a type of tree with medicinal properties
 zaŋaa,shell
@@ -7121,8 +6645,7 @@ Zeɛmɛ,name traditionally given to the firstborn of twins  male
 Zẽɛpɔge,name traditionally given to the firstborn of twins  female 
 zeɛraa,sieve
 zeɛraa,hawk
-zeɛre,   sauce 
-zeɛre,  soup
+zeɛre, 1  sauce  2  soup
 zeɛre,to hate
 zeɛre,to trot
 zeɛre,to be in haste
@@ -7130,8 +6653,7 @@ zege,to grow to maturity and full strength
 zegere,to shrug  raise one’s shoulders
 zegere,to grow to maturity
 zegezege,to be impatient
-zegɛ,   area behind and between the shoulders 
-zegɛ,  hump  of a cow 
+zegɛ, 1  area behind and between the shoulders  2  hump  of a cow 
 zegitege,not moving at all
 zele,tongue
 zelegannoɔre,a type small bird with blue feathers and a long beak that is fond of flowers
@@ -7143,9 +6665,8 @@ zemberemɛ,a type of tree whose fruit gives red juice
 Zempɛnne,name of a village
 zenɛ,today
 zenɛbie,nowadays
-zenzie,   sitting place  
-zenzie,  settlement
-zeŋe,   to sit
+zenzie, 1  sitting place  2  settlement
+zeŋe, 1  to sit
 zeŋgbiri,sleeping sickness
 zɛ,to smear
 zɛ,to sift
@@ -7153,29 +6674,22 @@ zɛ,to hate
 zɛdambo,unseasoned soup
 zɛdogelee,earthenware cooking pot for soup
 zɛɛ,sticking onto all over e.g. fruits on a tree
-zɛge,   to raise
+zɛge, 1  to raise
 zɛgelɛkɛlɛ,not missing out
-zɛgere,   to shake  hands  
-zɛgere,  to shake in the hand to weigh
-zɛgeroŋ,   something that has worth 
-zɛgeroŋ,   something that has scent
+zɛgere, 1  to shake  hands   2  to shake in the hand to weigh
+zɛgeroŋ, 1  something that has worth  2  something that has scent
 zɛkõɔ,soup that is not thick  broth-like
-zɛle,   to apply poison  to be filled with venom  
-zɛle, to be furious  
-zɛle,  to be bitter 
+zɛle, 1  to apply poison  to be filled with venom  2  to be furious  3  to be bitter  taste 
 zɛle,to lift
 zɛle,to beg  Northern Dagaare dialect 
 zɛlezɛle,to move a heavy load with difficulty
 zɛlɛŋkpɛ,hanging loosely
-zɛlle,   to swing  
-zɛlle,  to commit suicide by hanging oneself
-zɛmbɛre,   a blacksmith’s shop 
-zɛmbɛre,  god of the forge
+zɛlle, 1  to swing  2  to commit suicide by hanging oneself
+zɛmbɛre, 1  a blacksmith’s shop  2  god of the forge
 zɛmɛzɛmɛ,long and flexible e.g. cane
 zɛmiime,sour sauce
 zɛmm,quietly
-zɛnzɛŋ,   to be impatient  
-zɛnzɛŋ,   to be eager
+zɛnzɛŋ, 1  to be impatient  2  to be eager
 zɛnzɛŋ,impatience
 zɛŋ,to lift
 zɛŋe,to shake e.g. tree
@@ -7194,8 +6708,7 @@ zie,weather
 zie,time
 ziezaa,everywhere
 zigi,python
-zigi,   to grow in size 
-zigi,   to grow more leaves  yam vine 
+zigi, 1  to grow in size  2  to grow more leaves  yam vine 
 zigiree,gravel
 zigizukpara,a monster  in the form of a two-headed python
 zigoo,showing no concern for others
@@ -7221,14 +6734,12 @@ zirii,a lie or lies
 ziriŋ,lies
 ziriŋmaara,liar
 ziriŋma,the act of lying
-zisɔgelaa,   dark place  
-zisɔgelaa, hiding place
+zisɔgelaa, 1  dark place  2  hiding place
 zitɔɔre,distant place
 zivelaa,good place
 zivɛlemɛ,dawn
 ziyuo,modernization
-zo,   to run 
-zo,  to run away
+zo, 1  to run  2  to run away
 zoge,to thicken
 zogele,to develop large rashes
 zogelɔŋ,thick and attached to
@@ -7272,10 +6783,8 @@ zõɔ,rust  typically used with le
 zoɔle,to wither
 zori,to hold the hand in anticipation for food
 zorre,shudder
-zo vi,   to be shy  
-zo vi, to be ashamed
-zɔ,   father  
-zɔ,  friend  between males 
+zo vi, 1  to be shy  2  to be ashamed
+zɔ, 1  father  2  friend  between males 
 zɔba,the act of pestering
 zɔbɔ,the act of pestering
 zɔla,a type of guinea corn
@@ -7288,12 +6797,10 @@ zɔnnoŋ,blindness
 zɔnzɔrema,cobweb
 zɔnzɔremɔ,cobweb
 zɔŋa,blind person
-zɔŋe,   flour  
-zɔŋe, pulp
+zɔŋe, 1  flour  2  pulp
 zɔŋe,to be blind
 zɔŋe,blind person
-zɔŋkõɔ,   food for workers at work 
-zɔŋkõɔ,  water mixed with flour
+zɔŋkõɔ, 1  food for workers at work  2  water mixed with flour
 zɔŋkɔŋ-ɔnnɔ,one who cooks workers’ food
 zɔŋɔ,blind person
 zɔɔ,ambush
@@ -7302,6 +6809,9 @@ zɔɔ,to fight
 zɔ̃ɔ,to ride
 zɔɔ-bɔ,the act of irritating others
 zɔɔre,shudder
+zo vi,to be shy  2  to be ashamed
+zɔ,father  2  friend  between males 
+zɔba,the act of pestering
 zɔbɔ,the act of pestering
 zɔla,a type of guinea corn
 zɔle,fool
@@ -7313,11 +6823,9 @@ zɔnnoŋ,blindness
 zɔnzɔrema,cobweb
 zɔnzɔremɔ,cobweb
 zɔŋa,blind person
-zɔŋe,flour  
-zɔŋe, pulp
+zɔŋe,flour  2  pulp
 zɔŋe,blind person
-zɔŋkõɔ,food for workers at work 
-zɔŋkõɔ,water mixed with flour
+zɔŋkõɔ,food for workers at work  2  water mixed with flour
 zɔŋkɔŋ-ɔnnɔ,one who cooks workers’ food
 zɔŋɔ,blind person
 zɔɔ,ambush
@@ -7329,8 +6837,7 @@ zɔzɔ,reduced to minimal  rainfall
 zu,head
 zu,to steal
 zu,on top of
-zubɛroŋ,strong and dangerous animal 
-zubɛroŋ, leader  often political 
+zubɛroŋ,strong and dangerous animal  2  leader  often political 
 zubie,misfortune
 zudaa,backbone  that which one relies on
 zufaa,ill fate
@@ -7340,11 +6847,8 @@ zugilaa,bellows
 zugiri,to shake in order to know whether there something inside e.g. closed tin
 zugizaga,huge and heavy e.g. mallet
 zugi zugi,moving through in numbers e.g. spectators
-zugboli,a shaven head 
-zugboli, a head that is carrying something without a pad
-zuiŋ,"because,
-zuiŋ, as a result  
-zuiŋ, so"
+zugboli,a shaven head  2  a head that is carrying something without a pad
+zuiŋ,"because, as a result  2  so"
 zukoɔre,skull
 zukɔgeraa,pillow
 zukɔɔloŋ,hair
@@ -7352,14 +6856,13 @@ zukuri,back  body
 zukpala,bald head
 zukpeɛne,hardheadedness
 zukpeɛŋaa,hardheaded
-zukpoli,   a shaven head 
-zukpoli,  a head that is carrying something without a pad
+zukpoli, 1  a shaven head  2  a head that is carrying something without a pad
 zukyuu,ritual hair
 zulee,large at one end
 zuleɛrɛ,successor
-zuli,   to be unbalanced
+zuli, 1  to be unbalanced
 zulibala,disproportionately big
-zulimo,   uneven
+zulimo, 1  uneven
 zuluŋ,deep
 zuluŋ,army ant
 zu-maala,hairdresser
@@ -7371,17 +6874,14 @@ zuŋmaara,executioner
 zuŋmane,skull
 zuŋmanekoɔ,suffering
 zuŋmane kõɔ,great suffering  typically used with nyu 
-zuo,   to be more than  
-zuo, to be too much  
-zuo, to pass someone by
+zuo, 1  to be more than  2  to be too much  3  to pass someone by
 zu-ɔɔ,the condition of having a headache
 zupili,hat
 zupiltobo,a hat that covers the ears
 zupoli,sinciput  the front of the skull 
 zu-pono,barber
 zu pozu,to gossip
-zusãa,  immorality 
-zusãa,  the practice of vice
+zusãa, 1  immorality  2  the practice of vice
 zusaana,one who preaches vice
 zusaanaa,the act of engaging in evil practices
 zusoga,above
@@ -7439,6 +6939,7 @@ Zimanee gogori anuu saŋ,The eleventh hour
 "Tuo dagara","A cross you have to bear"
 "Kaara lɛ nensaala naŋ waa kyɛ dire o sarɛɛ","Don’t judge by appearances"
 "A soba na naŋ ba taa yelbieri zaa a yɛ poɔ, yɛ vɛŋ ka o de weɛ de kuurii za","Cast the first stone"
+Dagaare,Translation
 "Yɔ-ŋmaabo e la sukyiri bone","Circumcision of the heart"
 "De fo nyɔvore ko","Risk your neck"
 "A nimiri zaŋbo poɔ","Twinkling of an eye"
@@ -7472,6 +6973,7 @@ Zimanee gogori anuu saŋ,The eleventh hour
 "Balaŋ naŋ voɔ a soɔ na bɔrewɛ la a soɔ eŋɛ","He who lives by the sword dies by the sword."
 "A kuuri na mɛmeɛrebɛ naŋ zagre, waa la a goŋgonaazukuuri","The stone which the builders rejected, the same became the head of the corner."
 "Kyɛ a sobiri naŋ gɛrɛ a Nyɔvore zie ne a be dendɔre e la bile.","Straight and narrow."
+"Dagaare","Translation"
 "Neɛ ba maŋ de pɛmpaala a liiri ne kparekora.","No man seweth a piece of new cloth on an old garment."
 "Samaria Dɔɔvelaa  Nensoŋ bie ","Good Samaritan"
 "Voore O vooroŋ pare baara.","He gave up the ghost"
@@ -7490,10 +6992,12 @@ Zimanee gogori anuu saŋ,The eleventh hour
 "Bon na neɛ naŋ bore, onɔ la ka o meŋ na kyɛ  Neɛ zaa waseɛroŋ maŋ o nuore .","Whatever a man soweth, that shall he also reap."
 "Bonso libie nɔmmo la a yelfaa eroŋ yaga piilu zie.","The love of money is the root of all evil."
 "Kŏɔnoɔ ane kŏɔtuo na tŏɔ bullo yire la ziyenaa bee? N yɔɔ mine, kaŋkaŋteɛ natŏɔ wɔŋ la ɔlevewɔmɔ bee? Ora na tŏɔ wɔŋ la kaŋkama?","Does a fountain send forth at the same place sweet water and bitter…Can a fig tree bear olive berries?"
+"Dagaare","Translation"
 "Bille mɛmɛrɛ poɔ","Wallowing in the mire."
 "Tuori","God speed"
 "Ba waa maaroŋ bee toloŋ","Lukewarm"
 "Poore bare","Spew out"
+"Dagaare","Translation"
 "Bónè","Thing"
 "lááné","worthless"
 "Bón-lááné","A worthless thing"
@@ -7554,6 +7058,7 @@ Zimanee gogori anuu saŋ,The eleventh hour
 "Báá","Dog"
 "zèlé","tongue"
 "Bà-zèlé","The tongue of a dog"
+"Dagaare","Translation"
 "Bèbírì","Day"
 "tɔ̀ɔ̀ré","far"
 "Bèbí-tɔ̀ɔ̀ré","A distant date"
@@ -7628,6 +7133,7 @@ Zimanee gogori anuu saŋ,The eleventh hour
 "Néɛ̀","Person"
 "fàà","bad"
 "Nén-fàà","A bad person"
+"Dagaare","Translation"
 "Néɛ̀","Person"
 "lááné","worthless"
 "Nén-lááné","a worthless person"
@@ -7703,6 +7209,7 @@ Zimanee gogori anuu saŋ,The eleventh hour
 "nááb↓ó","cow"
 "léé","small"
 "Náá-léé","Calf"
+"Dagaare","Translation"
 "nɛ́nè","meat"
 "káráá","raw"
 "nɛ́nkáráá","Raw meat"
@@ -7778,6 +7285,7 @@ Zimanee gogori anuu saŋ,The eleventh hour
 "gɔ̂-tèɛ́","A tree with thorns"
 "Gán-bɔ́gnɔ́","Literate"
 "kɔ̀n-nóɔ́rè","Coastline, beach"
+"dagaare","translation"
 "Màléfà","Gun"
 "nã̀ã́","Chief"
 "Nímírì","Eye"
@@ -7817,6 +7325,7 @@ Zimanee gogori anuu saŋ,The eleventh hour
 "Nú-kúóngáá","Dry hand"
 "Sàkú-bìé","Student"
 "Zú-pílí","Hat  change in tone "
+"dagaare","translation"
 "Màléfà","Gun"
 "bírì","seed"
 "Màléfà-bírì","Bullet"
@@ -7919,6 +7428,7 @@ Zimanee gogori anuu saŋ,The eleventh hour
 "Lìbírì","money"
 "bùgó","granary"
 "Lìbí-bùgó","A money safe"
+dagaare,translation
 Lìbírì,money
 dááná,owner
 Lìbí-dááná,A rich person
@@ -7948,6 +7458,7 @@ nààsààl-téngɛ́,abroad
 Nàà,Chief
 yírì,house
 Nàà-yírì,palace
+dagaare,translation
 zàgé,pen
 Náá-zàgé,Cattle pen
 Nã̀ã́,chief
@@ -7977,6 +7488,7 @@ Ngmáré-bírì,star
 póɔ́,stomach
 yíráá,removal
 pò-yíráá,miscarriage
+dagaare,translation
 pɔ́gé,woman
 dɛ́rɛ́,One who takes
 pɔ̀gè-dérɛ́,Bride-groom
@@ -8025,6 +7537,7 @@ Wìrì-kógí,Horse saddle
 Wìrí,horse
 zóóré,tail
 Wìrì-zóóré,Horsetail
+dagaare,translation
 Bóndìríì,Food
 sã̀ã̀,waste
 Bóndì-sã̀ã̀,Food wastage
@@ -8061,6 +7574,7 @@ sán-yɔ́ɔ,salary
 "N gέrέ lá ká ń kpáárè kpòló","No, I will return tomorrow"
 "N mèǹg gέrέ lá kóláá","Safe journey"
 "Fò ngménáá","Thank you"
+"dagaare","translation"
 "Fò zìmááné","Good evening"
 "Zì̀é máángέέ","Good evening"
 "Yéng lá ká fó yí wààná?","Where are you coming from?"
@@ -8073,6 +7587,7 @@ sán-yɔ́ɔ,salary
 "Tόὸ, bárká, kyέ Ǹ kòng kͻ̀ͻ̀ré. Tέέè léé kàngá lá ká N gὲrέká Ñ tè è","O.k. thanks, I will not keep long. I am only going to sit for a ‘small exam’  In some cases Dagaaba play down on the exigency of the situation "
 "Ngméǹ nà sóng","May God bless  Good luck "
 "Tόὸ, púóràá bé bè lá.","O.k. thanks."
+"Dagaare","English"
 "Dɛ̀rpɔ́gé, ká yɛ̀ wólóngwólóng wɛ́?","How is the difficult moment?"
 "wólóngwólóng lá, kà yɛ̀ mèng béɛ́róó?","It is indeed difficult, and follow-up?"
 "À béé sóng. Kyɛ́ ká fò nyɔ́gé fó mèngɛ́  à wáá túó kyɛ́ tè bá sò á fángá.","It is fine. But pull yourself together  it is bitter but it is beyond us."

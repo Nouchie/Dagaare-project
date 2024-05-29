@@ -11,7 +11,7 @@ paths = ["dagaare_dict.txt"]
 if TRAIN_BASE:
     tokenizer = ByteLevelBPETokenizer()
 
-    tokenizer.train(files=paths, vocab_size=52_000, min_frequency=2, special_tokens=["<s>", "<pad>", "</s>", "<unk>", "<mask>"])
+    tokenizer.train(files=paths, vocab_size=52_000, min_frequency=2, special_tokens=["<s>", "<pad>", "< s>", "<unk>", "<mask>"])
 
     tokenizer.save_model("tokenizer")
 
@@ -22,7 +22,7 @@ tokenizer = GPT2Tokenizer.from_pretrained('tokenizer')
 
 # Add special tokens without splitting them during tokenization
 tokenizer.add_special_tokens({
-    "eos_token": "</s>",
+    "eos_token": "< s>",
     "bos_token": "<s>",
     "unk_token": "<unk>",
     "pad_token": "<pad>",
